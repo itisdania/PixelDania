@@ -1,0 +1,26 @@
+body {
+  background-color: #00234b;
+}
+
+h1 {text-align: center;}
+
+p{
+  text-align: center;
+  
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
