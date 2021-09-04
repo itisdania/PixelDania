@@ -15,10 +15,6 @@ img {
   margin-right: auto;
   width: 50%;
 }
-.resize {
-    width: 400px;
-    height: auto;
-}
 
 .resize {
     width: 300px;
