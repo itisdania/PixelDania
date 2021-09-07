@@ -12,9 +12,9 @@ img {
 }
 
 .resize {
-    width: 400px;
-    height: auto;
-}
+    width: 350px;
+    height: auto;   
+              }
 
 .resize2 {
     width: 280px;
@@ -30,6 +30,7 @@ img {
         right: 0px;
         width: 170px;
         height: auto;
+      
     }
 </style>
 
@@ -69,8 +70,14 @@ img {
         position: absolute;
       
         top: -400px;
-        right: 500px;
+        right: 300px;
         width: 300px;
         height: auto;
     }
 </style>
+
+<div style="position:relative; height:60px;">
+<img src="https://i.ibb.co/NVZh3Sw/mmm.png"
+   style="position:absolute; top:60px; left:40px; width:auto; height:150px; border:none;"
+   
+</div>
