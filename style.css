@@ -32,9 +32,9 @@ img {
         height: auto;
       
     }
-</style>
 
-<style>
+
+
     #content2 {
         position: relative;
     }
@@ -46,23 +46,6 @@ img {
         width: 400px;
         height: auto;
     }
-</style>
-
-<style>
-    #content3 {
-        position: relative;
-    }
-    #content3 img {
-        position: absolute;
-      
-        top: -350px;
-        right: 1300px;
-        width: 350px;
-        height: auto;
-    }
-</style>
-
-<style>
     #content4 {
         position: relative;
     }
