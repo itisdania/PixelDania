@@ -1,18 +1,8 @@
-body {
-  background-color: #00234b;}
-
 h1 {
 
   text-align: center;
- 
 }
 
-#left{
-  float: left;
-}
-#right{
-  float: right;
-}
 
 img {
   
@@ -21,9 +11,11 @@ img {
   margin-right: auto;
 }
 
+
+
 .resonsive{
   width:100%
-  max-width: 300px;
+  max-width: 400x;
   height: auto;
 }
 
@@ -42,26 +34,4 @@ img {
       
     }
 
-    #content2 {
-        position: relative;
-    }
-    #content2 img {
-        position: absolute;
-      
-        top: -60%;
-        right: 40px;
-        
-    }
-    #content4 {
-        position: relative;
-    }
-    #content4 img {
-        position: absolute;
-      
-        top: -350px;
-        right: 300px;
-        
-    }
-</style>
-
-
+  
