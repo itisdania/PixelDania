@@ -1,3 +1,4 @@
+background-color: #00234b;
 h1 {
 
   text-align: center;
@@ -19,19 +20,28 @@ img {
   height: auto;
 }
 
-
-<style>
-    #content {
-        position: relative;
-    }
-    #content img {
-        position: absolute;
-        top: 0;
-        right: 0px;
-        width:100%
-        max-width: 170px;
-        height: auto;
-      
-    }
-
+@media screen and (max-width: 600px)
+{
+  body{ 
+ background-image:      url('https://i.ibb.co/nk7qm10/Red-Color.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 600px;
+ justify-contennt:flex-start;
+ align-items: flex-end;
+  }
   
+}
+
+@media screen and (min-width: 601px) and (max-width: 1200px) {
+  body { 
+ background-image:      url('https://i.ibb.co/9c1D3B9/HOME.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 600px;
+ justify-contennt:flex-start;
+ align-items: flex-end;
+  }
+}
+
+
