@@ -1,0 +1,58 @@
+* {
+  margin: 0; 
+  padding: 0;
+  background-color: #00234b;
+}
+ 
+.center {
+	height: 400px;
+	width: 100%;
+	display: flex;
+  background-color: #00234b;
+	justify-content: center;
+	align-items: center;
+}
+span {
+	font-family: Arial;
+	font-size: 25px;
+  color: white;
+	&.type{
+		margin:0 auto;
+		width:200px;
+		margin-top:100px;
+			&::after {
+		content: '|';
+		display: inline;
+		animation: blink 0.7s infinite;
+	}
+}
+}
+
+/*Removes cursor that comes with typed.js*/
+.typed-cursor{
+   opacity: 0;
+	display: none;
+}
+/*Custom cursor animation*/
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+// .btns {
+// 	display: block;
+// 	width: 400px;
+// 	margin: 0;
+// 	padding: 30px 0 0 30px;
+// }
