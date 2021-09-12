@@ -4,7 +4,7 @@ h1 {
 }
 
 .bg{
-   background-image: url('https://i.ibb.co/9c1D3B9/HOME.png');
+   background-image: url('https://i.ibb.co/PGkzd3Q/HOME.png');
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -22,7 +22,7 @@ img {
 }
 
 .responsive{
-  width:400px;
+  width:350px;
   height: auto;
 }
 
@@ -44,7 +44,8 @@ img {
   .responsive{
   width:280px;
   height: auto;
-} 
+}
+  
 }
 
 @media screen and (min-width: 601px) and (max-width: 1200px) {
