@@ -13,10 +13,13 @@
 
 }
 p {
-	font-family: Arial;
-	font-size: 25px;
+	font-family: 'Pixeboy', sans-serif;
+  font-smooth: never;
+	font-size: 35px;
   color: white;
   position: fixed;
+  max-width:45%;
+  max-height:45%;
   top: 30%;
   left: 45%;
 }
@@ -29,7 +32,10 @@ p {
   margin-left: auto;
   margin-right: auto;
   position: fixed;
-  top: 43%;
-  left: 35%;
+  position:absolute;
+  max-width:45%;
+  max-height:45%;
+  top:50%;
+  left:36%;
  
 }
