@@ -1,0 +1,19 @@
+* {
+  margin: 0; 
+  padding: 0;
+  background-color: #00234b;
+}
+
+.center {
+	height: 400px;
+	width: 100%;
+	display: flex;
+  background-color: #00234b;
+	justify-content: center;
+	align-items: center;
+}
+span {
+	font-family: Arial;
+	font-size: 25px;
+  color: white;
+}
