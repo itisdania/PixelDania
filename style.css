@@ -15,10 +15,10 @@
 p {
 	font-family: 'Pixeboy', sans-serif;
   font-smooth: never;
-	font-size: 35px;
+	font-size: 45px;
   color: white;
   position: fixed;
-  text-align: center;
+  left:49%;
   top: 30%;
   
 }
