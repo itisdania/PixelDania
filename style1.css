@@ -5,3 +5,15 @@
   height: 100vh; 
   overflow: hidden;
 }
+
+img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html, body {
+  margin: 0; 
+  padding: 0;
+}
