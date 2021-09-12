@@ -1,3 +1,4 @@
+
 h1 {
 
   text-align: center;
@@ -7,8 +8,9 @@ h1 {
    background-image: url('https://i.ibb.co/PGkzd3Q/HOME.png');
   background-repeat: no-repeat;
   background-size: cover;
-  height: auto; 
-  
+  height: 100vh; 
+  overflow: hidden;
+
 }
 img {
   
@@ -36,6 +38,7 @@ img {
    height: 100vh; 
    background-position: bottom;
    overflow: hidden;
+  
     
   }
   .responsive1{
@@ -56,6 +59,10 @@ img {
  background-size: cover;
   }
 }
+
+
+
+
 
 <style>
     #content {
