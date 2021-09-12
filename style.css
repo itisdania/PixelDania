@@ -5,15 +5,31 @@
 }
 
 .center {
-	height: 400px;
-	width: 100%;
+	width: 200;
+  height: auto;
 	display: flex;
   background-color: #00234b;
 	justify-content: center;
-	align-items: center;
+
 }
-span {
+p {
 	font-family: Arial;
 	font-size: 25px;
   color: white;
+  position: fixed;
+  top: 30%;
+  left: 45%;
+}
+
+.resize{
+  width:400px;
+  height: auto;
+	align-items: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 43%;
+  left: 35%;
+ 
 }
