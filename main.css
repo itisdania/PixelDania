@@ -22,12 +22,12 @@ img {
 }
 
 .responsive1{
-  width:800px;
+  width:720px;
   height: auto;
 }
 
 .responsive{
-  width:350px;
+  width:252pxpx;
   height: auto;
 }
 
@@ -44,11 +44,11 @@ img {
     
   }
   .responsive1{
-  width:360px;
+  width:400px;
   height: auto;
 }
   .responsive{
-  width:252px;
+  width:280px;
   height: auto;
 }
   
