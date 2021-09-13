@@ -59,6 +59,14 @@ img {
  background-image:      url('https://i.ibb.co/10hDtBh/1200px-Black-from-a-camera.jpg');
  background-repeat: no-repeat;
  background-size: cover;
+     .responsive1{
+  width:650px;
+  height: auto;
+}
+  .responsive{
+  width:265px;
+  height: auto;
+}
   }
 }
 
