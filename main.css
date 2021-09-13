@@ -22,12 +22,12 @@ img {
 }
 
 .responsive1{
-  width:720px;
+  width:800px;
   height: auto;
 }
 
 .responsive{
-  width:290px;
+  width:350px;
   height: auto;
 }
 
@@ -39,11 +39,10 @@ img {
    background-repeat: no-repeat;
    height: 100vh; 
    background-position: bottom;
-   overflow: hidden;
-  
-    
+   overflow: hidden;   
   }
-  .responsive1{
+  
+ .responsive1{
   width:480px;
   height: auto;
 }
@@ -52,14 +51,16 @@ img {
   height: auto;
 }
   
+  
 }
 
-@media screen and (min-width: 601px) and (max-width: 1200px) {
+@media screen and (min-width: 601px) and (max-width: 800px) {
  .bg {
- background-image:      url('https://i.ibb.co/10hDtBh/1200px-Black-from-a-camera.jpg');
+ background-image:      url('https://i.ibb.co/LSJzktG/Web-1280-2.png');
  background-repeat: no-repeat;
-   background-size: cover; }
-     .responsive1{
+ background-size: cover;
+  }
+  .responsive1{
   width:600px;
   height: auto;
 }
@@ -67,7 +68,39 @@ img {
   width:265px;
   height: auto;
 }
-  
+} 
+
+
+@media screen and (min-width: 801px) and (max-width: 1000px) {
+ .bg {
+ background-image:      url('https://i.ibb.co/QpPkCdd/Web-1280-2.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+  }
+  .responsive1{
+  width:600px;
+  height: auto;
+}
+  .responsive{
+  width:265px;
+  height: auto;
+}
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1200px) {
+ .bg {
+ background-image:      url('https://i.ibb.co/7CMNpmr/Web-1280-2.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+  }
+  .responsive1{
+  width:700px;
+  height: auto;
+}
+  .responsive{
+  width:300px;
+  height: auto;
+}
 }
 
 
