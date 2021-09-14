@@ -26,7 +26,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   left:40%;
   top: 30%;
   animation: 
-    typing 0.70s steps(6, end),
+    typing 2.0s steps(2, end),
     blink-caret .5s step-end infinite;
 	
 }
