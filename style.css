@@ -18,7 +18,7 @@
   border-right: .15em solid red; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .7em;
+  letter-spacing: .1em;
   font-smooth: never;
   font-size: 45px;
   color: white;
