@@ -13,15 +13,23 @@
 }
 .typewriter p {
   color: #fff;
-  font-family: monospace;
+  font-family: 'Glory', sans-serif;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid red; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .10em; /* Adjust as needed */
+  letter-spacing: .7em;
+  font-family:'Glory', sans-serif;
+  font-smooth: never;
+  font-size: 45px;
+  color: white;
+  position: fixed;
+  left:40%;
+  top: 30%;
   animation: 
-    typing 3.5s steps(10, end),
+    typing 3.5s steps(6, end),
     blink-caret .5s step-end infinite;
+	
 }
 
 /* The typing effect */
@@ -35,16 +43,7 @@
   from, to { border-color: transparent }
   50% { border-color: red }
 }
-p {
-	font-family:'Glory', sans-serif;
-  font-smooth: never;
-	font-size: 45px;
-  color: white;
-  position: fixed;
-  left:44%;
-  top: 30%;
-  
-}
+
 .resize{
   width:400px;
   height: auto;
