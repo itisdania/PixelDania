@@ -15,8 +15,7 @@
 }
 .typewriter p {
   color: #fff;
-                                                                      font-family: 'SF Pixelate', sans-serif;
-                                                                    font-family: 'SF Pixelate Shaded', sans-serif;
+font-family: 'SF Pixelate', sans-serif;
                                                 
                                                 
   overflow: hidden; /* Ensures the content is not revealed until the animation */
