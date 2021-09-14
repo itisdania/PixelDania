@@ -16,8 +16,8 @@
 
 @font-face {
   font-family: danifont;
-  src: url(slkscr-webfont.woff);
-  font-weight: bold;
+  src: url(ARCADE.woff);
+  
 }
 
 .typewriter p {
