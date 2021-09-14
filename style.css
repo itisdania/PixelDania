@@ -1,10 +1,8 @@
-
 * {
   margin: 0; 
   padding: 0;
   background-color: #00234b;
 }
-
 .center {
 	width: 200;
   height: auto;
@@ -12,20 +10,18 @@
   background-color: #00234b;
 	justify-content: center;
 
-
+}
 .typewriter p {
   color: #fff;
-  font-family: arial;
-                    
-                                                
- overflow: hidden; /* Ensures the content is not revealed until the animation */
- border-right: .15em solid orange; /* The typwriter cursor */
- white-space: nowrap; /* Keeps the content on a single line */
- margin: 0 auto; /* Gives that scrolling effect as the typing happens */
- letter-spacing: .15em; /* Adjust as needed */
- animation: 
- typing 3.5s steps(30, end),
-  blink-caret .5s step-end infinite;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
 }
 
 /* The typing effect */
@@ -49,7 +45,6 @@ p {
   top: 30%;
   
 }
-
 .resize{
   width:400px;
   height: auto;
