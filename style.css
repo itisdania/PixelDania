@@ -15,7 +15,8 @@
 }
 .typewriter p {
   color: #fff;
-  font-family: monospace;
+  font-family: 'Pixel-Art', sans-serif;
+                                                
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
