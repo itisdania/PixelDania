@@ -12,16 +12,17 @@
   background-color: #00234b;
 	justify-content: center;
 
-}
 
-<style>
-                            @import url('http://fonts.cdnfonts.com/css/amiga-forever');
-</style>
-                
+@font-face {
+  font-family: danifont;
+  src: url(ARCADE.woff);
+
+}
 
 .typewriter p {
   color: #fff;
-font-family: 'Amiga Forever', sans-serif;                      
+font-family: danifont;
+                    
                                                 
  overflow: hidden; /* Ensures the content is not revealed until the animation */
  border-right: .15em solid orange; /* The typwriter cursor */
