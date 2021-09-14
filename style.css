@@ -15,7 +15,9 @@
 }
 .typewriter p {
   color: #fff;
-  font-family: 'Pixel-Art', sans-serif;
+                                                                      font-family: 'SF Pixelate', sans-serif;
+                                                                    font-family: 'SF Pixelate Shaded', sans-serif;
+                                                
                                                 
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
