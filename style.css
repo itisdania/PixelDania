@@ -13,15 +13,9 @@
 	justify-content: center;
 
 
-@font-face {
-  font-family: danifont;
-  src: url(ARCADE.woff);
-
-}
-
 .typewriter p {
   color: #fff;
-font-family: danifont;
+  font-family: arial;
                     
                                                 
  overflow: hidden; /* Ensures the content is not revealed until the animation */
