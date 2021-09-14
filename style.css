@@ -34,7 +34,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 50% }
+  to { width: 30% }
 }
 
 /* The typewriter cursor effect */
