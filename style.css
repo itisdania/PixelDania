@@ -6,7 +6,7 @@
 .center {
 	width: 200;
   height: auto;
-	display: flex;
+	
   background-color: #00234b;
 	justify-content: center;
 
@@ -47,7 +47,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   width:400px;
   height: auto;
 	align-items: center;
-  display: flex;
+  
   margin-left: auto;
   margin-right: auto;
   position: fixed;
