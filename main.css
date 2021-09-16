@@ -2,8 +2,11 @@
   margin: 0; 
   padding: 0;}
 h1 {
-
   text-align: center;
+}
+
+.responsive:hover {
+  background-color: ligh blue;
 }
 
 .bg{
