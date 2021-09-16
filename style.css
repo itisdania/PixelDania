@@ -4,13 +4,30 @@
   background-color: #00234b;
 }
 .center {
-	width: 200;
-  height: auto;
-	
+
   background-color: #00234b;
 	justify-content: center;
-
+  text-align: center;
+  display:flex;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+ 
 }
+
+div {
+   margin-left: auto;
+   margin-right: auto;
+   width: 370px;
+   display: block;
+   float: none;
+}
+
+
+
+
+
+
 .typewriter p {
   color: #fff;
 font-family: 'Orbitron', sans-serif;
@@ -20,10 +37,9 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .1em;
   font-smooth: never;
-  font-size: 45px;
+  font-size : clamp(2rem, 5vw, 3rem);
   color: white;
   position: fixed;
-  left:40%;
   top: 30%;
   animation: 
     typing 2.0s steps(5, end),
@@ -43,18 +59,21 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   50% { border-color: red }
 }
 
+img{
+  display:inline-block;
+}
+
 .resize{
-  width:400px;
+  width:370px;
   height: auto;
-	align-items: center;
-  
+  vertical-align: top;
   margin-left: auto;
   margin-right: auto;
   position: fixed;
-  max-width:45%;
-  max-height:45%;
-  top:50%;
-  left:36%;
+  max-width:100%;
+  max-height:199%;
+  top:42%;
+ 
  
 }
 
