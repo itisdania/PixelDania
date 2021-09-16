@@ -24,7 +24,7 @@ img {
 .responsive1{
   width:800px;
   height: auto;
-  text-align: center;
+ 
 }
 
 .responsive{
@@ -44,11 +44,11 @@ img {
   }
   
  .responsive1{
-  width:420px;
+  width:410px;
   height: auto;
 }
   .responsive{
-  width:250px;
+  width:230px;
   height: auto;
 }
   
