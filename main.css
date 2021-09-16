@@ -54,7 +54,7 @@ img {
   
 }
 
-@media screen and (min-width: 601px) and (max-width: 800px) {
+@media screen and (min-width: 601px) and (max-width:1000px) {
  .bg {
  background-image:      url('https://i.ibb.co/pwqX2Tq/Web-1280-2.png');
  background-repeat: no-repeat;
@@ -71,21 +71,6 @@ img {
 } 
 
 
-@media screen and (min-width: 801px) and (max-width: 1000px) {
- .bg {
- background-image:      url('https://i.ibb.co/DGVBk7s/Web-1280-2.png');
- background-repeat: no-repeat;
- background-size: cover;
-  }
-  .responsive1{
-  width:600px;
-  height: auto;
-}
-  .responsive{
-  width:265px;
-  height: auto;
-}
-}
 
 @media screen and (min-width: 1001px) and (max-width: 1200px) {
  .bg {
