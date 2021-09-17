@@ -64,7 +64,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 
 div {
    margin-left: auto;
-   margin-right: auto;
+   margin-right: 10px;
    float: none;
 justify-content: center;
   text-align: center;
