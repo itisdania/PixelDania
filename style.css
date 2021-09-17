@@ -47,7 +47,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   position: fixed;
   top: 30%;
   animation: 
-    typing 2.3s steps(12, end),
+    typing 2.3s steps(15, end),
     blink-caret .5s step-end infinite;
 	
 }
