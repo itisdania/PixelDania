@@ -45,7 +45,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   position: fixed;
   top: 30%;
   animation: 
-    typing 2.3s steps(8, end),
+    typing 2.3s steps(15, end),
     blink-caret .5s step-end infinite;
 	
 }
@@ -65,8 +65,6 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 div {
    margin-left: auto;
    margin-right: auto;
-   width: 370px;
-   display: block;
    float: none;
 justify-content: center;
   text-align: center;
