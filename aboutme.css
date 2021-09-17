@@ -30,3 +30,22 @@ html, body {
   max-width:100%;
   max-height:199%;
 }
+
+.typewriter h1 {	
+  color: #fff;
+font-family: 'Orbitron', sans-serif;
+overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid yellow; 
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .1em;
+  font-smooth: never;
+  font-size : clamp(2rem, 5vw, 3rem);
+  color: white;
+  position: fixed;
+  top: 30%;
+  animation: 
+    typing 2.3s steps(8, end),
+    blink-caret .5s step-end infinite;
+	
+}
