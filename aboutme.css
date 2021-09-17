@@ -61,3 +61,17 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   from, to { border-color: transparent }
   50% { border-color: yellow }
 }
+
+div {
+   margin-left: auto;
+   margin-right: auto;
+   width: 370px;
+   display: block;
+   float: none;
+  background-color: #00234b;
+justify-content: center;
+  text-align: center;
+  display:flex;
+  vertical-align: top;	
+	
+}
