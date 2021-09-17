@@ -45,7 +45,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   position: fixed;
   top: 0%;
   animation: 
-    typing 4s steps(33, end),
+    typing 4s steps(37, end),
     blink-caret .5s step-end 0;
 	
 }
@@ -53,7 +53,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 55% }
+  to { width: 20% }
 }
 
 /* The typewriter cursor effect */
