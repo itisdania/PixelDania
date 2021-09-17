@@ -39,7 +39,7 @@ img {
 {
   .bg {
  background: 00234b;
- background-image:      url('https://i.ibb.co/gJjmpR4/Web-1920-3.png');
+ background-image:      url('https://i.ibb.co/R30KWdS/Web-1920-4.png');
    background-repeat: no-repeat;
    height: 100vh; 
    background-position: bottom;
@@ -60,7 +60,7 @@ img {
 
 @media screen and (min-width: 601px) and (max-width:1000px) {
  .bg {
- background-image:      url('https://i.ibb.co/gJjmpR4/Web-1920-3.png');
+ background-image:      url('https://i.ibb.co/R30KWdS/Web-1920-4.png');
  background-repeat: no-repeat;
  background-size: cover;
   }
