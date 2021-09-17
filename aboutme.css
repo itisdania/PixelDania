@@ -3,7 +3,7 @@ img {
   
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 10px;
 }
 
 
@@ -65,7 +65,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 
 div {
    margin-left: auto;
-   margin-right: 10px;
+   margin-right: auto;
    float: none;
 justify-content: center;
   text-align: center;
