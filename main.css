@@ -40,15 +40,16 @@ img {
   .bg {
  background: 00234b;
  background-image:      url('https://i.ibb.co/XWDPbjK/HOME.png');
-   background-repeat: no-repeat;
-   height: 100vh; 
-   background-position: bottom;
-   overflow: hidden;   
+ background-repeat: no-repeat;
+ height: 100vh; 
+ background-position: bottom;
+ overflow: hidden;   
   }
   
  .responsive1{
   width:410px;
   height: auto;
+   align:center;
 }
   .responsive{
   width:230px;
