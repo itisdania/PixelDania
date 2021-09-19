@@ -86,7 +86,7 @@ img{
 {
 @keyframes typing {
   from { width: 0 }
-  to { width: 25% }
+  to { width: 30% }
 }
 
 /* The typewriter cursor effect */
