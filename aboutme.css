@@ -5,7 +5,13 @@
   height: 100vh; 
   overflow: hidden;
 }
-
+#header-nav{
+  position: fixed;
+  top: 0;
+  display: block;
+  width: 100%;
+  background: black;
+}
 img {
   
   display: block;
