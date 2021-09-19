@@ -28,14 +28,14 @@ justify-content: center;
 }
 .bye
 {
-font-size : clamp(1rem, 3vw, 1.5rem);
+font-size : clamp(0.9rem, 2.6vw, 1.3rem);
 color: #fff;
 font-family: 'Orbitron', sans-serif;
 overflow: hidden;	
  color: white;
   text-align: center;
 	vertical-align: text-bottom;
-position:fixed; bottom:10%;
+position:fixed; bottom:17%;
 	left: 37%;
 
 }
