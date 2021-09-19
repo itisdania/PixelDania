@@ -26,7 +26,7 @@ justify-content: center;
   vertical-align: top;	
 	
 }
-footer
+div
 {
 font-size : clamp(1rem, 3vw, 1.5rem);
 color: #fff;
@@ -34,10 +34,10 @@ font-family: 'Orbitron', sans-serif;
 overflow: hidden;	
  color: white;
   text-align: center;
- vertical-align: bottom;
   margin-left: auto;
-  margin-right: auto;;
-top:80%;
+  margin-right: auto;
+	  position: fixed;
+ top:80%;
 }
 .typewriter p {	
   color: #fff;
