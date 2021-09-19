@@ -35,6 +35,7 @@ overflow: hidden;
  color: white;
   text-align: center;
 	vertical-align: text-bottom;
+	display:flex;
 bottom:10%;
 
 }
