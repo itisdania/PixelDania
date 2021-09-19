@@ -37,7 +37,9 @@ color: #fff;
 font-family: 'Orbitron', sans-serif;
 overflow: hidden;	
 text-align: center;
-top: 60%;
+ color: white;
+  position: fixed;
+  top: 60%;
 	
 }
 
