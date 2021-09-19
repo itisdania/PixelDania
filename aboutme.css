@@ -57,7 +57,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   font-size : clamp(1.5rem, 4vw, 2.5rem);
   color: white;
   position: fixed;
-  top: 15%;
+  top: 13%;
   animation: 
     typing 3.5s steps(37, end),
     blink-caret .5s step-end 0;
