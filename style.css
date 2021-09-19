@@ -4,7 +4,6 @@
   background-color: #00234b;
 }
 .center {
-
   background-color: #00234b;
   justify-content: center;
   text-align: center;
@@ -14,7 +13,6 @@
   vertical-align: top;
  
 }
-
 div {
    margin-left: auto;
    margin-right: auto;
@@ -28,20 +26,17 @@ justify-content: center;
   vertical-align: top;	
 	
 }
-
-
-li
+p
 {
 font-size : clamp(1rem, 3vw, 1.5rem);
 color: #fff;
 font-family: 'Orbitron', sans-serif;
 overflow: hidden;	
-color: white;
+ color: white;
+  justify-content: center;
 bottom:10%;
-	
+
 }
-
-
 .typewriter p {	
   color: #fff;
 font-family: 'Orbitron', sans-serif;
@@ -60,23 +55,19 @@ typing 2.0s steps(11, end),
 	  blink-caret .5s step-end infinite;
 	
 }
-
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
   to { width: 17% }
 }
-
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: yellow }
 }
-
 img{
   display:inline-block;
 }
-
 .resize{
   width:370px;
   height: auto;
@@ -90,14 +81,12 @@ img{
  
  
 }
-
 @media screen and (max-width:600px)
 {
 @keyframes typing {
   from { width: 0 }
   to { width: 33% }
 }
-
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
