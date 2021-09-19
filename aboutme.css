@@ -6,6 +6,7 @@
   overflow: hidden;
 }
 #header-nav{
+	height: 40px;
   position: fixed;
   top: 0;
   display: block;
