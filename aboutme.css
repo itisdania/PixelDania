@@ -6,7 +6,7 @@
   overflow: hidden;
 }
 #header-nav{
-	height: 56px;
+	height: 50px;
   position: fixed;
   top: 0;
   display: block;
@@ -32,7 +32,7 @@ background-color: #00234b;
 
 
 .resize{
-  width:45px;
+  width:40px;
   height: auto;
   vertical-align: top;
   margin-left: auto;
