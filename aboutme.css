@@ -11,7 +11,8 @@
   top: 0;
   display: block;
   width: 100%;
-  background: #D0CFCF;
+  background: ##a6b2c0
+;
 }
 img {
   
@@ -42,7 +43,7 @@ background-color: #00234b;
   right:0;
   max-width:100%;
   max-height:199%;
-	 background: #D0CFCF;
+	 background: ##a6b2c0;
 }
 
 .typewriter p {	
