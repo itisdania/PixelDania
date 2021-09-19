@@ -36,6 +36,8 @@ font-size : clamp(1rem, 3vw, 1.5rem);
 color: #fff;
 font-family: 'Orbitron', sans-serif;
 overflow: hidden;	
+text-align: center;
+top: 60%;
 	
 }
 
