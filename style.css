@@ -30,7 +30,7 @@ justify-content: center;
 {
 	text-decoration: underline;
   horizontal-align: top;
-font-size : clamp(0.9rem, 2.6vw, 1.3rem);
+font-size : clamp(1.1rem, 2.6vw, 1.3rem);
 color: #fff;
 font-family: 'Orbitron', sans-serif;
 overflow: hidden;	
