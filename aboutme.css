@@ -49,14 +49,14 @@ background-color: #00234b;
   width:40px;
   height: auto;
   vertical-align: top;
-  margin-left: auto;
-  margin-right: 10px;
+  margin-left: 10px;
+  margin-right: auto;
   position:absolute;
-  top:0;
-  left:0;
+  top:3px;
+  left:0px;
   max-width:100%;
   max-height:199%;
-	 background: #a6b2c0;
+  background: #a6b2c0;
 }
 .typewriter p {	
   color: #fff;
