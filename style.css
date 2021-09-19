@@ -13,11 +13,6 @@
   vertical-align: top;
  
 }
-
-div{
-  text-align: center;
-}
-
 .hi  {
    margin-left: auto;
    margin-right: auto;
@@ -29,7 +24,7 @@ justify-content: center;
   text-align: center;
   display:flex;
   vertical-align: top;	
-	
+
 }
 .bye {
 font-size : clamp(1rem, 3vw, 1.5rem);
@@ -39,8 +34,6 @@ color: white;
 text-align: center;
 position:fixed; bottom:0;
 }
-
-
 .typewriter p {	
   color: #fff;
 font-family: 'Orbitron', sans-serif;
@@ -54,7 +47,6 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   color: white;
   position: fixed;
   top: 30%;
-	  text-align: center;
   animation: 
 typing 2.0s steps(11, end),
 	  blink-caret .5s step-end infinite;
