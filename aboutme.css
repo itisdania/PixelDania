@@ -98,7 +98,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   position: fixed;
   top: 10%;
   animation: 
-    typing 5s steps(37, end),
+    typing 2s steps(37, end),
     blink-caret .5s step-end 0;
 	
 	
