@@ -37,7 +37,7 @@ overflow: hidden;
 position:fixed; bottom:18%;
 margin-left: auto;
  margin-right: auto;
-display:inline-block;
+display:block;
 }
 .typewriter p {	
   color: #fff;
