@@ -1,19 +1,10 @@
-.bg1{
+bg1{
   background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh; 
   overflow: hidden;
 }
-
-img {
-  
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
 #header-nav{
 	height: 50px;
   position: fixed;
@@ -23,6 +14,14 @@ img {
   background: #a6b2c0;
 
 }
+img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+
 
 
  body {
