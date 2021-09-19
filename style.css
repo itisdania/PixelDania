@@ -30,7 +30,14 @@ justify-content: center;
 }
 
 
-
+p
+{
+font-size : clamp(1rem, 3vw, 1.5rem);
+color: #fff;
+font-family: 'Orbitron', sans-serif;
+overflow: hidden;	
+	
+}
 
 
 .typewriter p {	
