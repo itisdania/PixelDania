@@ -13,6 +13,11 @@
   vertical-align: top;
  
 }
+
+div{
+  text-align: center;
+}
+
 .hi  {
    margin-left: auto;
    margin-right: auto;
