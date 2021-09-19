@@ -49,6 +49,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   color: white;
   position: fixed;
   top: 30%;
+	  text-align: center;
   animation: 
 typing 2.0s steps(11, end),
 	  blink-caret .5s step-end infinite;
