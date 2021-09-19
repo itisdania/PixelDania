@@ -55,7 +55,7 @@ typing 2.0s steps(11, end),
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 20% }
+  to { width: 17% }
 }
 
 /* The typewriter cursor effect */
