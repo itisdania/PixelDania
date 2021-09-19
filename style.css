@@ -28,7 +28,7 @@ justify-content: center;
 }
 .bye
 {
-width: 150px;
+  horizontal-align: top;
 font-size : clamp(0.9rem, 2.6vw, 1.3rem);
 color: #fff;
 font-family: 'Orbitron', sans-serif;
