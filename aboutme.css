@@ -98,6 +98,8 @@ span {
     text-align:center;
     position:fixed; 
     top:50%;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 
