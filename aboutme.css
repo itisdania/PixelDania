@@ -86,7 +86,7 @@ background-color: #00234b;
 
 span { 
 	text-align: center;
-	top:50%;
+	top:70%;
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(0.6rem, 3.0vw, 1.6rem);
         color: #fff;
@@ -96,7 +96,7 @@ span {
 .this{ 
     text-align: center;
     position:fixed; 
-    top:50%;
+    top:70%;
     margin-left: 0px;
     margin-right: 0px;
 }
