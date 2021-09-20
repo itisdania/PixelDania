@@ -31,7 +31,7 @@ background-color: #00234b;
 }
 
 
-
+<style>
 .resize{
   width:40px;
   height: auto;
@@ -45,6 +45,16 @@ background-color: #00234b;
   max-height:199%;
 	 background: #a6b2c0;
 }
+
+.resize:hover
+    {
+      -moz-box-shadow: 0 0 10px #ccc;
+      -webkit-box-shadow: 0 0 10px #ccc;
+      box-shadow: 0 0 10px #ccc;
+    }
+  </style>
+
+
 .resize1{
   width:40px;
   height: auto;
