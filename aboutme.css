@@ -91,7 +91,7 @@ span {
         font-size : clamp(0.6rem, 3.0vw, 1.6rem);
         color: #fff;
 	width: 100%;
-	
+	border-style: ridge;
 }
 
 .this{ 
@@ -100,7 +100,7 @@ span {
     top:70%;
     margin-left: 0px;
     margin-right: 0px;
-	border-style: ridge;
+	
 }
 
 .that{
