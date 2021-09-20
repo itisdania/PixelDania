@@ -52,7 +52,7 @@ background-color: #00234b;
       opacity: 0.3;
       filter: alpha(opacity=30);
     }
-  </style>
+
 
 
 .resize1{
@@ -81,6 +81,8 @@ background-color: #00234b;
   max-height:199%;
   background: #a6b2c0;
 }
+
+  </style>
 .typewriter p {	
   color: #fff;
 font-family: 'Orbitron', sans-serif;
