@@ -88,24 +88,24 @@ background-color: #00234b;
 	
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 3.8vw, 2.5rem);
-        color: white;
+         color: #fff;
 }
 
 #2{ 
 	font-family: 'Orbitron', sans-serif;
 	text-align: center;
         font-size : clamp(1.5rem, 2.8vw, 2.5rem);
-        font-color: white;  }
+         color: #fff; }
 
 #3{
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 3.5vw, 2.5rem);
-        font-color: white;  }
+         color: #fff;  }
 
 #4{  
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 2.2vw, 2.5rem);
-        font-color: white; }
+         color: #fff; }
 
 
 
