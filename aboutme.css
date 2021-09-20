@@ -84,11 +84,11 @@ background-color: #00234b;
 }
 
 
-.1{ 
+span { 
 	
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 3.8vw, 2.5rem);
-         color: #fff;
+        color: #fff;
 }
 
 .2{ 
