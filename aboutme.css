@@ -90,32 +90,15 @@ span {
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 3.8vw, 2.5rem);
         color: #fff;
-	width:100%
 }
 
 .this{ 
     text-align: center;
-    width:100%;
-    text-align:center;
     position:fixed; 
     top:50%;
     margin-left: 0px;
-    margin-right: 3px;
+    margin-right: 0px;
 }
-
-
-
-.3{
-	font-family: 'Orbitron', sans-serif;
-        font-size : clamp(1.5rem, 3.5vw, 2.5rem);
-         color: #fff;  }
-
-.4{  
-	font-family: 'Orbitron', sans-serif;
-        font-size : clamp(1.5rem, 2.2vw, 2.5rem);
-         color: #fff; }
-
-
 
 
  
