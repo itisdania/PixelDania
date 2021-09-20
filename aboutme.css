@@ -90,6 +90,7 @@ span {
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 3.8vw, 2.5rem);
         color: #fff;
+	width:100%
 }
 
 .this{ 
@@ -99,7 +100,7 @@ span {
     position:fixed; 
     top:50%;
     margin-left: 0px;
-    margin-right: 0px;
+    margin-right: 3px;
 }
 
 
