@@ -90,6 +90,7 @@ span {
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(1.5rem, 3.8vw, 2.5rem);
         color: #fff;
+	border-style: solid;
 }
 
 .this{ 
