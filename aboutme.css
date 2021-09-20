@@ -88,7 +88,7 @@ span {
 	text-align: center;
 	top:50%;
 	font-family: 'Orbitron', sans-serif;
-        font-size : clamp(1.0rem, 3.0vw, 1.6rem);
+        font-size : clamp(0.5rem, 3.0vw, 1.6rem);
         color: #fff;
 	width: 60%;
 }
