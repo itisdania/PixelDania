@@ -91,6 +91,7 @@ span {
         font-size : clamp(0.6rem, 3.0vw, 1.6rem);
         color: #fff;
 	width: 100%;
+	border-style: ridge;
 }
 
 .this{ 
