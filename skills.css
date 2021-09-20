@@ -1,3 +1,4 @@
+<style>
 .bg1{
   background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
   background-repeat: no-repeat;
@@ -46,6 +47,13 @@ background-color: #00234b;
   max-height:199%;
 	 background: #a6b2c0;
 }
+
+.resize:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
 .resize1{
   width:40px;
   height: auto;
@@ -72,3 +80,4 @@ background-color: #00234b;
   max-height:199%;
   background: #a6b2c0;
 }
+</style>
