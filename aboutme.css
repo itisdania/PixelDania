@@ -102,8 +102,9 @@ span {
 }
 
 .that{
-position:fixed; 
-    top:45%;
+	text-align: center;
+        position:fixed; 
+        top:45%;
 }
  
 .typewriter p {	
