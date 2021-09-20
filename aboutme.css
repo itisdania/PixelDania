@@ -101,7 +101,10 @@ span {
     margin-right: 0px;
 }
 
-
+.that{
+position:fixed; 
+    top:45%;
+}
  
 .typewriter p {	
   color: #fff;
