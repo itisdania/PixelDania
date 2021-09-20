@@ -93,13 +93,12 @@ span {
 }
 
 .this{ 
-	overflow: hidden;
+    overflow: hidden;
     text-align: center;
     width:100%;
     text-align:center;
-    display:block;
-    margin:0 auto;
 
+    
 }
 
 .3{
