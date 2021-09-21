@@ -72,7 +72,8 @@ background-color: #00234b;
 }
 .resize3{
   width:250px;
-  text-align: center;
+ text-align: center;
+  display: block;
   height: auto;
   margin-left: auto;
   margin-right: auto;
