@@ -114,7 +114,7 @@ background-color: #00234b;
 text-decoration: none;
 }
 
-.text {
+.text a{
   background-color: yellow;
   color: #ffffff;
   text-decoration: none;
