@@ -77,27 +77,20 @@ span {
         font-size : clamp(0.6rem, 3.0vw, 1.6rem);
         color: #fff;
 	width: 100%;
-
-	position: fixed;
-	top: 60%;
 }
-
 .this{ 
-	@@ -100,7 +100,7 @@ span {
+    text-align: center;
+    position:fixed; 
     top:70%;
     margin-left: 0px;
     margin-right: 0px;
-	border-style: ridge;
 }
 
 .that{
-	text-align: center;
-        position:fixed; 
-        top:45%;
-        margin-left: 0px;
-        margin-right: 0px;
+position:fixed; 
+    top:45%;
 }
- 
+
 .typewriter p {	
   color: #fff;
 font-family: 'Orbitron', sans-serif;
