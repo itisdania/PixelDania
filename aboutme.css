@@ -78,6 +78,8 @@ span {
         color: #fff;
 	width: 100%;
 
+	position: fixed;
+	top: 60%;
 }
 
 .this{ 
