@@ -96,7 +96,7 @@ background-color: #00234b;
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 250px;
+  top: 280px;
   left: 0px; right: 0px; bottom: 0px;
 	text-align: center;
 }
@@ -113,7 +113,7 @@ background-color: #00234b;
 }
 
 .text {
-  background-color: #04AA6D;
+  background-color: #00234b;
   color: white;
   font-size: 16px;
   padding: 16px 16px;
@@ -143,8 +143,8 @@ span {
 font-family: 'Orbitron', sans-serif;
 overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: 0em solid transparent; 
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  white-space: nowrap; 
+  margin: 0 auto;
   letter-spacing: .1em;
   font-smooth: never;
   font-size : clamp(1.5rem, 4vw, 2.5rem);
