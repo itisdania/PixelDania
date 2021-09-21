@@ -81,13 +81,9 @@ background-color: #00234b;
   left:40%;
   max-width:300px;
   background: #a6b2c0;
+	border-width: 25px;   border-color: yellow;   border-style: solid;
 }
 
-
-#gradient{
-border: 30px solid;
-border-color: yellow;
-}
 
 span { 
 	text-align: center;
