@@ -88,7 +88,6 @@ background-color: #00234b;
 
 
 span { 
-	width:600px;
 	text-align: center;
 	bottom:0%;
 	font-family: 'Orbitron', sans-serif;
@@ -102,7 +101,7 @@ span {
     top:80%;
     margin-left: 0px;
     margin-right: 0px;
-    width: 100%;
+    width: 400px;
     height:auto;
 }
 
@@ -154,10 +153,10 @@ div {
 .typewriter p {	
   color: #fff;
 font-family: 'Orbitron', sans-serif;
-overflow: hidden; /* Ensures the content is not revealed until the animation */
+overflow: hidden; 
   border-right: 0em solid transparent; 
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  white-space: nowrap;
+  margin: 0 auto; 
   letter-spacing: .1em;
   font-smooth: never;
   font-size : clamp(1.5rem, 4vw, 2.5rem);
