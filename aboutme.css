@@ -70,6 +70,23 @@ background-color: #00234b;
   max-height:199%;
   background: #a6b2c0;
 }
+.resize3{
+  width:200px;
+  height: auto;
+  vertical-align: top;
+  margin-left: auto;
+  margin-right: auto;
+  position:absolute;
+  top:40%;
+  left:50%;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+
+
+
+
 span { 
 	text-align: center;
 	top:70%;
