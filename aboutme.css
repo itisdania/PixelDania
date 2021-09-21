@@ -103,7 +103,7 @@ background-color: #00234b;
 	text-align: center;}
 .container {
   position: relative;
-	width: 50%;}
+	width: 70%;}
 
 .container:hover .resize3 {
   opacity: 0.3;
