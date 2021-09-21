@@ -75,10 +75,11 @@ background-color: #00234b;
   width: 240px;
   max-width: 100%;
 	min-width: 10%;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
  position:fixed;
 	top:30%;
-	left:39%;
+	
   background: #a6b2c0;
   border-width: 6px;   
   border-color: yellow;   
