@@ -44,6 +44,13 @@ background-color: #00234b;
       opacity: 0.3;
       filter: alpha(opacity=30);
     }
+
+.resize3:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
 .resize1{
   width:40px;
   height: auto;
