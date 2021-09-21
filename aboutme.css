@@ -71,15 +71,10 @@ background-color: #00234b;
   background: #a6b2c0;
 }
 .resize3{
-  width:250px;
- text-align: center;
   display: block;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
+  width: 250px;
   max-width: 100%;
-  <!--- top:30%;-->
- 
+  margin: 0 auto;
   position:fixed;
   background: #a6b2c0;
   border-width: 6px;   
