@@ -84,7 +84,10 @@ background-color: #00234b;
 }
 
 
-
+#gradient{
+border: 30px solid;
+border-color: yellow;
+}
 
 span { 
 	text-align: center;
