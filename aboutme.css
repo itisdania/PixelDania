@@ -91,7 +91,7 @@ span {
 	text-align: center;
 	bottom:0%;
 	font-family: 'Orbitron', sans-serif;
-        font-size : clamp(0.45rem, 3.0vw, 1.6rem);
+        font-size : clamp(0.45rem, 2.90vw, 1.6rem);
         color: #fff;
 	width: 100%;
 }
@@ -99,9 +99,8 @@ span {
     text-align: center;
     position:fixed; 
     top:80%;
-    margin-left: 10%;
-	    
-    margin-right: 10%;
+    margin-left: 0px;    
+    margin-right: 0px;
     width: 100%;
     height:auto;
 }
