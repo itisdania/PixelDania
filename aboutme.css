@@ -96,11 +96,12 @@ background-color: #00234b;
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 165px;;
+  top: 165px;
   left: 0px; right: 0px; bottom: 0px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-	text-align: center;}
+	text-align: center;
+}
 .container {
   position: relative;
 	width: 70%;}
