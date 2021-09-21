@@ -72,9 +72,9 @@ background-color: #00234b;
 }
 .resize3{
   display: block;
-  width: 250px;
+  width: 240px;
   max-width: 100%;
-	min-width: 50%;
+	min-width: 80%;
   margin: 0 auto;
  position:fixed;
 	top:30%;
