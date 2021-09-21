@@ -81,13 +81,13 @@ background-color: #00234b;
   left:39%;
   max-width:300px;
   background: #a6b2c0;
-	border-width: 10px;   border-color: yellow;   border-style: solid;
+	border-width: 6px;   border-color: yellow;   border-style: solid;
 }
 
 
 span { 
 	text-align: center;
-	top:80%;
+	top:90%;
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(0.6rem, 3.0vw, 1.6rem);
         color: #fff;
