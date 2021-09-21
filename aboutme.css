@@ -118,6 +118,7 @@ background-color: #00234b;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
+	top: 165px; left: 0; bottom: 0; right: 0;
 }
 
 span { 
