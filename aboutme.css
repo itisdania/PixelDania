@@ -113,10 +113,14 @@ background-color: #00234b;
 text-decoration: none;
 }
 
+.container:hover .text {
+  opacity: 1;
+text-decoration: underline;
+} 
 .text a{
   background-color: yellow;
   color: #000000;
-  text-decoration: underline;
+  text-decoration: none;
   font-size: 20px;
 padding-top: 20px;
 	padding-right: 10px;
