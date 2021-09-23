@@ -116,6 +116,8 @@ text-decoration: none;
 .text a{
   background-color: yellow;
   color: #000000;
+  position: absolute;
+  top: 280px;
   text-decoration: none;
   font-size: 18px;
   padding: 20px; 23px;
