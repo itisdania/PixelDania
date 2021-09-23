@@ -113,7 +113,7 @@ background-color: #00234b;
 text-decoration: none;
 }
 
-.container:hover .text {
+.text:hover {
   opacity: 1;
 text-decoration: underline;
 } 
