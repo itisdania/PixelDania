@@ -118,6 +118,7 @@ text-decoration: none;
   color: #000000;
   position: absolute;
   top: 280px;
+	 left: 0px; right: 0px; bottom: 0px;
   text-decoration: none;
   font-size: 18px;
   padding: 20px; 23px;
