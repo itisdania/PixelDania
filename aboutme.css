@@ -118,12 +118,9 @@ text-decoration: none;
   color: #000000;
   text-decoration: none;
   font-size: 16px;
-padding-top: 0px;
+padding-top: 10px;
 padding-bottom: 10px;
-
-  padding: 18px; 20px;
-	  text-align: center;
-
+ text-align: center;
   font-family: 'Orbitron', sans-serif;
 	
 }
