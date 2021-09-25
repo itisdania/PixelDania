@@ -12,3 +12,19 @@
   background-color: #00234b;
 }
 </style>
+
+
+.text
+{
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+
+}
+
+p{
+font-size: 14px;
+font-family: 'Orbitron', sans-serif;
+color: #FFFFFF;
+
+}
