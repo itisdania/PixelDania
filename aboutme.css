@@ -3,7 +3,7 @@
   background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh; 
+  height: 100vh;
   overflow: hidden;
 }
 #header-nav{
@@ -15,17 +15,17 @@
   background: #a6b2c0;
 }
 img {
-  
+
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
  body {
-  margin: 0; 
+  margin: 0;
   padding: 0;
 background-color: #00234b;
 }
-  
+
 .resize{
   width:40px;
   height: auto;
@@ -85,10 +85,10 @@ background-color: #00234b;
   backface-visibility: hidden;
   opacity: 1;
   background: #a6b2c0;
-  border-width: 6px;   
-  border-color: yellow;   
+  border-width: 6px;
+  border-color: yellow;
   border-style: solid;
- 
+
 }
 
 .middle {
@@ -116,7 +116,7 @@ text-decoration: none;
 .text:hover {
   opacity: 1;
 text-decoration: underline;
-} 
+}
 .text a{
   background-color: yellow;
   color: #000000;
@@ -128,33 +128,33 @@ padding-top: 20px;
 padding-bottom: 40px;
  text-align: center;
   font-family: 'Orbitron', sans-serif;
-	
+
 }
 
-span { 
+span {
 	text-align: center;
 	font-family: 'Orbitron', sans-serif;
         font-size : clamp(0.45rem, 2.90vw, 1.6rem);
         color: #fff;
 	width: 100%;
 }
-.this{ 
+.this{
     text-align: center;
-    position:fixed; 
+    position:fixed;
     top:80%;
-    margin-left: 0px;    
+    margin-left: 0px;
     margin-right: 0px;
     width: 100%;
     height:auto;
 }
 
 
-.typewriter p {	
+.typewriter p {
   color: #fff;
 font-family: 'Orbitron', sans-serif;
 overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: 0em solid transparent; 
-  white-space: nowrap; 
+  border-right: 0em solid transparent;
+  white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .1em;
   font-smooth: never;
@@ -162,10 +162,10 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   color: white;
   position: fixed;
   top: 10%;
-  animation: 
+  animation:
     typing 3.5s steps(35, end),
     blink-caret .5s step-end 0;
-	
+
 }
 /* The typing effect */
 @keyframes typing {
@@ -184,31 +184,31 @@ div {
  justify-content: center;
   text-align: center;
   display:flex;
-  vertical-align: top;	 
-	
+  vertical-align: top;
+
 }
 @media screen and (max-width:600px)
 {
-.typewriter p {	
+.typewriter p {
   color: #fff;
 font-family: 'Orbitron', sans-serif;
-overflow: hidden; 
-  border-right: 0em solid transparent; 
+overflow: hidden;
+  border-right: 0em solid transparent;
   white-space: nowrap;
-  margin: 0 auto; 
+  margin: 0 auto;
   letter-spacing: .1em;
   font-smooth: never;
   font-size : clamp(1.5rem, 4vw, 2.5rem);
   color: white;
   position: fixed;
   top: 10%;
-  animation: 
+  animation:
     typing 2.5s steps(37, end),
     blink-caret .5s step-end 0;
-	
-	
+
+
 }
-	 
+
 	@keyframes typing {
   from { width: 0 }
   to { width: 100% }
