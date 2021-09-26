@@ -104,7 +104,7 @@ background-color: #00234b;
 	width: 100%;}
 
 .container:hover .resize3 {
-  opacity: 0.3;
+  opacity: 1;
  text-decoration: none;
 }
 
@@ -115,7 +115,6 @@ text-decoration: none;
 
 .text:hover {
   opacity: 1;
-text-decoration: underline;
 }
 .text a{
  background: rgba(0, 0, 0, .2);
