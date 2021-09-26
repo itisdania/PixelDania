@@ -101,7 +101,7 @@ background-color: #00234b;
 }
 .container {
   position: relative;
-	width: 250px;
+	width: 100%;
 
 }
 
@@ -118,16 +118,17 @@ text-decoration: none;
 .text:hover {
   opacity: 1;
 }
-.text a{
- background: yellow;
+.text a
+{
+  background: yellow;
   color: #000000;
   text-decoration: none;
   font-size: 18px;
-padding-top: 15px;
-	padding-right: 0px;
-	padding-left: 0px;
-padding-bottom: 50px;
- text-align: center;
+  padding-top: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 50px;
+  text-align: center;
   font-family: 'Orbitron', sans-serif;
 
 }
@@ -142,6 +143,7 @@ span {
         color: #fff;
 	width: 100%;
 }
+
 .this{
     text-align: center;
     position:fixed;
