@@ -117,7 +117,7 @@ text-decoration: none;
   opacity: 1;
 }
 .text a{
- background: rgba(0, 0, 0, .2);
+ background: yellow;
   color: #000000;
   text-decoration: none;
   font-size: 18px;
