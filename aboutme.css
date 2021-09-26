@@ -101,7 +101,9 @@ background-color: #00234b;
 }
 .container {
   position: relative;
-	width: 100%;}
+	width: 250px;
+
+}
 
 .container:hover .resize3 {
   opacity: 0.1;
@@ -129,6 +131,8 @@ padding-bottom: 30px;
   font-family: 'Orbitron', sans-serif;
 
 }
+
+
 
 span {
 	text-align: center;
