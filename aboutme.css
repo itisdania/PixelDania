@@ -101,7 +101,7 @@ background-color: #00234b;
 }
 .container {
   position: relative;
-	width: 80%;
+	width: 100%;
 
 }
 
@@ -132,7 +132,9 @@ padding-bottom: 50x;
 
 }
 
-
+.text{
+	width: 80%;
+}
 
 span {
 	text-align: center;
