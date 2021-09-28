@@ -10,8 +10,8 @@ html {
   height: 100%;
   margin: auto;
   width: 960px;
+overflow-x: hidden;
 }
-html{overflow-y: scroll; }
 
 #header-nav{
 	height: 50px;
