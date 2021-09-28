@@ -7,7 +7,7 @@
   overflow: auto;
 }
 
-html,body{overflow-y: scroll; }
+html{overflow-y: scroll; }
 
 #header-nav{
 	height: 50px;
@@ -150,7 +150,7 @@ span {
 .this{
     text-align: center;
     position:fixed;
-    top:85%;
+    top:1500px;
     margin-left: 0px;
     margin-right: 0px;
     width: 100%;
