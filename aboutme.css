@@ -1,14 +1,14 @@
 <style>
 
 .bg1{
-   background: linear-gradient(to bottom, #1F4E79 0%, #1F4E79 50%, #ddd 50%, #ddd 100%);
+   background-color: #00234b;
 }
 
 
 body {
    margin: 0;
    padding: 0;
- 
+  background-color: #00234b;
   }
 
 
