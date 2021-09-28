@@ -147,7 +147,7 @@ text-decoration: none;
 span {
 	text-align: left;
 	font-family: 'Orbitron', sans-serif;
-        font-size : clamp(0.45rem, 2.90vw, 1.6rem);
+        font-size : clamp(0.45rem, 2.50vw, 1.4rem);
         color: #fff;
 	width: 100%;
 	margin-left: 10%;
