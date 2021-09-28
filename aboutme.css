@@ -3,9 +3,9 @@
   background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 5000px;
-  overflow: auto;
+  height: 100vh;
 }
+
 html {
   height: 100%;
   margin: auto;
