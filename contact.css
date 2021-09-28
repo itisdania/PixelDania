@@ -1,8 +1,5 @@
 <style>
 
-@import url("https://fonts.googleapis.com/css?family=Comfortaa:400,700,300|Quattrocento");
-.about-tools ul li, .contact-social-icons ul a li {
-  text-align: center; }
 
 bg1{
   background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
@@ -91,7 +88,6 @@ background-color: #00234b;
   background: #a6b2c0;
 }
 
-h1,
 h2 {
   font-family: "Comfortaa", Helvetica, Arial, sans-serif;
   color: white; }
@@ -112,27 +108,7 @@ h2 {
     padding: 2%; }
 
 
-.cover.bottom {
-    padding: 10% 0 10% 0; 
-text-align: center;
-} 
 
-.about-tools, .about-last {
-  padding: 4% 10% 1% 10%;
-  font-size: 1.25em; }
-  .about-tools {
-    padding-top: 4.375em;
-    font-weight: 700;
-    font-size: 1.5em; }
-    @media screen and (min-width: 992px) {
-      .about-tools {
-        padding-top: 5.625em; } }
-    .about-tools ul:first-child {
-      padding-left: 0px; }
-    .about-tools ul {
-      color: #25b79f;
-      list-style: none; }
-      .about-tools ul li {
-        padding-top: 0.75em; }
+
 
 </style>
