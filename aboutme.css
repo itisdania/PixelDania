@@ -152,8 +152,7 @@ span {
         font-size : clamp(0.45rem, 2.90vw, 1.6rem);
         color: #fff;
 	width: 100%;
-	margin-right: 400px;
-	margin-left: 10px;
+	
 
 }
 
@@ -161,8 +160,8 @@ span {
     text-align: center;
     position:fixed;
     top:70%;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 20px;
+    margin-right: 400px;
     width: 100%;
     height:auto;
 }
