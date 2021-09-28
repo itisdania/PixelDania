@@ -154,7 +154,7 @@ span {
 
 .this{
     text-align: center;
-    position:fixed;
+    position:relative;
     top:800px;
     margin-left: 0px;
     margin-right: 0px;
