@@ -6,8 +6,7 @@
 
 
 body {
-   margin: 0;
-   padding: 0;
+
   background: linear-gradient(to right, #00234b 65%, yellow 0%);  }
 
 
@@ -161,7 +160,7 @@ span {
     position:fixed;
     top:70%;
     margin-left: 20px;
-    margin-right: 400px;
+    margin-right: 40%;
     width: 100%;
     height:auto;
 }
