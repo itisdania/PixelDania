@@ -6,7 +6,11 @@
   height: 5000px;
   overflow: auto;
 }
-
+html {
+  height: 100%;
+  margin: auto;
+  width: 960px;
+}
 html{overflow-y: scroll; }
 
 #header-nav{
