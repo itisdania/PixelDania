@@ -151,6 +151,8 @@ span {
         font-size : clamp(0.45rem, 2.90vw, 1.6rem);
         color: #fff;
 	width: 100%;
+	margin-left: 20px;
+        margin-right: 40%;
 	
 
 }
@@ -159,8 +161,6 @@ span {
     text-align: center;
     position:fixed;
     top:70%;
-    margin-left: 20px;
-    margin-right: 40%;
     width: 100%;
     height:auto;
 }
