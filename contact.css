@@ -85,4 +85,28 @@ background-color: #00234b;
   max-height:199%;
   background: #a6b2c0;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+  color: #07374a; }
+#contact {
+  background-color: #07374a; }
+  #contact h2 {
+    color: #25b79f; }
+
+.contact-social-icons p {
+  color: #25b79f; }
+.contact-social-icons ul a {
+  color: #25b79f;
+  list-style: none; }
+  .contact-social-icons ul a:hover {
+    color: #f0f0e6; }
+  .contact-social-icons ul a li {
+    display: inline-block;
+    padding: 2%; }
+
 </style>
