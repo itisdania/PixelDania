@@ -1,7 +1,8 @@
 <style>
 
 .bg1{
- background-color: #00234b;}
+   background: linear-gradient(to bottom, #1F4E79 0%, #1F4E79 50%, #ddd 50%, #ddd 100%);
+}
 
 
 body {
