@@ -1,10 +1,10 @@
 <style>
-.bg1{
-  background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
+*{
+	  background: linear-gradient(to right, yellow 50%, red 20%);
+
 }
+
+
 
 html {
   height: 100%;
