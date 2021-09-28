@@ -8,7 +8,6 @@
 }
 
 html { overflow-y: scroll; }
-body { position: absolute; }
 
 #header-nav{
 	height: 50px;
