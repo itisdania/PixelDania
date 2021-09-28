@@ -6,6 +6,10 @@
   height: auto;
   overflow: auto;
 }
+
+html { overflow-y: scroll; }
+body { position: absolute; }
+
 #header-nav{
 	height: 50px;
   position: fixed;
