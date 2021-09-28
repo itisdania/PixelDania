@@ -87,21 +87,18 @@ background-color: #00234b;
 }
 
 h1,
-h2,
-h3,
-h4,
-h5 {
+h2 {
   font-family: "Comfortaa", Helvetica, Arial, sans-serif;
-  color: #07374a; }
+  color: white; }
 #contact {
-  background-color: #07374a; }
+}
   #contact h2 {
-    color: #25b79f; }
+    color: white; }
 
 .contact-social-icons p {
-  color: #25b79f; }
+  color: white; }
 .contact-social-icons ul a {
-  color: #25b79f;
+  color: white;
   list-style: none; }
   .contact-social-icons ul a:hover {
     color: #f0f0e6; }
