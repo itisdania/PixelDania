@@ -1,6 +1,13 @@
 <style>
 
- body {
+.bg1{
+  background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+ * {
    margin: 0;
    padding: 0;
   background-color: #00234b;
