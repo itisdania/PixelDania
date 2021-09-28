@@ -177,7 +177,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   font-size : clamp(1.5rem, 4vw, 2.5rem);
   color: white;
   position: fixed;
-margin-right: 33%;
+margin-right: 30%;
 
   top: 10%;
   animation:
