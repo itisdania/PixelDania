@@ -108,7 +108,10 @@ h2 {
     padding: 2%; }
 
 
-
+.cover.bottom {
+    padding: 10% 0 10% 0; 
+text-align: center;
+} 
 
 
 </style>
