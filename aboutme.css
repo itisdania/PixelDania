@@ -184,8 +184,8 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
 margin-right: 27%;
 
   top: 10%;
-  animation:
-    typing 3.5s steps(35, end);
+  animation: typewriter 4s steps(44) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite
  
 
 }
