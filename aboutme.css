@@ -6,11 +6,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
-span 
-{
 
-
-}
 body {
 
   background: linear-gradient(to right, #00234b 75%, yellow 0%);  }
@@ -99,18 +95,16 @@ text-align: center;
  margin-left: auto;
    margin-right: auto;
 width: 20%;
-	max-width: 250px;
-	    display: block;
-	position: absolute;
-	right:2.8%;
-	top: 150px;
-	bottom: auto;
-   float: right;
-  background-color: #00234b;
+max-width: 250px;
+display: block;
+position: absolute;
+right:2.8%;
+top: 150px;
+bottom: auto;
+float: right;
+background-color: #00234b;
 justify-content: center;
-  vertical-align: top;
-
-
+vertical-align: top;
 }
 
 .middle {
@@ -121,6 +115,7 @@ justify-content: center;
   left: 0px; right: 0px; bottom: 0px;
   text-align: center;
 }
+
 .container {
 width: 25%;
 }
@@ -151,9 +146,6 @@ text-decoration: none;
   font-family: 'Orbitron', sans-serif;
 
 }
-
-
-
 
 span {
 	text-align: left;
@@ -219,8 +211,18 @@ div {
 @media screen and (max-width:600px)
 {
 body  {
-background: linear-gradient(to bottom, #00234b 75% , yellow); 
+background: linear-gradient(to bottom, #00234b 75% , yellow 0%); 
 }
+	
+span {
+text-align: left;
+font-family: 'Anonymous Pro', monospace; 
+font-size : clamp(0.45rem, 2.50vw, 1.4rem);
+color: #fff;
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+	}
 	
 .typewriter p {
   color: #fff;
