@@ -185,8 +185,8 @@ margin-right: 27%;
 
   top: 10%;
   animation:
-    typing 3.5s steps(35, end),
-    blink-caret .5s step-end 0;
+    typing 3.5s steps(35, end);
+ 
 
 }
 /* The typing effect */
