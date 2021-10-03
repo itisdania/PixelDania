@@ -94,7 +94,7 @@ background-color: #00234b;
 	
 }
 
-hover:contact-social-icons{
+.contact-social-icons:hover{
 	 background-color: yellow;
 }
 
