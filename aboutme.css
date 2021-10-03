@@ -218,6 +218,9 @@ div {
 }
 @media screen and (max-width:600px)
 {
+background: repeating-linear-gradient(#74ABDD, #74ABDD 49.9%, #498DCB 50.1%, #498DCB 100%);	
+
+	
 .typewriter p {
   color: #fff;
 font-family: 'Orbitron', sans-serif;
@@ -246,7 +249,6 @@ overflow: hidden;
   50% { border-color: transparent }
 }
 	
-background: repeating-linear-gradient(#74ABDD, #74ABDD 49.9%, #498DCB 50.1%, #498DCB 100%);	
 }
 
 
