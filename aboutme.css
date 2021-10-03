@@ -225,7 +225,7 @@ width: 20%;
 min-width: 138px;
 position: absolute;
 
- bottom: 10px; left: 0px; 
+ bottom: -60%; left: 0px; 
 right: 0px;
 background-color: #00234b;
 }	
