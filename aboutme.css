@@ -227,9 +227,9 @@ margin-right: 10%;
 width: 20%;
 min-width: 138px;
 position: absolute;
-margin-left: -250px; /* very important for the image to be centered */
-left:50%;
-bottom:0px;
+
+bottom: 0;
+right: 0;
 background-color: #00234b;
 }	
 	
