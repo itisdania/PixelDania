@@ -156,7 +156,6 @@ span {
 	margin-left: 10%;
         margin-right: 40%;
 }
-
 .this{
     text-align: center;
     position:fixed;
@@ -229,7 +228,7 @@ width: 20%;
 min-width: 138px;
 position: absolute;
 right:40%;
-top: 455px;
+top: 95%;
 background-color: #00234b;
 }	
 	
@@ -259,12 +258,8 @@ overflow: hidden;
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: transparent }
+}	
 }
-	
-}
-
-
-
  </style>
 
 
