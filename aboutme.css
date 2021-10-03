@@ -208,7 +208,7 @@ div {
   vertical-align: top;
 
 }
-@media screen and (max-width:600px)
+@media screen and (max-width:800px)
 {
 body  {
 background: linear-gradient(to bottom, #00234b 75% , yellow 0%); 
@@ -231,7 +231,7 @@ width: 20%;
 max-width: 250px;
 position: absolute;
 right:40%;
-bottom: 1%;
+top: 90%;
 background-color: #00234b;
 }	
 	
