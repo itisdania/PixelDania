@@ -226,7 +226,7 @@ margin-right: 10%;
    margin-right: auto;
 width: 20%;
 min-width: 138px;
-position: absolute;
+position: fixed;
 
 bottom: 10%;
 right: 40%;
@@ -236,7 +236,7 @@ background-color: #00234b;
 	
 .this{
     text-align: center;
-    position:absolute;
+    position:fixed;
     top:60%;
     width: 100%;
     height:auto;
