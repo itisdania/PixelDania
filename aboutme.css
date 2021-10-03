@@ -4,10 +4,6 @@
    background-color: #00234b;
 }
 
-
-
-
-
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 
@@ -156,8 +152,8 @@ text-decoration: none;
 
 span {
 	text-align: left;
-	font-family: 'Orbitron', sans-serif;
-        font-size : clamp(0.45rem, 2.50vw, 1.4rem);
+     font-family: 'Anonymous Pro', monospace; 
+	font-size : clamp(0.45rem, 2.50vw, 1.4rem);
         color: #fff;
 	width: 100%;
 	margin-left: 10%;
