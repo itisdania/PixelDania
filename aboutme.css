@@ -30,7 +30,6 @@ min-height: 100%;
 }
 img {
 
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -117,7 +116,7 @@ vertical-align: top;
 }
 
 .container {
-position: relative;
+width: 25%;
 }
 
 .container:hover .resize3 {
@@ -178,7 +177,6 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   color: white;
   position: fixed;
 margin-right: 27%;
-
   top: 10%;
 animation: 
     typing 3.5s steps(40, end),
@@ -222,14 +220,12 @@ margin-right: 10%;
 	}
 	
 .resize3{
- margin-left: auto;
-   margin-right: auto;
+ 
 width: 20%;
 min-width: 138px;
 position: absolute;
-bottom: 0px;
+top: 455px;
 right: 40%;
-	
 background-color: #00234b;
 }	
 	
