@@ -226,8 +226,7 @@ margin-right: 10%;
    margin-right: auto;
 width: 20%;
 min-width: 138px;
-position: fixed;
-
+position: absolute;
 bottom: 10%;
 right: 40%;
 	
