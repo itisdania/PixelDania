@@ -34,7 +34,14 @@ img {
 }
 
 
+img.container {
 
+position: relative
+text-align: center;	
+   display: inline-block;
+
+
+}
 .resize{
   width:40px;
   height: auto;
@@ -88,14 +95,10 @@ img {
 width: 20%;
 	    display: block;
 	position: absolute;
-	
 	top: 150px;
-   display: inline-block;
    float: right;
   background-color: #00234b;
 justify-content: center;
-  text-align: center;
-
   vertical-align: top;
 
 
