@@ -86,16 +86,15 @@ img {
   display: block;
  max-width:100%;
   max-height:auto;
-
    margin-left: auto;
     margin-right:auto;
-   position: absolute;
-    top: 170px; left: 100px; bottom: 0; right: 0;
+   position: static;
+    top: 170px; left: 300px; bottom: 0; right: 0;
 	  transition: .5s ease;
   backface-visibility: hidden;
   opacity: 1;
   background: #a6b2c0;
- <!-- border-width: 6px; border-color: yellow; border-style: solid;-->
+ <!--- border-width: 6px; border-color: yellow; border-style: solid; --->
 
 }
 
