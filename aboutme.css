@@ -212,7 +212,7 @@ background: linear-gradient(to bottom, #00234b 75% , yellow 0%);
 span {
 text-align: left;
 font-family: 'Anonymous Pro', monospace; 
-font-size : clamp(0.8rem, 2.50vw, 1.4rem);
+font-size : clamp(1.4rem, 2.50vw, 1.4rem);
 color: #fff;
 width: 100%;
 margin-left: 10%;
