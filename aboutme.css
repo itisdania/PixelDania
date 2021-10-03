@@ -224,7 +224,8 @@ margin-right: 10%;
 width: 20%;
 min-width: 138px;
 position: absolute;
-top: 455px;
+ top:80%;
+ bottom: 0px; left: 0px; 
 right: 40%;
 background-color: #00234b;
 }	
