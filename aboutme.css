@@ -94,7 +94,7 @@ text-align: center;
 .resize3{
  margin-left: auto;
    margin-right: auto;
-width: 20%;
+width: 23%;
 max-width: 250px;
 display: block;
 position: absolute;
@@ -155,8 +155,6 @@ span {
 	width: 100%;
 	margin-left: 10%;
         margin-right: 40%;
-	
-
 }
 
 .this{
@@ -231,7 +229,7 @@ width: 20%;
 max-width: 250px;
 position: absolute;
 right:40%;
-top: 480px;
+top: 455px;
 background-color: #00234b;
 }	
 	
