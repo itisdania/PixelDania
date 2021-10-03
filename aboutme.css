@@ -88,12 +88,10 @@ img {
   max-height:auto;
    margin-left: auto;
     margin-right:auto;
-   position: static;
     top: 170px; left: 300px; bottom: 0; right: 0;
-	  transition: .5s ease;
-  backface-visibility: hidden;
-  opacity: 1;
   background: #a6b2c0;
+	display:block;
+float:left;
  <!--- border-width: 6px; border-color: yellow; border-style: solid; --->
 
 }
@@ -107,9 +105,7 @@ img {
   text-align: center;
 }
 .container {
-  position: relative;
-	width: 100%;
-
+max-width:100%;
 }
 
 .container:hover .resize3 {
