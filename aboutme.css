@@ -10,11 +10,6 @@
 
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
-/* Global */
-html{
-  min-height: 100%;
-  overflow: hidden;
-}
 body{
   height: calc(100vh - 8em);
   padding: 4em;
@@ -37,8 +32,8 @@ body{
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(44) infinite normal;
+  animation: typewriter 4s steps(44),
+             blinkTextCursor 700ms steps(44) ;
 }
 @keyframes typewriter{
   from{width: 0;}
@@ -48,8 +43,6 @@ body{
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
 }
-
-
 
 
 
