@@ -117,7 +117,7 @@ vertical-align: top;
 }
 
 .container {
-width: 25%;
+position: relative;
 }
 
 .container:hover .resize3 {
@@ -227,7 +227,7 @@ margin-right: 10%;
 width: 20%;
 min-width: 138px;
 position: absolute;
-bottom: 1%;
+bottom: 0px;
 right: 40%;
 	
 background-color: #00234b;
