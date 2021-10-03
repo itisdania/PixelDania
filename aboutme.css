@@ -92,6 +92,8 @@ img {
   background: #a6b2c0;
 	display:block;
 float:left;
+	  position: absolute;
+
  <!--- border-width: 6px; border-color: yellow; border-style: solid; --->
 
 }
