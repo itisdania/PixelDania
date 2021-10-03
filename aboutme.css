@@ -229,14 +229,12 @@ margin-right: 10%;
    margin-right: auto;
 width: 20%;
 max-width: 250px;
-display: block;
 position: absolute;
 right:40%;
 bottom: 0px;
 
 background-color: #00234b;
 justify-content: center;
-vertical-align: bottom;
 }	
 	
 .typewriter p {
