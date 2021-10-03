@@ -87,7 +87,7 @@ img {
    margin-right: auto;
 max-width: 100%;
 	position: absolute;
-	left: 10px;
+	right: 20px;
 	top: 40px;
    display: inline-block;
    float: right;
