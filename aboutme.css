@@ -85,7 +85,8 @@ img {
 .resize3{
  margin-left: auto;
    margin-right: auto;
-width: 20%;
+width: 40%;
+	    display: block;
 	position: absolute;
 	right: 30px;
 	top: 100px;
@@ -94,7 +95,7 @@ width: 20%;
   background-color: #00234b;
 justify-content: center;
   text-align: center;
-  display:flex;
+
   vertical-align: top;
 
 
@@ -109,7 +110,7 @@ justify-content: center;
   text-align: center;
 }
 .container {
-max-width:100%;
+width: 25%;
 }
 
 .container:hover .resize3 {
