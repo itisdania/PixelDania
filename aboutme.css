@@ -218,8 +218,9 @@ div {
 }
 @media screen and (max-width:600px)
 {
-background: repeating-linear-gradient(#74ABDD, #74ABDD 49.9%, #498DCB 50.1%, #498DCB 100%);	
-
+body  {
+background: linear-gradient(to bottom, #00234b 75% , yellow); 
+}
 	
 .typewriter p {
   color: #fff;
