@@ -157,7 +157,7 @@ span {
 }
 .this{
     text-align: center;
-    position:relative;
+    position:fixed;
     top:60%;
     width: 100%;
     height:auto;
@@ -232,7 +232,7 @@ background-color: #00234b;
 	
 .this{
     text-align: center;
-    position:fixed;
+    position:relative;
     top:60%;
     width: 100%;
     height:auto;
