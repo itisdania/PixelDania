@@ -100,6 +100,7 @@ width: 20%;
 	position: absolute;
 	right:2.8%;
 	top: 150px;
+	bottom: auto;
    float: right;
   background-color: #00234b;
 justify-content: center;
