@@ -232,7 +232,7 @@ max-width: 250px;
 display: block;
 position: absolute;
 right:40%;
-top: 0px;
+bottom: 0px;
 
 background-color: #00234b;
 justify-content: center;
