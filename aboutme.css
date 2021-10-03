@@ -246,8 +246,7 @@ overflow: hidden;
   50% { border-color: transparent }
 }
 	
-background: repeating-linear-gradient(#00234b 75%, yellow 25%);
-	
+background: repeating-linear-gradient(#74ABDD, #74ABDD 49.9%, #498DCB 50.1%, #498DCB 100%);	
 }
 
 
