@@ -185,7 +185,7 @@ margin-right: 27%;
 
   top: 10%;
   animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(44) infinite
+             blinkTextCursor 500ms steps(44) infinite normal;
  
 
 }
