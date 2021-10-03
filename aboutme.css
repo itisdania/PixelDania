@@ -87,10 +87,10 @@ img {
  max-width:100%;
   max-height:auto;
 
-   margin-left: 79%;
+   margin-left: auto;
     margin-right:auto;
    position: absolute;
-    top: 170px; left: 0; bottom: 0; right: 0;
+    top: 170px; left: 100px; bottom: 0; right: 0;
 	  transition: .5s ease;
   backface-visibility: hidden;
   opacity: 1;
