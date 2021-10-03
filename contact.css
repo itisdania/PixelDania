@@ -88,6 +88,18 @@ background-color: #00234b;
   background: #a6b2c0;
 }
 
+.email
+{
+ color: white;	
+	
+}
+
+.hover:email{
+	 background-color: yellow;
+	
+	
+}
+
 h2 {
 font-family: 'Orbitron', sans-serif;
   color: white; }
@@ -97,8 +109,10 @@ font-family: 'Orbitron', sans-serif;
     color: white; }
 
 .contact-social-icons p {
+	font-family: 'Orbitron', sans-serif;
   color: white; }
 .contact-social-icons ul a {
+	font-family: 'Orbitron', sans-serif;
   color: white;
   list-style: none; }
   .contact-social-icons ul a:hover {
