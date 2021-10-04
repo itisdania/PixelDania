@@ -100,11 +100,9 @@ vertical-align: top;
 
 .more{
 top: 300px;
-display: block;
 position: absolute;
 right:4.8%;
-	 margin-left: auto;
-   margin-right: auto;
+	
 }
 
 
