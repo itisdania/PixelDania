@@ -105,6 +105,12 @@ font-family: 'Orbitron', sans-serif;
 .contact-social-icons p {
 	font-family: 'Orbitron', sans-serif;
   color: white; }
+
+.contact-social-icons p :hover {
+      padding-right: 20px;
+	color: yellow;
+ }
+
 .contact-social-icons ul a {
 	font-family: 'Orbitron', sans-serif;
   color: white;
