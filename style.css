@@ -28,7 +28,7 @@ justify-content: center;
 }
 .bye
 {
-	text-decoration: underline;
+	text-decoration: none;
   horizontal-align: top;
 font-size : clamp(1.1rem, 2.6vw, 1.3rem);
 color: #fff;
