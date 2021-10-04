@@ -112,16 +112,9 @@ font-family: 'Orbitron', sans-serif;
 
 .contact-social-icons p :hover {
       padding-right: 20px;
-  background-color: yellow;
 	
  }
 
-
-.fa fa-codepen:hover
-{
-	  padding-right: 20px;
-  background-color: yellow;
-}
 
 .contact-social-icons ul a {
 	font-family: 'Orbitron', sans-serif;
@@ -129,7 +122,8 @@ font-family: 'Orbitron', sans-serif;
   list-style: none; }
 
   .contact-social-icons ul a:hover {
-    color: #f0f0e6; }
+    color: #f0f0e6;
+}
 
   .contact-social-icons ul a li {
     display: inline-block;
