@@ -9,7 +9,7 @@
 
 body {
 
-  background: linear-gradient(to right, #00234b 70%, yellow 0%);  }
+  background: linear-gradient(to right, #00234b 75%, yellow 0%);  }
 
 
 html {
@@ -89,7 +89,7 @@ max-width: 250px;
 display: block;
 position: absolute;
 right:4.8%;
-top: 357px;	
+top: 300px;	
 float: right;
 background-color: #00234b;
 justify-content: center;
@@ -189,7 +189,7 @@ div {
 @media screen and (max-width:700px)
 {
 body  {
-background: linear-gradient(to top, #00234b 65% , yellow 0%); 
+background: linear-gradient(to top, #00234b 75% , yellow 0%); 
 }
 	
 span {
@@ -208,7 +208,7 @@ width: 20%;
 min-width: 138px;
 position: absolute;
   right: 35%;
-	bottom: 10px;
+	top: 10px;
 background-color: #00234b;
  margin-bottom: 2%;
 }	
