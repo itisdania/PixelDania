@@ -112,12 +112,21 @@ font-family: 'Orbitron', sans-serif;
 	
  }
 
+
+.fa fa-codepen:hover
+{
+	  padding-right: 20px;
+  background-color: yellow;
+}
+
 .contact-social-icons ul a {
 	font-family: 'Orbitron', sans-serif;
   color: white;
   list-style: none; }
+
   .contact-social-icons ul a:hover {
     color: #f0f0e6; }
+
   .contact-social-icons ul a li {
     display: inline-block;
     padding: 2%; }
