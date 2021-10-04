@@ -34,15 +34,6 @@ img {
   margin-right: auto;
 }
 
-
-img.container {
-
-position: relative
-text-align: center;	
-   display: inline-block;
-
-
-}
 .resize{
   width:40px;
   height: auto;
@@ -224,8 +215,8 @@ margin-right: 10%;
 width: 20%;
 min-width: 138px;
 position: absolute;
-  vertical-align: bottom;
   right: 35%;
+	bottom: 10px;
 background-color: #00234b;
  margin-bottom: 2%;
 }	
