@@ -9,7 +9,7 @@
 
 body {
 
-  background: linear-gradient(to right, #00234b 75%, yellow 0%);  }
+  background: linear-gradient(to right, #00234b 70%, yellow 0%);  }
 
 
 html {
@@ -156,7 +156,7 @@ overflow: hidden; /* Ensures the content is not revealed until the animation */
   margin: 0 auto;
   letter-spacing: .1em;
   font-smooth: never;
-  font-size : clamp(1.5rem, 4vw, 2.5rem);
+  font-size : clamp(1.5rem, 4vw, 2.2rem);
   color: white;
   position: fixed;
 margin-right: 27%;
@@ -189,7 +189,7 @@ div {
 @media screen and (max-width:700px)
 {
 body  {
-background: linear-gradient(to top, #00234b 75% , yellow 0%); 
+background: linear-gradient(to top, #00234b 70% , yellow 0%); 
 }
 	
 span {
