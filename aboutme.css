@@ -9,7 +9,7 @@
 
 body {
 
-  background: linear-gradient(to right, #00234b 70%, yellow 0%);  }
+  background: linear-gradient(to right, #00234b 65%, yellow 0%);  }
 
 
 html {
@@ -89,20 +89,11 @@ max-width: 250px;
 display: block;
 position: absolute;
 right:4.8%;
-top: 357px;
-	
+top: 357px;	
 float: right;
 background-color: #00234b;
 justify-content: center;
 vertical-align: top;
-}
-
-
-.more{
-top: 300px;
-position: absolute;
-right:4.8%;
-	
 }
 
 
@@ -113,14 +104,6 @@ right:4.8%;
   top: 300px;
   left: 0px; right: 0px; bottom: 0px;
   text-align: center;
-}
-
-.container {
-width: 25%;
-}
-
-.container:hover .resize3 {
- text-decoration: none;
 }
 
 .container:hover .middle {
@@ -206,7 +189,7 @@ div {
 @media screen and (max-width:700px)
 {
 body  {
-background: linear-gradient(to bottom, #00234b 70% , yellow 0%); 
+background: linear-gradient(to top, #00234b 65% , yellow 0%); 
 }
 	
 span {
