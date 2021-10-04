@@ -130,7 +130,7 @@ text-decoration: none;
 }
 
 span {
-	text-align: left;
+	text-align: center;
      font-family: 'Anonymous Pro', monospace; 
 	font-size : clamp(0.45rem, 2.50vw, 1.4rem);
         color: #fff;
@@ -193,7 +193,7 @@ background: linear-gradient(to top, #00234b 70% , yellow 0%);
 }
 	
 span {
-text-align: left;
+text-align: center;
 font-family: 'Anonymous Pro', monospace; 
 font-size : clamp(0.9rem, 2.50vw, 1.4rem);
 color: #fff;
