@@ -207,8 +207,9 @@ margin-right: 10%;
 width: 20%;
 min-width: 138px;
 position: absolute;
-
-top: 5%;
+margin-left: auto;
+margin-right: auto;
+top: 15%;
 background-color: #00234b;
 }	
 	
