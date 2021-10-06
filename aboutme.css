@@ -208,10 +208,9 @@ margin-right: 10%;
 	}
 	
 .div {
- display:flex;
-  width: auto;
-  height: 30%;
-  margin: auto;
+ display: flex;
+ height: 300px; 
+ background-color: #000;
 }	
 	
 
