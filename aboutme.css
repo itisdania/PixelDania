@@ -21,7 +21,12 @@ min-height: 100%;
 }
 
 #header-nav{
-	
+height: 50px;
+  position: fixed;
+  top: 0;
+  display: block;
+  width: 100%;
+  background: #a6b2c0;	
 }
 img {
 
