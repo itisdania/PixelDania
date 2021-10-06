@@ -18,6 +18,8 @@ body {
  float: right;
 }
 
+
+
 html {
   height: 100%;
   margin: auto;
@@ -188,11 +190,21 @@ div {
   vertical-align: top;
 
 }
+
+<!-- media query --->
 @media screen and (max-width:700px)
 {
+	
+.div {
+ display:flex;
+  width: auto;
+  height: 30%;
+  margin: 0;
+}	
+	
 body  {
 background: linear-gradient(to top, #00234b 70% , yellow 0%); 
-}
+       }
 	
 span {
 text-align: center;
