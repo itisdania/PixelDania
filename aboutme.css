@@ -193,12 +193,13 @@ div {
 
 <!-- media query --->
 @media screen and (max-width:700px)
-{
-	
+{	
+		
+
 	
 body  {
 background: linear-gradient(to top, #00234b 70% , yellow 0%); 
-       }
+     
 	
 span {
 text-align: center;
@@ -209,14 +210,21 @@ width: 100%;
 margin-left: 10%;
 margin-right: 10%;
 	}
+
+.div {
+ display:flex;
+  width: auto;
+  height: 30%;
+  margin: 0;
+}	
 	
 .resize3{
  
 width: 20%;
 min-width: 138px;
 position: absolute;
-margin-right: 35%;
 top: 22%;
+margin: auto;
 background-color: #00234b;
 }	
 	
