@@ -18,17 +18,10 @@ html {
   margin: auto;
 overflow-x: visible;
 min-height: 100%;
-
 }
 
-#header-nav{
-	height: 50px;
-  position: fixed;
-  top: 0;
-  display: block;
-  width: 100%;
-  background: #a6b2c0;
-}
+ <!-- #header-nav{ height: 50px; position: fixed; top: 0; display: block; width: 100%; background: #a6b2c0} --->
+
 img {
 
   margin-left: auto;
@@ -217,7 +210,6 @@ margin-right: 10%;
 .div {
  display: flex;
  height: 300px; 
- background-color: #000;
 margin:0 auto;
 	text-align:center 
 	}	
