@@ -11,13 +11,6 @@ body {
 
   background: linear-gradient(to right, #00234b 75%, yellow 0%);  }
 
-	.div {
-		display:flex;
-  height: auto;
-  width: 25%;
- float: right;
-}
-
 
 
 html {
@@ -89,16 +82,7 @@ img {
   background: #a6b2c0;
 }
 
-.resize3{
-margin: auto;
-width: 20%;
-max-width: 250px;
-display: block;
-position: absolute;
-top: 200px;	
-background-color: #00234b;
-justify-content: center;
-}
+
 
 
 .middle {
@@ -189,6 +173,29 @@ div {
   display:flex;
   vertical-align: top;
 
+}
+@media screen and (min-width:701px)
+	
+{
+
+	.div {
+  display:flex;
+  height: auto;
+  width: 25%;
+ float: right;
+}
+
+.resize3{
+margin: auto;
+width: 20%;
+max-width: 250px;
+display: block;
+position: absolute;
+top: 200px;	
+background-color: #00234b;
+justify-content: center;
+}	
+	
 }
 
 @media screen and (max-width:700px)
