@@ -177,9 +177,11 @@ div {
  float: right;
 }
 
-	.resize4 {
-	display: none;
-	}
+.resize4 
+{
+display: none;
+}
+	
 .resize3{
 margin: auto;
 width: 20%;
@@ -191,7 +193,8 @@ background-color: #00234b;
 justify-content: center;
 }
 	
-	.resize{
+.resize
+	{
   width:40px;
   height: auto;
   vertical-align: top;
@@ -211,7 +214,8 @@ justify-content: center;
       filter: alpha(opacity=30);
     }
 
-.resize1{
+.resize1
+	{
   width:40px;
   height: auto;
   vertical-align: top;
@@ -223,7 +227,7 @@ justify-content: center;
   max-width:100%;
   max-height:199%;
   background: #a6b2c0;
-}
+         }
 .resize2{
   width:80px;
   height: auto;
@@ -269,7 +273,8 @@ margin-right: 10%;
  display: flex;
  height: 300px; 
 margin:0 auto;
-	text-align:center 
+text-align:center; 
+vertical-align: middle;
 	}	
 	
 .resize3 {
@@ -284,6 +289,7 @@ min-width: 138px;
 position: absolute;
 margin: auto;
 top: 22%;
+vertical-align: middle;	
 background-color: #00234b;
 }	
 	
