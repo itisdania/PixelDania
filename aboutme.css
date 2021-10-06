@@ -270,7 +270,7 @@ margin-right: 10%;
 	}
 	
 .div {
- display: inline block;
+  display:flex;
  height: 25%; 
  margin:0 auto;
  vertical-align: middle;
