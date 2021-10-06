@@ -286,6 +286,7 @@ margin-right: 10%;
  
 width: 20%;
 min-width: 138px;
+height: 100%; 
 position: absolute;
 margin: auto;
 top: 22%;
