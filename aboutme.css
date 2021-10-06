@@ -11,6 +11,11 @@ body {
 
   background: linear-gradient(to right, #00234b 70%, yellow 0%);  }
 
+	.div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
 
 html {
   height: 100%;
