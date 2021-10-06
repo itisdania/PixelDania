@@ -6,12 +6,9 @@
 
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
-
 body {
 
   background: linear-gradient(to right, #00234b 75%, yellow 0%);  }
-
-
 
 html {
   height: 100%;
@@ -45,7 +42,7 @@ img {
   right:0;
   max-width:100%;
   max-height:199%;
-	 background: #ffffff00;
+  background: #ffffff00;
 }
 
 .resize:hover
@@ -80,9 +77,6 @@ img {
   max-height:199%;
   background: #ffffff00;
 }
-
-
-
 
 .middle {
   transition: .5s ease;
@@ -176,7 +170,6 @@ div {
 @media screen and (min-width:701px)
 	
 {
-
 	.div {
   display:flex;
   height: auto;
@@ -184,6 +177,9 @@ div {
  float: right;
 }
 
+	.resize4 {
+	display: none;
+	}
 .resize3{
 margin: auto;
 width: 20%;
@@ -276,7 +272,11 @@ margin:0 auto;
 	text-align:center 
 	}	
 	
-
+.resize3 {
+	display: none;
+	}
+	
+	
 .resize4{
  
 width: 20%;
