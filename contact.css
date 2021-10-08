@@ -96,11 +96,15 @@ background-color: #00234b;
 
 h2 {
 font-family: 'Orbitron', sans-serif;
-  color: white; }
+  color: white;
+max-width: 100px;
+}
 #contact {
 }
   #contact h2 {
-    color: white; }
+    color: white;
+max-width: 100px;
+}
 
 .contact-social-icons p {
   font-family: 'Orbitron', sans-serif;
