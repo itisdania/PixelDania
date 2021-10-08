@@ -94,7 +94,6 @@ background-color: #00234b;
 
 
 .header{
-         top: 30%;
 	max-width: 400px;
 	display: block;
 	text-align: center;
@@ -103,8 +102,8 @@ background-color: #00234b;
 }
 
 h2 {
-font-family: 'Orbitron', sans-serif;
-  color: white;
+ top: 10%;
+
 }
 #contact {
 }
@@ -140,6 +139,7 @@ font-family: 'Orbitron', sans-serif;
 
 
 .cover.bottom {
+	top:10%;
     padding: 10% 0 10% 0; 
 text-align: center;
 } 
