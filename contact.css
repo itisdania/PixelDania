@@ -92,13 +92,12 @@ background-color: #00234b;
 
 
 .header{
-	 top: 10%;
 	max-width: 400px;
 	display: block;
 	text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
+        margin-left: auto;
+        margin-right: auto;
+       }
 
 h2 {
  top: 10%;
@@ -113,8 +112,6 @@ h2 {
 
 .contact-social-icons p {
   font-family: 'Orbitron', sans-serif;
-  padding-right: 20px;
-
   color: white; 
 }
 
@@ -126,12 +123,12 @@ h2 {
 
 .contact-social-icons ul a {
 	font-family: 'Orbitron', sans-serif;
-  color: white;
-  list-style: none; }
+        color: white;
+        list-style: none; }
 
   .contact-social-icons ul a:hover {
     color: #f0f0e6;
-}
+                                   }
 
   .contact-social-icons ul a li {
     display: inline-block;
@@ -140,9 +137,9 @@ h2 {
 
 .cover.bottom {
 	top:10%;
-    padding: 10% 0 10% 0; 
-text-align: center;
-} 
+        padding: 10% 0 10% 0; 
+        text-align: center;
+              } 
 
 
 </style>
