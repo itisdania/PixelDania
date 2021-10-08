@@ -97,8 +97,9 @@ background-color: #00234b;
 
 .header{
 
-	max-width: 100px;
+	max-width: 300px;
 	text-align: center;
+	margin: 0;
 }
 h2 {
 font-family: 'Orbitron', sans-serif;
