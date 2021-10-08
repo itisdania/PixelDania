@@ -120,12 +120,16 @@ span {
         margin-right: 40%;
 }
 
+.grass{
+max-width: 100%;
+	width: 20%;
+}
 .footer{
 	margin-left: 10%;
         margin-right: 40%;
 	position: fixed;
 	top: 95%; 
-max-width: 100%;
+
 }
 
 
