@@ -124,7 +124,9 @@ span {
 	margin-left: 10%;
         margin-right: 40%;
 	position: fixed;
-	top: 95%; }
+	top: 95%; 
+max-width: 240px;
+width: 20%;}
 
 
 .this{
