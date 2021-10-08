@@ -121,8 +121,8 @@ span {
 }
 
 .grass{
-max-width: 300px;
-	width: 20%;
+max-width: 100%;
+	
 }
 .footer{
 	margin-left: 10%;
