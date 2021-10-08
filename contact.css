@@ -25,8 +25,6 @@ img {
 }
 
 
-
-
  body {
   margin: 0; 
   padding: 0;
@@ -98,8 +96,10 @@ background-color: #00234b;
 .header{
 
 	max-width: 300px;
+	display: block;
 	text-align: center;
-	margin: 0;
+	right-margin: auto;
+	left-margin: auto;
 }
 h2 {
 font-family: 'Orbitron', sans-serif;
