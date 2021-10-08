@@ -94,16 +94,20 @@ background-color: #00234b;
 	
 }
 
+
+.header{
+
+	max-width: 100px;
+	text-align: center;
+}
 h2 {
 font-family: 'Orbitron', sans-serif;
   color: white;
-max-width: 100px;
 }
 #contact {
 }
   #contact h2 {
     color: white;
-max-width: 100px;
 }
 
 .contact-social-icons p {
