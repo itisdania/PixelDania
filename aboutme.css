@@ -123,13 +123,13 @@ span {
 .footer{
 	margin-left: 10%;
         margin-right: 40%;
-	position: absolute;
+	position: fixed;
 	top: 80%; }
 
 
 .this{
     text-align: center;
-    position:absolute;
+    position:fixed;
     top:30%;
     width: 100%;
     height:auto;
