@@ -98,9 +98,10 @@ background-color: #00234b;
 	max-width: 300px;
 	display: block;
 	text-align: center;
-	right-margin: auto;
-	left-margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 h2 {
 font-family: 'Orbitron', sans-serif;
   color: white;
