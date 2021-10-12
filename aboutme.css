@@ -131,7 +131,7 @@ max-width: 100%;
 	position: fixed;
 	top: 55%; 
 	height:auto;
-	width: 20%;
+	width: 100%;
 
 
 }
@@ -143,6 +143,10 @@ max-width: 100%;
 
 }
 
+.infoResize{
+margin: auto;
+width: 20%;
+}
 
 .this{
     text-align: center;
