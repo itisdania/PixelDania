@@ -123,6 +123,13 @@ span {
 max-width: 100%;
 	
 }
+
+.info{
+	margin-left: 10%;
+        margin-right: 40%;
+	position: fixed;
+	top: 60%; 
+}
 .footer{
 	margin-left: 10%;
         margin-right: 40%;
