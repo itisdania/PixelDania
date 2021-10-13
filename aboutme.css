@@ -126,12 +126,6 @@ width: 130%;
 
 }
 
-.info{
-	margin-left: 8%;
-        margin-right: 35%;
-	position: fixed;
-	top: 55%; 
-
 
 }
 .footer{
@@ -140,11 +134,7 @@ width: 130%;
         width: 100%;
 }
 
-.infoResize{
-margin: auto;
-width: 40%;
-padding:10px;
-}
+
 
 .this{
     text-align: center;
@@ -194,9 +184,22 @@ div {
   vertical-align: top;
 
 }
-@media screen and (min-width:701px)
+@media screen and (min-width:851px)
 	
 {
+	
+	.info{
+	margin-left: 8%;
+        margin-right: 35%;
+	position: fixed;
+	top: 55%; 
+}
+	.infoResize{
+margin: auto;
+width: 40%;
+padding:10px;
+}
+	
 	.div {
   display:flex;
   height: auto;
