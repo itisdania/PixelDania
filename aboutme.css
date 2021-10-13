@@ -288,6 +288,19 @@ height: 50px;
 body  {
 background: linear-gradient(to top, #00234b 75% , yellow 0%); 
 }
+
+	.info{
+	margin-left: auto;
+        margin-right: auto;
+		width: 100%;
+	position: fixed;
+	top: 65%; 
+}
+	.infoResize{
+margin: auto;
+width: 40%;
+padding:10px;
+}
 	
 span {
 text-align: center;
