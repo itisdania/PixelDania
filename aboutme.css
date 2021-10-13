@@ -292,13 +292,13 @@ background: linear-gradient(to top, #00234b 75% , yellow 0%);
 	.info{
 	margin-left: auto;
         margin-right: auto;
-		width: 80%;
+		width: 100%;
 	position: fixed;
 	top: 65%; 
 }
 	.infoResize{
 margin: auto;
-width: 40%;
+width: 20%;
 padding:10px;
 }
 	
