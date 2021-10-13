@@ -119,23 +119,6 @@ span {
         margin-right: 35%;
 }
 
-
-.grass{
-width: 130%;
-	        margin-right: 25%;
-
-}
-
-
-
-.footer{
-	position: fixed;
-	top: 97%; 
-        width: 100%;
-}
-
-
-
 .this{
     text-align: center;
     position:fixed;
@@ -188,6 +171,18 @@ div {
 	
 {
 	
+	.grass{
+width: 130%;
+margin-right: 25%;
+}
+
+.footer{
+	position: fixed;
+	top: 97%; 
+        width: 100%;
+}
+
+
 	.info{
 	margin-left: 8%;
         margin-right: 35%;
@@ -288,18 +283,34 @@ height: 50px;
 body  {
 background: linear-gradient(to top, #00234b 75% , yellow 0%); 
 }
+	
+.grass
+{
+        width: 130%;
+}
 
-	.info{
+.footer
+{
+	position: fixed;
+	top: 98%; 
+        width: 100%;
+}
+
+
+.info
+{
 	margin-left: auto;
         margin-right: auto;
-		width: 100%;
+	width: 100%;
 	position: fixed;
 	top: 65%; 
 }
-	.infoResize{
-margin: auto;
-width: 30%;
-padding:5px;
+	
+.infoResize
+{
+        margin: auto;
+        width: 30%;
+        padding:5px;
 }
 	
 span {
