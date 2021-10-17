@@ -111,6 +111,7 @@ span{
 }
 
 .header{
+	width: 20%;
 	max-width: 450px;
 	display: block;
 	text-align: center;
