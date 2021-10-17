@@ -47,13 +47,20 @@ background-color: #00234b;
 
 .background
 {
+	
         max-width: 400px;
 	text-align: center;
         margin-left: auto;
         margin-right: auto;
 	display: block;
 	
-}
+    }
+
+    .background:hover {
+        background: url("https://i.ibb.co/x8h4Pbx/box-prompted-1.png") no-repeat;
+} 
+	    
+	    
 .resize:hover
     {
       opacity: 0.3;
