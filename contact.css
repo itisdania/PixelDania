@@ -89,6 +89,10 @@ background-color: #00234b;
  color: white;		
 }
 
+span{
+	color: white;
+	text-decoration: none;
+}
 
 .header{
 	max-width: 400px;
