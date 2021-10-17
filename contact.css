@@ -49,8 +49,11 @@ background-color: #00234b;
 {
         max-width: 400px;
 	text-align: center;
-        margin-left: 39%;
+        margin-left: auto;
         margin-right: auto;
+	 position:absolute;
+  top:40%;
+	left: 39%;
 }
 .resize:hover
     {
