@@ -48,9 +48,8 @@ background-color: #00234b;
 .background
 {
         max-width: 400px;
-	display: block;
 	text-align: center;
-        margin-left: auto;
+        margin-left: 40%;
         margin-right: auto;
 }
 .resize:hover
