@@ -105,7 +105,9 @@ h2 {
 }
 
 p{
-    text-align: center;
+	text-align: center;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 #contact {
@@ -116,7 +118,6 @@ p{
 }
 
 .contact-social-icons p {
-  font-family: 'Orbitron', sans-serif;
   color: white; 
 }
 
@@ -127,7 +128,6 @@ p{
 
 
 .contact-social-icons ul a {
-	font-family: 'Orbitron', sans-serif;
         color: white;
         list-style: none; }
 
