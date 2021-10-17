@@ -104,8 +104,13 @@ h2 {
 
 }
 
+p{
+    text-align: center;
+}
+
 #contact {
 }
+
   #contact h2 {
     color: white;
 }
