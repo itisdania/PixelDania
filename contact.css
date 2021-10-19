@@ -100,10 +100,20 @@ background-color: #00234b;
   background: #a6b2c0;
 }
 
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
 .email
 {
  color: white;	
-	
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);	
 }
 
 span{
