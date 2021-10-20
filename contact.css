@@ -107,10 +107,10 @@ background-color: #00234b;
   color: white;
 }
 
-
-a:span {
-      text-decoration: none;
+.container a {
+  text-decoration: none;
 }
+
 .email
 {
   text-decoration: none;
