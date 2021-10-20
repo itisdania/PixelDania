@@ -108,6 +108,9 @@ background-color: #00234b;
 }
 
 
+a:span {
+      text-decoration: none;
+}
 .email
 {
   text-decoration: none;
