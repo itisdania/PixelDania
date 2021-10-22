@@ -26,8 +26,8 @@ img {
 
 .footer
 {
-position:absolute;
-        top: 50%;	
+	position: fixed;
+        top: 70%;	
 	left:15%;
 	 width: 100%;
 
