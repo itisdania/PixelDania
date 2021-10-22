@@ -24,15 +24,22 @@ img {
   margin-right: 10px;
 }
 
+.fooer
+{
+position:absolute;
+        top: 50%;	
+	left:15%;
+	     width: 100%;
+
+}
+
 
 .pixel
 {
 	max-width: 150px;
 	min-width: 100px;
 	width: 20%;
-	position:absolute;
-        top: 50%;	
-	left:15%;
+	
 }
 	
 
