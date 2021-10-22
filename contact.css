@@ -25,6 +25,15 @@ img {
 }
 
 
+.pixel
+{
+	width: 40%;
+	position:absolute;
+        top:85%;
+	left:20%;
+}
+	
+
  body {
   margin: 0; 
   padding: 0;
