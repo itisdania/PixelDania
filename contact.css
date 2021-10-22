@@ -109,6 +109,8 @@ background-color: #00234b;
 
 .container a:hover {
   text-decoration: none;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+
 }
 
 .container a {
