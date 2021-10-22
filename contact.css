@@ -28,9 +28,10 @@ img {
 .pixel
 {
 	max-width: 200px;
-	width: 20%;
+	min-width: 100px;
+	width: 40%;
 	position:absolute;
-        top:70%;
+        bottom:10%;
 	left:15%;
 }
 	
