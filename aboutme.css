@@ -182,6 +182,12 @@ div {
         padding:10px;
 }
 
+.size:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }	
+	
 .buttons
 {
 margin-left: 10%;
@@ -191,25 +197,7 @@ margin-right: 35%;
 
 }
 
-	.buttons2
-{
-margin-left: 10%;
-margin-right: 35%;
- position: fixed;
-	top: 15%;
 
-}
-	.buttons:hover
-    {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
-    } 
-	
-.buttons2:hover
-    {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
-    } 	
 	
 .container {
   position: relative;
