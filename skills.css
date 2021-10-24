@@ -86,4 +86,16 @@ background-color: #00234b;
   max-height:199%;
   background: #a6b2c0;
 }
+
+.grass
+{
+        width: 130%;
+}
+
+.footer
+{
+	position: fixed;
+	top: 98%; 
+        width: 100%;
+}
 </style>
