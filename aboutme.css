@@ -122,6 +122,8 @@ button
  font-family: 'Orbitron', sans-serif;
 border: none; border-width : 0; border : 0;
 background: #ffff00;
+  font-size: 18px;
+	
 }
 
 
@@ -193,12 +195,7 @@ div {
         padding:10px;
 }
 
-.size:hover
-    {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
-    }	
-	
+
 .buttons
 {
 margin-left: 10%;
@@ -207,7 +204,6 @@ margin-right: 35%;
 	top: 15%;
 
 }
-
 
 	
 .container {
