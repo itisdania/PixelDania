@@ -1,8 +1,8 @@
-var x = document.getElementById("summary");
-  var y = document.getElementById("lifestory");
 
 function showDiv() {
-  
+  var x = document.getElementById("summary");
+  var y = document.getElementById("lifestory");
+
   
   if (x.style.display === "none") {
     x.style.display = "";
@@ -16,7 +16,9 @@ function showDiv() {
 
 
 function show2Div() {
-  
+  var x = document.getElementById("summary");
+  var y = document.getElementById("lifestory");
+
   
   if (y.style.display === "none") {
     y.style.display = "";
