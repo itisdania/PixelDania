@@ -10,13 +10,3 @@ function showDiv() {
      
 
 
-
-function show2Div() {
-  vax y = document.getElementById("lifestory");
-  if (y.style.display === "none") {
-    y.style.display = "";
-  } else {
-    y.style.display = "none";
-  }
-  
-}
