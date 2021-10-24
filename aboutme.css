@@ -191,6 +191,11 @@ margin-right: 35%;
 
 }
 
+	.buttons:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    } 
 .container {
   position: relative;
   color: white;
