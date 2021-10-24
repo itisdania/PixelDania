@@ -46,14 +46,15 @@ img {
 
 .size
 { 
+	margin:auto;
 }
 
 .buttons
 {
 margin-left: 10%;
 margin-right: 35%;
-    position: fixed;
-	top: 20%:
+   position: fixed;
+	top: 30%; 
 
 }
 
