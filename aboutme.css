@@ -47,6 +47,8 @@ img {
 .size
 { 
 	margin:auto;
+	width: 40%;
+        padding:10px;
 }
 
 .buttons
@@ -54,7 +56,7 @@ img {
 margin-left: 10%;
 margin-right: 35%;
    position: fixed;
-	top: 17%; 
+	top: 12%; 
 
 }
 
