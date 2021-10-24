@@ -326,9 +326,8 @@ background: linear-gradient(to top, #00234b 70% , yellow 0%);
 
 	
 .size
-{ max-width: 120px;
-	width: 40%;
-	min-width: 80px;
+{       
+	width: 100px;
 	margin:auto;
         padding:10px;
 }
