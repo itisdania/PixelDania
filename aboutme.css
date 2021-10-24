@@ -64,6 +64,20 @@ margin-right: 35%;
 
 }
 
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+span{
+	color: black;
+  text-decoration: none;
+	  font-family: 'Orbitron', sans-serif;
+}
+
 
 .resize:hover
     {
