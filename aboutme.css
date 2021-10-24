@@ -115,7 +115,8 @@ text-decoration: none;
 }
 button
 {
-font-family: 'Anonymous Pro', monospace; 
+ font-family: 'Orbitron', sans-serif;
+border: none; border-width : 0; border : 0;
 background: #ffff00;
 }
 
