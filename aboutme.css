@@ -115,7 +115,7 @@ text-decoration: none;
 }
 
 span {
-	text-align: center;
+	text-align: left;
      font-family: 'Anonymous Pro', monospace; 
 	font-size : clamp(0.45rem, 2.50vw, 1.4rem);
         color: #fff;
@@ -167,7 +167,7 @@ div {
    margin-right: auto;
    float: none;
  justify-content: center;
-  text-align: center;
+  text-align: left;
   display:flex;
   vertical-align: top;
 
