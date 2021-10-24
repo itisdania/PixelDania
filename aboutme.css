@@ -48,9 +48,8 @@ img {
 }
 
 .size
-{ 
+{ width: 100px;
 	margin:auto;
-	width: 40%;
         padding:10px;
 }
 
