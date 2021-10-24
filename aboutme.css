@@ -70,19 +70,13 @@ margin-right: 35%;
 }
 
 .spany
-{	position: absolute;
-	  top: 50%;
-        left: 50%;
-	transform: translate(-50%, -50%);
-}
-
-span{
+{	
 	color: black;
         text-decoration: none;
 	font-family: 'Orbitron', sans-serif;
-	margin-left: auto;
-        margin-right: auto;
-      
+	position: absolute;
+	top: 50%;
+        left: 50%;
 }
 
 
