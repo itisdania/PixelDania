@@ -156,7 +156,7 @@ span {
         margin-right: 35%;
 }
 
-.summary{
+.this{
     text-align: center;
     position:fixed;
     top:30%;
@@ -384,7 +384,7 @@ vertical-align: middle;
 background-color: #00234b;
 }	
 	
-.summary{
+.this{
     text-align: center;
     position:fixed;
     top:50%;
