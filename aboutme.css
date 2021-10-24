@@ -326,7 +326,9 @@ background: linear-gradient(to top, #00234b 70% , yellow 0%);
 
 	
 .size
-{ width: 120px;
+{ max-width: 120px;
+	width: 40%;
+	min-width: 80px;
 	margin:auto;
         padding:10px;
 }
@@ -357,8 +359,7 @@ margin-right: 35%;
 	 transform: translate(-50%, -50%);
 
 }
-	
-	
+		
 	
 	
 .grass
