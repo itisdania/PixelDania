@@ -48,7 +48,7 @@ img {
 }
 
 .size
-{ width: 170px;
+{ width: 140px;
 	margin:auto;
         padding:10px;
 }
@@ -74,8 +74,8 @@ margin-right: 35%;
         text-decoration: none;
 	font-family: 'Orbitron', sans-serif;
 	position: absolute;
-	top: 50%;
-        left: 50%;
+	top: 43%;
+        left: 40%;
 	 transform: translate(-50%, -50%);
 
 }
