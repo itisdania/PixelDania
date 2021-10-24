@@ -57,9 +57,9 @@ img {
 {
 margin-left: 9%;
 margin-right: 35%;
-   position: fixed;
-	top: 12%; 
-	left: 16%;
+position: absolute;
+	top: 80px; 
+	left: 40px;
 
 }
 
