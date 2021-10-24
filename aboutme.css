@@ -57,6 +57,9 @@ img {
 {
 margin-left: 10%;
 margin-right: 35%;
+	diaplay: block;
+	top: 20%;
+}
 
 
 }
@@ -64,9 +67,7 @@ margin-right: 35%;
 .container {
   position: relative;
   color: white;
-	diaplay: block;
-	top: 20%;
-}
+	
 
 .spany
 {	
