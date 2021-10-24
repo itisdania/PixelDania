@@ -55,17 +55,17 @@ img {
 
 .buttons
 {
-
+margin-left: 10%;
 margin-right: 35%;
-position: absolute;
-	top: 80px; 
-	left: 260px;
+
 
 }
 
 .container {
   position: relative;
   color: white;
+	diaplay: block;
+	top: 20%;
 }
 
 .spany
