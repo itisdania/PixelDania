@@ -47,39 +47,6 @@ img {
   background: #ffffff00;
 }
 
-.size
-{ width: 120px;
-	margin:auto;
-        padding:10px;
-}
-
-.buttons
-{
-margin-left: 10%;
-margin-right: 35%;
- position: fixed;
-	top: 15%;
-
-
-
-}
-
-.container {
-  position: relative;
-  color: white;
-}
-
-.spany
-{	
-	color: black;
-        text-decoration: none;
-	font-family: 'Orbitron', sans-serif;
-	position: absolute;
-	top: 45%;
-        left: 45%;
-	 transform: translate(-50%, -50%);
-
-}
 
 
 .resize:hover
@@ -209,6 +176,41 @@ div {
 	
 {
 	
+.size
+{ width: 120px;
+	margin:auto;
+        padding:10px;
+}
+
+.buttons
+{
+margin-left: 10%;
+margin-right: 35%;
+ position: fixed;
+	top: 15%;
+
+
+
+}
+
+.container {
+  position: relative;
+  color: white;
+}
+
+.spany
+{	
+	color: black;
+        text-decoration: none;
+	font-family: 'Orbitron', sans-serif;
+	position: absolute;
+	top: 45%;
+        left: 45%;
+	 transform: translate(-50%, -50%);
+
+}
+	
+	
 	.grass{
 width: 130%;
 margin-right: 25%;
@@ -321,6 +323,44 @@ height: 50px;
 body  {
 background: linear-gradient(to top, #00234b 70% , yellow 0%); 
 }
+
+	
+.size
+{ width: 120px;
+	margin:auto;
+        padding:10px;
+}
+
+.buttons
+{
+margin-left: 10%;
+margin-right: 35%;
+ position: fixed;
+	top: 30%;
+
+
+
+}
+
+.container {
+  position: relative;
+  color: white;
+}
+
+.spany
+{	
+	color: black;
+        text-decoration: none;
+	font-family: 'Orbitron', sans-serif;
+	position: absolute;
+	top: 45%;
+        left: 45%;
+	 transform: translate(-50%, -50%);
+
+}
+	
+	
+	
 	
 .grass
 {
@@ -341,7 +381,7 @@ background: linear-gradient(to top, #00234b 70% , yellow 0%);
         margin-right: auto;
 	width: 100%;
 	position: fixed;
-	top: 65%; 
+	top: 78%; 
 }
 	
 .infoResize
