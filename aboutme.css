@@ -44,6 +44,11 @@ img {
   background: #ffffff00;
 }
 
+.size
+{
+	width: 80px;
+}
+
 .resize:hover
     {
       opacity: 0.3;
