@@ -47,7 +47,11 @@ img {
   background: #ffffff00;
 }
 
-
+button:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
 
 .resize:hover
     {
