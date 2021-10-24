@@ -90,6 +90,7 @@ background-color: #00234b;
 .grass
 {
         width: 130%;
+	max-width: 400px;
 }
 
 .footer
