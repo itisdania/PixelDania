@@ -393,7 +393,7 @@ margin-right: 35%;
 span {
 text-align: center;
 font-family: 'Anonymous Pro', monospace; 
-font-size : clamp(0.9rem, 2.50vw, 1.4rem);
+font-size : clamp(1.0rem, 2.50vw, 1.4rem);
 color: #fff;
 width: 100%;
 margin-left: 10%;
@@ -416,7 +416,7 @@ margin-right: 10%;
 .resize4{
  
 width: 20%;
-min-width: 138px;
+min-width: 146px;
 position: absolute;
 margin: auto;
 	top: 22%;
