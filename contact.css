@@ -70,9 +70,10 @@ background-color: #00234b;
 	text-align: center;
         margin-left: auto;
         margin-right: auto;
-	  text-decoration: none;
-position:absolute;
-  top:300px;
+	 text-decoration: none;
+         position:fixed;
+         top:300px;
+	display:block;
     }
 
     .background:hover {
