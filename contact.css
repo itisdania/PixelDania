@@ -109,7 +109,7 @@ background-color: #00234b;
 .container {
   position: absolute;
   top:250px;
-  margin-left: 25%;
+  margin-left: 22%;
   margin-right: auto;
   text-align: center;
   color: white;
@@ -148,7 +148,7 @@ span{
 .header{
 	width: 40%;
 	max-width: 450px;
-	min-width: 300px;
+	min-width: 310px;
 	display: block;
 	text-align: center;
         margin-left: 24%;
@@ -161,7 +161,7 @@ span{
 .header{
 	width: 40%;
 	max-width: 450px;
-	min-width: 300px;
+	min-width: 310px;
 	display: block;
 	text-align: center;
         margin-left: 8%;
