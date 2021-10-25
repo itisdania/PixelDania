@@ -67,13 +67,12 @@ background-color: #00234b;
 {
 	width: 400px;
         max-width: 450px;
-	text-align: center;
         margin-left: auto;
         margin-right: auto;
 	 text-decoration: none;
          position:absolute;
-         top:200px;
-	display:ab;
+         top:100px;
+	display:block;
     }
 
     .background:hover {
