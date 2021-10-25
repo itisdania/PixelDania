@@ -30,18 +30,14 @@ img {
         top: 70%;	
 	right: 70%;
 	 width: 100%;
-
 }
-
 
 .pixel
 {
 	max-width: 130px;
 	min-width: 100px;
 	
-	
-}
-	
+}	
 
  body {
   margin: 0; 
@@ -66,11 +62,7 @@ background-color: #00234b;
 .background
 {
 	width: 300px;
-        max-width: 350x;
-        margin-left: auto;
-        margin-right: auto;
-	 text-decoration: none;
-         position:absolute;
+        
     }
 
     .background:hover {
@@ -119,7 +111,6 @@ background-color: #00234b;
 
 .container {
   position: relative;
-	top:100px;
   text-align: center;
   color: white;
 }
