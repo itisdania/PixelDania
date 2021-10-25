@@ -107,7 +107,8 @@ background-color: #00234b;
 .container {
   position: absolute;
 	top:250px;
-	left: 400px;
+	margin-left: 40%;
+  margin-right: auto;
   text-align: center;
   color: white;
 }
@@ -149,7 +150,7 @@ span{
 	display: block;
 	text-align: center;
         margin-left: auto;
-        margin-right: auto;
+        margin-right: 10%;
        }
 
 h2 {
