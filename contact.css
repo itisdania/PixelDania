@@ -169,6 +169,21 @@ span{
        }
 	
 }
+
+@media screen and (max-width:400px)
+{
+	
+.header{
+	width: 40%;
+	max-width: 450px;
+	min-width: 330px;
+	display: block;
+	text-align: center;
+        margin-left: 7%;
+        margin-right: auto;
+       }
+	
+}
 h2 {
  top: 10%;
 
