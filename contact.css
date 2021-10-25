@@ -179,10 +179,17 @@ span{
 	min-width: 330px;
 	display: block;
 	text-align: center;
-        margin-left: 7%;
+        margin-left: 5%;
         margin-right: auto;
        }
-	
+	.container {
+  position: absolute;
+  top:230px;
+  margin-left: 22%;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+}
 }
 h2 {
  top: 10%;
