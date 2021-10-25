@@ -153,7 +153,6 @@ span{
 	text-align: center;
         margin-left: auto;
         margin-right: auto;
-	top:15%;
        }
 
 @media screen and (max-width:550px)
@@ -193,7 +192,7 @@ span{
 }
 }
 h2 {
- top: 10%;
+ top: 5%;
 
 }
 
