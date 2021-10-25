@@ -155,6 +155,20 @@ span{
         margin-right: auto;
        }
 
+@media screen and (max-width:550px)
+{
+	
+.header{
+	width: 40%;
+	max-width: 450px;
+	min-width: 295px;
+	display: block;
+	text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+       }
+	
+}
 h2 {
  top: 10%;
 
