@@ -126,17 +126,7 @@ background-color: #00234b;
 }
 
 
-.email
-{
-  text-decoration: none;
- font-size: 23px;
- color: black;	
- position: absolute;
- top: 25%;
- left: 49%;
- transform: translate(-50%, -50%);
-	  font-family: 'Orbitron', sans-serif;
-}
+
 
 span{
 	color: black;
