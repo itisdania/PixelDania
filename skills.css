@@ -90,13 +90,13 @@ background-color: #00234b;
 .grass
 {
         width: 225%;
-	max-width: 1600px;
+	max-width: 1550px;
 }
 
 .footer
 {
 	position: fixed;
-	top: 91%; 
+	top: 90%; 
         width: 100%;
 }
 </style>
