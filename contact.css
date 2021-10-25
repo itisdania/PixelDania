@@ -107,8 +107,21 @@ background-color: #00234b;
 .container {
   position: absolute;
 	top:250px;
+	left: 400px;
   text-align: center;
   color: white;
+}
+
+.email
+{
+  text-decoration: none;
+ font-size: 23px;
+ color: black;	
+ position: absolute;
+ top: 25%;
+ left: 49%;
+ transform: translate(-50%, -50%);
+	  font-family: 'Orbitron', sans-serif;
 }
 
 .container a:hover {
