@@ -62,8 +62,6 @@ background-color: #00234b;
 .background
 {
 	width: 300px; 
-	position: absolute;
- top: 25%;
     }
 	    
 	    
@@ -107,8 +105,8 @@ background-color: #00234b;
 }
 
 .container {
-  position: relative;
-	diaplay:block;
+  position: absolute;
+	top:30%;
   text-align: center;
   color: white;
 }
