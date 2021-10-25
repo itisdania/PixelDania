@@ -61,13 +61,10 @@ background-color: #00234b;
 
 .background
 {
-	width: 300px;
-        
+	width: 300px; 
+	position: absolute;
+ top: 25%;
     }
-
-    .background:hover {
-        background: url("https://i.ibb.co/8xrypLL/hi-use-me-prompted-1.png") no-repeat;
-} 
 	    
 	    
 .resize:hover
