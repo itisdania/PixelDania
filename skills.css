@@ -26,7 +26,10 @@ img {
 
 .coin
 {
-	width: 40px;
+	width: 80px;
+  position:fixed;
+	top:20%;
+	display:block;
 
 }
 
