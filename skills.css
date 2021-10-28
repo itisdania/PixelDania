@@ -193,7 +193,7 @@ background-color: #00234b;
 @media screen and (min-width: 1001px) {
 .title{
 	width: 40%;
-	max-width: 410px;
+	max-width: 405px;
 	min-width: 330px;
 	display: block;
         margin-left: auto;
