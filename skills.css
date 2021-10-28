@@ -176,6 +176,37 @@ margin-left: 70%;
 width: 30%;
 }
 
+.container3
+{
+height: 70%;	
+margin-left: 75%;	
+width: 30%;
+}	
+
+.coin41
+{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}	
+
+	.coin42
+{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+	
+	.coin43
+{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+	
 .coin31
 {
 	width: 80px;
