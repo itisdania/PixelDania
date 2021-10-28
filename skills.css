@@ -179,10 +179,39 @@ width: 30%;
 .container3
 {
 height: 70%;	
-margin-left: 75%;	
+margin-left: 80%;	
 width: 30%;
 }	
 
+	.container4
+{
+height: 70%;	
+margin-left: 90%;	
+width: 30%;
+}
+	
+	.coin51
+{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}	
+	
+	.coin52
+{
+	width: 80px;
+      position:fixed;
+	top:50%;
+	display:block;
+}	
+	.coin53
+{
+	width: 80px;
+      position:fixed;
+	top:70%;
+	display:block;
+}	
 .coin41
 {
 	width: 80px;
@@ -195,7 +224,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:30%;
+	top:50%;
 	display:block;
 }
 	
@@ -203,7 +232,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:30%;
+	top:70%;
 	display:block;
 }
 	
