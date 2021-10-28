@@ -214,7 +214,7 @@ width: 30%;
 }
 }
 
-@media screen and (max-width: 799px) {
+@media screen and (max-width: 800px) {
 .title{
 	width: 40%;
 	max-width: 380px;
@@ -224,6 +224,7 @@ width: 30%;
         margin-right: auto;
          margin-top: 11%;    
 }
+
 	
 .coin21
 {
@@ -294,27 +295,21 @@ width: 30%;
 
 .coin31
 {
-	width: 60px;
-      position:fixed;
-	top:30%;
-	display:block;
+	display: none;
+	
 }
 
 .coin32
 {
-	width: 60px;
-      position:fixed;
-	top:50%;
-	display:block;
+		display: none;
+
 }
 
 .coin33
 {
-	width: 60px;
-      position:fixed;
-	top:70%;
-	display:block;
-}
+		display: none;
+
+
 }
 
 @media screen and (max-width: 550px) {
