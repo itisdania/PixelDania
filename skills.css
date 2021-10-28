@@ -345,6 +345,12 @@ width: 30%;
 position:fixed;
 	top:30%;	
 }
+	.C
+{
+ position:fixed;
+	top:30%;
+	margin-left: 43%;
+	}
 
 .coin22
 {
@@ -356,6 +362,14 @@ position:fixed;
 position:fixed;
 	top:50%;	
 }
+	
+	.Cp
+{
+ position:fixed;
+	top:50%;
+	margin-left: 43%;
+	}
+	
 .coin23
 {
 	width: 60px;
@@ -366,6 +380,20 @@ position:fixed;
 	top:70%;	
 }
 
+	.game
+{
+ position:fixed;
+	top:70%;
+	margin-left: 43%;
+	}
+	
+
+.web
+{
+ position:fixed;
+	top:30%;
+	margin-left: 8%;
+	}
 .coin
 {
 	width: 60px;
@@ -374,6 +402,12 @@ position:fixed;
 	display:block;
 }
 
+	 .UX
+{
+ position:fixed;
+	top:50%;
+	margin-left: 8%;
+	}
 .coin1
 {
 	width: 60px;
@@ -381,7 +415,12 @@ position:fixed;
 	top:50%;
 	display:block;
 }
-
+ .threeD
+{
+ position:fixed;
+	top:70%;
+	margin-left: 8%;
+	}
 .coin2
 {
 	width: 60px;
