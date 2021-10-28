@@ -86,7 +86,7 @@ width: 30%;
 .container2
 {
 height: 60%;	
-margin-left: 50%;	
+margin-left: 70%;	
 width: 30%;
 }
 
@@ -94,7 +94,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:40%;
+	top:20%;
 	display:block;
 }
 
@@ -110,7 +110,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:40%;
+	top:60%;
 	display:block;
 }
 
