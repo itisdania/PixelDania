@@ -350,7 +350,7 @@ position:fixed;
  position:fixed;
 	top:30%;
 	margin-left: 73%;
-	font-size : clamp(0.7rem, 2.50vw, 1.0 rem);
+	font-size : clamp(0.5rem, 2.0vw, 1.0 rem);
 	}
 
 .coin22
@@ -369,7 +369,7 @@ position:fixed;
  position:fixed;
 	top:50%;
 	margin-left: 73%;
-	font-size : clamp(0.7rem, 2.50vw, 1.0 rem);
+	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 	
 .coin23
@@ -387,7 +387,7 @@ position:fixed;
  position:fixed;
 	top:70%;
 	margin-left: 73%;
-	font-size : clamp(0.7rem, 2.50vw, 1.0 rem);
+	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 	
 
@@ -396,7 +396,7 @@ position:fixed;
  position:fixed;
 	top:30%;
 	margin-left: 13%;
-	font-size : clamp(0.7rem, 2.50vw, 1.0 rem);
+	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 .coin
 {
@@ -411,7 +411,7 @@ position:fixed;
  position:fixed;
 	top:50%;
 	margin-left: 13%;
-	font-size : clamp(0.7rem, 2.50vw, 1.0 rem);
+	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 .coin1
 {
@@ -425,7 +425,7 @@ position:fixed;
  position:fixed;
 	top:70%;
 	margin-left: 13%;
-	font-size : clamp(0.7rem, 2.50vw, 1.0 rem);
+	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 .coin2
 {
