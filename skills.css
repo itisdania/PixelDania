@@ -182,6 +182,15 @@ position:fixed;
 	top:70%;
 	display:block;
 }
+	
+ .3D
+{
+ position:fixed;
+	top:70%;
+	margin-left: 10%;
+	}
+	
+	
 .container
 {
 height: 60%;	
