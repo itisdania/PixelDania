@@ -50,7 +50,11 @@ img {
 .container
 {
 height: 60%;	
+margin-left: 5%;	
+width: 30%;
 }
+
+
 
  body {
   margin: 0; 
