@@ -30,7 +30,7 @@ img {
   margin-left: 40%;
   margin-right: auto;
 position:fixed;
-	top:20%;	
+	top:30%;	
 }
 
 .coin22
@@ -41,7 +41,7 @@ position:fixed;
   margin-left: 40%;
   margin-right: auto;
 position:fixed;
-	top:40%;	
+	top:50%;	
 }
 .coin23
 {
@@ -50,14 +50,14 @@ position:fixed;
   margin-left: 40%;;
   margin-right: auto;
 position:fixed;
-	top:60%;	
+	top:70%;	
 }
 
 .coin
 {
 	width: 80px;
       position:fixed;
-	top:20%;
+	top:30%;
 	display:block;
 }
 
@@ -65,7 +65,7 @@ position:fixed;
 {
 	width: 80px;
       position:fixed;
-	top:40%;
+	top:50%;
 	display:block;
 }
 
@@ -73,7 +73,7 @@ position:fixed;
 {
 	width: 80px;
       position:fixed;
-	top:60%;
+	top:70%;
 	display:block;
 }
 .container
@@ -85,7 +85,7 @@ width: 30%;
 
 .container2
 {
-height: 60%;	
+height: 70%;	
 margin-left: 70%;	
 width: 30%;
 }
@@ -94,7 +94,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:20%;
+	top:30%;
 	display:block;
 }
 
@@ -102,7 +102,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:40%;
+	top:50%;
 	display:block;
 }
 
@@ -110,7 +110,7 @@ width: 30%;
 {
 	width: 80px;
       position:fixed;
-	top:60%;
+	top:70%;
 	display:block;
 }
 
