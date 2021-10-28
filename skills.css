@@ -98,7 +98,7 @@ background-color: #00234b;
         width: 100%;
 }
 
-@media screen and (min-width: 1001px) {
+@media screen and (min-width: 801px) {
 .title{
 	width: 40%;
 	max-width: 405px;
@@ -202,7 +202,7 @@ width: 30%;
 }
 
 
-@media screen and (max-width: 1000px) and (min-width: 801px) {
+@media screen and (max-width: 1000px) and (min-width: 800px) {
 .title{
 	width: 40%;
 	max-width: 400px;
@@ -214,7 +214,7 @@ width: 30%;
 }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 799px) {
 .title{
 	width: 40%;
 	max-width: 380px;
