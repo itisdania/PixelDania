@@ -203,6 +203,18 @@ background-color: #00234b;
 }
 
 
+@media screen and (max-width: 1000) and (min-width: 801px) {
+.title{
+	width: 40%;
+	max-width: 400px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 7%;    
+}
+}
+
 @media screen and (max-width: 800px) {
 .title{
 	width: 40%;
@@ -215,6 +227,17 @@ background-color: #00234b;
 }
 }
 
+@media screen and (max-width: 550px) {
+.title{
+	width: 40%;
+	max-width: 380px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 11%;    
+}
+}
 
 
 </style>
