@@ -23,6 +23,16 @@ img {
   margin-right: 10px;
 }
 
+.title{
+	width: 40%;
+	max-width: 450px;
+	min-width: 330px;
+	display: block;
+	text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+       }
+
 .coin21
 {
 	width: 80px;
