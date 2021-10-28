@@ -7,6 +7,11 @@
   overflow: hidden;
 }
 
+span
+{
+color: white;
+font-family: 'Orbitron', sans-serif;
+}
 
 #header-nav{
 	height: 50px;
@@ -138,6 +143,13 @@ position:fixed;
 position:fixed;
 	top:70%;	
 }
+
+.web
+{
+ position:fixed;
+	top:30%;
+	margin-left: 15%;
+	}
 
 .coin
 {
