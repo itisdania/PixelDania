@@ -27,12 +27,26 @@ img {
 .coin
 {
 	width: 80px;
-  position:fixed;
+      position:fixed;
 	top:20%;
 	display:block;
-
 }
 
+.coin1
+{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+
+.coin2
+{
+	width: 80px;
+      position:fixed;
+	top:40%;
+	display:block;
+}
 .container
 {
 	
