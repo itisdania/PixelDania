@@ -123,6 +123,7 @@ button
 border: none; border-width : 0; border : 0;
 background: #ffff00;
 font-size : clamp(0.8rem, 2.50vw, 1.0 rem);	
+	color: black;
 }
 
 
