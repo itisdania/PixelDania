@@ -24,7 +24,91 @@ img {
   margin-right: 10px;
 }
 
+ body {
+  margin: 0; 
+  padding: 0;
+background-color: #00234b;
+}
 
+
+
+.resize{
+  width:40px;
+  height: auto;
+  vertical-align: top;
+  margin-left: auto;
+  margin-right: 10px;
+  position:absolute;
+  top:0;
+  right:0;
+  max-width:100%;
+  max-height:199%;
+	 background: #a6b2c0;
+}
+
+.resize:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
+.resize2:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
+.resize1{
+  width:40px;
+  height: auto;
+  vertical-align: top;
+  margin-left: 10px;
+  margin-right: auto;
+  position:absolute;
+  top:5px;
+  left:0px;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+.resize2{
+  width:80px;
+  height: auto;
+  vertical-align: top;
+  margin-left: 0px;
+  margin-right: auto;
+  position:absolute;
+  top:7px;
+  left:0px;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+
+.grass
+{
+        width: 225%;
+	max-width: 1550px;
+}
+
+.footer
+{
+	position: fixed;
+	top: 90%; 
+        width: 100%;
+}
+
+@media screen and (min-width: 1001px) {
+.title{
+	width: 40%;
+	max-width: 405px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 5%;    
+}
+	
 .coin21
 {
 	width: 80px;
@@ -115,91 +199,6 @@ width: 30%;
 	top:70%;
 	display:block;
 }
-
- body {
-  margin: 0; 
-  padding: 0;
-background-color: #00234b;
-}
-
-
-
-.resize{
-  width:40px;
-  height: auto;
-  vertical-align: top;
-  margin-left: auto;
-  margin-right: 10px;
-  position:absolute;
-  top:0;
-  right:0;
-  max-width:100%;
-  max-height:199%;
-	 background: #a6b2c0;
-}
-
-.resize:hover
-    {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
-    }
-
-.resize2:hover
-    {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
-    }
-
-.resize1{
-  width:40px;
-  height: auto;
-  vertical-align: top;
-  margin-left: 10px;
-  margin-right: auto;
-  position:absolute;
-  top:5px;
-  left:0px;
-  max-width:100%;
-  max-height:199%;
-  background: #a6b2c0;
-}
-.resize2{
-  width:80px;
-  height: auto;
-  vertical-align: top;
-  margin-left: 0px;
-  margin-right: auto;
-  position:absolute;
-  top:7px;
-  left:0px;
-  max-width:100%;
-  max-height:199%;
-  background: #a6b2c0;
-}
-
-.grass
-{
-        width: 225%;
-	max-width: 1550px;
-}
-
-.footer
-{
-	position: fixed;
-	top: 90%; 
-        width: 100%;
-}
-
-@media screen and (min-width: 1001px) {
-.title{
-	width: 40%;
-	max-width: 405px;
-	min-width: 330px;
-	display: block;
-        margin-left: auto;
-        margin-right: auto;
-         margin-top: 5%;    
-}
 }
 
 
@@ -224,6 +223,97 @@ background-color: #00234b;
         margin-left: auto;
         margin-right: auto;
          margin-top: 11%;    
+}
+	
+.coin21
+{
+	width: 60px;
+      height:auto;
+  margin-left: 40%;
+  margin-right: auto;
+position:fixed;
+	top:30%;	
+}
+
+.coin22
+{
+	width: 60px;
+      height:auto;
+	  display: block;
+  margin-left: 40%;
+  margin-right: auto;
+position:fixed;
+	top:50%;	
+}
+.coin23
+{
+	width: 60px;
+      height:auto;
+  margin-left: 40%;;
+  margin-right: auto;
+position:fixed;
+	top:70%;	
+}
+
+.coin
+{
+	width: 60px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+
+.coin1
+{
+	width: 60px;
+      position:fixed;
+	top:50%;
+	display:block;
+}
+
+.coin2
+{
+	width: 60px;
+      position:fixed;
+	top:70%;
+	display:block;
+}
+.container
+{
+height: 60%;	
+margin-left: 10%;	
+width: 30%;
+}
+
+.container2
+{
+height: 70%;	
+margin-left: 70%;	
+width: 30%;
+}
+
+.coin31
+{
+	width: 60px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+
+.coin32
+{
+	width: 60px;
+      position:fixed;
+	top:50%;
+	display:block;
+}
+
+.coin33
+{
+	width: 60px;
+      position:fixed;
+	top:70%;
+	display:block;
 }
 }
 
