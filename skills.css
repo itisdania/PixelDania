@@ -83,7 +83,36 @@ margin-left: 10%;
 width: 30%;
 }
 
+.container2
+{
+height: 60%;	
+margin-left: 50%;	
+width: 30%;
+}
 
+.coin31
+{
+	width: 80px;
+      position:fixed;
+	top:40%;
+	display:block;
+}
+
+.coin32
+{
+	width: 80px;
+      position:fixed;
+	top:40%;
+	display:block;
+}
+
+.coin33
+{
+	width: 80px;
+      position:fixed;
+	top:40%;
+	display:block;
+}
 
  body {
   margin: 0; 
