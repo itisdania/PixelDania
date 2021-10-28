@@ -352,7 +352,14 @@ height: 70%;
 margin-left: 70%;	
 width: 30%;
 }
-
+	
+.coin41 {display: none;}
+.coin42{display: none;}
+.coin43{display: none;}
+.coin51 {display: none;}
+.coin52{display: none;}
+.coin53{display: none;}	
+	
 .coin31
 {
 	display: none;
