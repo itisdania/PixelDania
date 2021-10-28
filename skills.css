@@ -6,6 +6,9 @@
   height: 100vh; 
   overflow: hidden;
 }
+.can {
+height: 500px;	
+}
 
 #header-nav{
 	height: 50px;
