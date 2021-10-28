@@ -35,8 +35,6 @@ img {
 background-color: #00234b;
 }
 
-
-
 .resize{
   width:40px;
   height: auto;
@@ -123,7 +121,14 @@ background-color: #00234b;
 position:fixed;
 	top:30%;	
 }
-
+	
+.C
+{
+ position:fixed;
+	top:30%;
+	margin-left: 40%;
+	}
+	
 .coin22
 {
 	width: 80px;
@@ -134,6 +139,14 @@ position:fixed;
 position:fixed;
 	top:50%;	
 }
+	
+.Cp
+{
+ position:fixed;
+	top:50%;
+	margin-left: 40%;
+	}
+	
 .coin23
 {
 	width: 80px;
@@ -143,6 +156,14 @@ position:fixed;
 position:fixed;
 	top:70%;	
 }
+	
+.game
+{
+ position:fixed;
+	top:70%;
+	margin-left: 40%;
+	}
+	
 
 .web
 {
