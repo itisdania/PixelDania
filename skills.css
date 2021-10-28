@@ -24,15 +24,6 @@ img {
   margin-right: 10px;
 }
 
-.title{
-	width: 40%;
-	max-width: 390px;
-	min-width: 330px;
-	display: block;
-        margin-left: auto;
-        margin-right: auto;
-         margin-top: 8%;    
-}
 
 .coin21
 {
@@ -198,4 +189,42 @@ background-color: #00234b;
 	top: 90%; 
         width: 100%;
 }
+
+@media screen and (min-width: 1001px) and (max-width: 1200px) {
+.title{
+	width: 40%;
+	max-width: 410px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 5%;    
+}
+}
+@media screen and (min-width: 1001px) and (max-width: 1200px) {
+.title{
+	width: 40%;
+	max-width: 410px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 5%;    
+}
+}
+
+@media screen and (max-width: 800px) {
+.title{
+	width: 40%;
+	max-width: 380px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 9%;    
+}
+}
+
+
+
 </style>
