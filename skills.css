@@ -319,6 +319,30 @@ width: 30%;
         margin-right: auto;
          margin-top: 11%;    
 }
+
+	.green1{
+  position:fixed;
+  margin-left: 14%;
+  width: 170px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 69%;
+  width: 170px;	
+}
+
+.top{
+  top:35%;
+}
+
+.middle{
+  top:55%;	
+}
+
+.last{
+  top:75%;	
+}
 	
 .coin21
 {
