@@ -604,19 +604,19 @@ font-family: 'Orbitron', sans-serif;
 
 	.green1{
   position:fixed;
-  margin-left: 17%;
+  margin-left: 14%;
   width: 105px;
 }
 
 .green2{
   position:fixed;
-  margin-left: 72%;
+  margin-left: 69%;
   width: 105px;	
 }
 	
 .container{
 height: 60%;	
-margin-left: 3%;	
+margin-left: 0%;	
 width: 30%;
 }
 
@@ -665,7 +665,7 @@ width: 30%;
 .coin21{
   width: 60px;
   height:auto;
-  margin-left: 55%;
+  margin-left: 52%;
   margin-right: auto;
   position:fixed;
   top:30%;	
@@ -675,7 +675,7 @@ width: 30%;
   width: 60px;
    height:auto;
   display: block;
-  margin-left: 55%;
+  margin-left: 52%;
   margin-right: auto;
   position:fixed;
 	top:50%;	
@@ -684,7 +684,7 @@ width: 30%;
 .coin23{
 	width: 60px;
       height:auto;
-  margin-left: 55%;;
+  margin-left: 52%;;
   margin-right: auto;
 position:fixed;
 	top:70%;	
