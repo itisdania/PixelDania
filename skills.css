@@ -35,35 +35,6 @@ img {
 background-color: #00234b;
 }
 
-.green1
-{
- position:fixed;
-margin-left: 9%;
-width: 170px;
-}
-
-.green2
-{
-position:fixed;
-margin-left: 44%;
-width: 170px;
-	
-}
-
-.top
-{
-	top:35%;
-}
-
-.middle
-{
-        top:55%;	
-}
-
-.last
-{
-        top:75%;	
-}
 
 .resize{
   width:40px;
@@ -140,6 +111,36 @@ width: 170px;
         margin-left: auto;
         margin-right: auto;
          margin-top: 5%;    
+}
+
+	.green1
+{
+ position:fixed;
+margin-left: 9%;
+width: 170px;
+}
+
+.green2
+{
+position:fixed;
+margin-left: 44%;
+width: 170px;
+	
+}
+
+.top
+{
+	top:35%;
+}
+
+.middle
+{
+        top:55%;	
+}
+
+.last
+{
+        top:75%;	
 }
 	
 .coin21
