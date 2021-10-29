@@ -590,7 +590,7 @@ font-family: 'Orbitron', sans-serif;
 }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
 .title{
 	width: 40%;
 	max-width: 380px;
