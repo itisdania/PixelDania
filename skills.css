@@ -335,12 +335,7 @@ width: 30%;
          margin-top: 11%;    
 }
 
-	span
-{
-color: white;
-font-family: 'Orbitron', sans-serif;
-	font-size : clamp(0.4rem, 2.00vw, 0.7 rem);
-}
+
 	
 .coin21
 {
@@ -434,6 +429,7 @@ position:fixed;
 	top:70%;
 	display:block;
 }
+	
 .container
 {
 height: 60%;	
@@ -474,6 +470,14 @@ width: 30%;
 
 }
 
+	span
+{
+color: white;
+font-family: 'Orbitron', sans-serif;
+	font-size : 12.5px;
+}
+}
+	
 @media screen and (max-width: 550px) {
 .title{
 	width: 40%;
