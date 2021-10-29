@@ -513,7 +513,7 @@ width: 30%;
 .container
 {
 height: 60%;	
-margin-left: 10%;	
+margin-left: 5%;	
 width: 30%;
 }
 
@@ -523,6 +523,48 @@ height: 70%;
 margin-left: 70%;	
 width: 30%;
 }
+	.C
+{
+ position:fixed;
+	top:30%;
+	margin-left: 38%;
+	}
+	
+		.Cp
+{
+ position:fixed;
+	top:50%;
+	margin-left: 68%;
+	}
+
+	.game
+{
+ position:fixed;
+	top:70%;
+	margin-left: 68%;
+	}
+	
+
+.web
+{
+ position:fixed;
+	top:30%;
+	margin-left: 8%;
+	}
+	
+		 .UX
+{
+ position:fixed;
+	top:50%;
+	margin-left: 8%;
+	}
+
+ .threeD
+{
+ position:fixed;
+	top:70%;
+	margin-left: 8%;
+	}
 }
 
 </style>
