@@ -33,6 +33,20 @@ body {
   background-color: #00234b;
 }
 
+.container5 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 .resize{
   width:40px;
   height: auto;
