@@ -374,7 +374,6 @@ position:fixed;
 	top:50%;
 	margin-left: 68%;
 	}	
-.size { font: 10px;}	
 
 .coin23{
  width: 60px;
@@ -452,7 +451,7 @@ width: 30%;
 span{
 color: white;
 font-family: 'Orbitron', sans-serif;
-	font-size : 13px;
+	font-size : 12px;
 }
 }
 	
@@ -464,7 +463,7 @@ font-family: 'Orbitron', sans-serif;
 	display: block;
         margin-left: auto;
         margin-right: auto;
-         margin-top: 14%;    
+         margin-top: 11%;    
 }
 .container{
 height: 60%;	
@@ -638,7 +637,7 @@ position:fixed;
 span{
 color: white;
 font-family: 'Orbitron', sans-serif;
-	font-size : 12px;
+	font-size : 11px;
 }
 }
 </style>
