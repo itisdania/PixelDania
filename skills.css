@@ -554,21 +554,21 @@ width: 30%;
 {
  position:fixed;
 	top:30%;
-	margin-left: 8%;
+	margin-left: 13%;
 	}
 	
 		 .UX
 {
  position:fixed;
 	top:50%;
-	margin-left: 8%;
+	margin-left: 13%;
 	}
 
  .threeD
 {
  position:fixed;
 	top:70%;
-	margin-left: 8%;
+	margin-left: 13%;
 	}
 	
 	.coin21
@@ -608,7 +608,7 @@ position:fixed;
 {
 color: white;
 font-family: 'Orbitron', sans-serif;
-	font-size : 14px;
+	font-size : 12px;
 }
 
 	}
