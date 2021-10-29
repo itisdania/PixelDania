@@ -335,6 +335,12 @@ width: 30%;
          margin-top: 11%;    
 }
 
+	span
+{
+color: white;
+font-family: 'Orbitron', sans-serif;
+	font:8px;
+}
 	
 .coin21
 {
@@ -350,7 +356,6 @@ position:fixed;
  position:fixed;
 	top:30%;
 	margin-left: 73%;
-	font-size : 11px;
 	}
 
 .coin22
@@ -387,7 +392,6 @@ position:fixed;
  position:fixed;
 	top:70%;
 	margin-left: 73%;
-	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 	
 
@@ -396,7 +400,6 @@ position:fixed;
  position:fixed;
 	top:30%;
 	margin-left: 13%;
-	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 .coin
 {
@@ -411,7 +414,6 @@ position:fixed;
  position:fixed;
 	top:50%;
 	margin-left: 13%;
-	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 .coin1
 {
@@ -425,7 +427,6 @@ position:fixed;
  position:fixed;
 	top:70%;
 	margin-left: 13%;
-	font-size : clamp(0.5rem, 2.00vw, 1.0 rem);
 	}
 .coin2
 {
