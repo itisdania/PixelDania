@@ -600,6 +600,20 @@ font-family: 'Orbitron', sans-serif;
         margin-right: auto;
          margin-top: 17%;    
 }
+	
+
+	.green1{
+  position:fixed;
+  margin-left: 15%;
+  width: 115px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 70%;
+  width: 115px;	
+}
+	
 .container{
 height: 60%;	
 margin-left: 3%;	
