@@ -369,10 +369,12 @@ position:fixed;
 	top:50%;	
 }
 	
-	.Cp{
- position:fixed;
+.Cp{
+        position:fixed;
 	top:50%;
 	margin-left: 68%;
+	font: 10px;
+		
 	}	
 
 .coin23{
@@ -438,10 +440,10 @@ margin-left: 70%;
 width: 30%;
 }
 	
-.coin41 {display: none;}
+.coin41{display: none;}
 .coin42{display: none;}
 .coin43{display: none;}
-.coin51 {display: none;}
+.coin51{display: none;}
 .coin52{display: none;}
 .coin53{display: none;}		
 .coin31{display: none;}
@@ -637,7 +639,7 @@ position:fixed;
 span{
 color: white;
 font-family: 'Orbitron', sans-serif;
-	font-size : 11px;
+	font-size : 12px;
 }
 }
 </style>
