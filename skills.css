@@ -563,7 +563,7 @@ font-family: 'Orbitron', sans-serif;
 }	
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 480px) {
 
 	.green1{
   position:fixed;
