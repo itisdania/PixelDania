@@ -565,6 +565,41 @@ width: 30%;
 	top:70%;
 	margin-left: 8%;
 	}
+	
+	.coin21
+{
+	width: 60px;
+      height:auto;
+  margin-left: 55%;
+  margin-right: auto;
+position:fixed;
+	top:30%;	
 }
+
+
+.coin22
+{
+	width: 60px;
+      height:auto;
+	  display: block;
+  margin-left: 55%;
+  margin-right: auto;
+position:fixed;
+	top:50%;	
+}
+	
+
+	
+.coin23
+{
+	width: 60px;
+      height:auto;
+  margin-left: 55%;;
+  margin-right: auto;
+position:fixed;
+	top:70%;	
+}
+
+
 
 </style>
