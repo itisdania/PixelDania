@@ -478,6 +478,18 @@ height: 70%;
 margin-left: 65%;	
 width: 30%;
 }
+
+	.green1{
+  position:fixed;
+  margin-left: 14%;
+  width: 140px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 69%;
+  width: 140px;	
+}	
 	
 .C{
  position:fixed;
