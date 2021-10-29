@@ -350,7 +350,7 @@ position:fixed;
  position:fixed;
 	top:30%;
 	margin-left: 73%;
-	font-size : clamp(0.5rem, 2.0vw, 1.0 rem);
+	font-size : 11px;
 	}
 
 .coin22
