@@ -497,7 +497,12 @@ height: 70%;
 margin-left: 70%;	
 width: 30%;
 }
-
+span
+{
+color: white;
+font-family: 'Orbitron', sans-serif;
+	font-size : 14px;
+}
 }
 
 @media screen and (max-width: 400px) {
