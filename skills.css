@@ -7,14 +7,13 @@
   overflow: hidden;
 }
 
-span
-{
-color: white;
-font-family: 'Orbitron', sans-serif;
+span{
+  color: white;
+  font-family: 'Orbitron', sans-serif;
 }
 
 #header-nav{
-	height: 50px;
+  height: 50px;
   position: fixed;
   top: 0;
   display: block;
@@ -23,18 +22,16 @@ font-family: 'Orbitron', sans-serif;
 
 }
 img {
-  
   display: block;
   margin-left: auto;
   margin-right: 10px;
 }
 
- body {
+body {
   margin: 0; 
   padding: 0;
-background-color: #00234b;
+  background-color: #00234b;
 }
-
 
 .resize{
   width:40px;
@@ -47,7 +44,7 @@ background-color: #00234b;
   right:0;
   max-width:100%;
   max-height:199%;
-	 background: #a6b2c0;
+  background: #a6b2c0;
 }
 
 .resize:hover
@@ -56,10 +53,9 @@ background-color: #00234b;
       filter: alpha(opacity=30);
     }
 
-.resize2:hover
-    {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
+.resize2:hover{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
     }
 
 .resize1{
@@ -89,252 +85,211 @@ background-color: #00234b;
   background: #a6b2c0;
 }
 
-.grass
-{
-        width: 225%;
-	max-width: 1550px;
+.grass{
+  width: 225%;
+  max-width: 1550px;
 }
 
-.footer
-{
-	position: fixed;
-	top: 90%; 
-        width: 100%;
+.footer{
+  position: fixed;
+  top: 90%; 
+  width: 100%;
 }
 
 @media screen and (min-width: 801px) {
+	
 .title{
-	width: 40%;
-	max-width: 405px;
-	min-width: 330px;
-	display: block;
-        margin-left: auto;
-        margin-right: auto;
-         margin-top: 5%;    
+  width: 40%;
+  max-width: 405px;
+  min-width: 330px;
+  display: block;
+  margin-left: auto     
+  margin-right: auto;
+  margin-top: 5%;    
 }
 
-	.green1
-{
- position:fixed;
-margin-left: 9%;
-width: 170px;
+.green1{
+  position:fixed;
+  margin-left: 9%;
+  width: 170px;
 }
 
-.green2
-{
-position:fixed;
-margin-left: 44%;
-width: 170px;
-	
+.green2{
+  position:fixed;
+  margin-left: 44%;
+  width: 170px;	
 }
 
-.top
-{
-	top:35%;
+.top{
+  top:35%;
 }
 
-.middle
-{
-        top:55%;	
+.middle{
+  top:55%;	
 }
 
-.last
-{
-        top:75%;	
+.last{
+  top:75%;	
 }
 	
-.coin21
-{
-	width: 80px;
-      height:auto;
+.coin21{
+  width: 80px;
+  height:auto;
   margin-left: 35%;
   margin-right: auto;
-position:fixed;
-	top:30%;	
+  position:fixed;
+  top:30%;	
 }
 	
-.C
-{
- position:fixed;
-	top:30%;
-	margin-left: 43%;
-	}
-	
-.coin22
-{
-	width: 80px;
-      height:auto;
-	  display: block;
+.coin22{
+  width: 80px;
+  height:auto;
+  display: block;
   margin-left: 35%;
   margin-right: auto;
-position:fixed;
-	top:50%;	
+  position:fixed;
+  top:50%;	
 }
-	
-.Cp
-{
- position:fixed;
-	top:50%;
-	margin-left: 43%;
-	}
-	
-.coin23
-{
-	width: 80px;
-      height:auto;
+.coin23{
+  width: 80px;
+  height:auto;
   margin-left: 35%;;
   margin-right: auto;
-position:fixed;
-	top:70%;	
+  position:fixed;
+  top:70%;	
 }
-	
-.game
-{
+.Cp{
  position:fixed;
-	top:70%;
+	top:50%;
 	margin-left: 43%;
 	}
+.C{
+  position:fixed;
+  top:30%;
+  margin-left: 43%;
+	}	
 	
-
-.web
-{
+.game{
+  position:fixed;
+  top:70%;
+  margin-left: 43%;
+	}
+	
+.web{
  position:fixed;
 	top:30%;
 	margin-left: 8%;
 	}
-
-.coin
-{
+.UX{
+ position:fixed;
+ top:50%;
+ margin-left: 8%;
+	}
+.threeD{
+  position:fixed;
+  top:70%;
+  margin-left: 8%;
+}
+.coin{
 	width: 80px;
       position:fixed;
 	top:30%;
 	display:block;
 }
 
-.coin1
-{
+.coin1{
 	width: 80px;
       position:fixed;
 	top:50%;
 	display:block;
 }
 	
- .UX
-{
- position:fixed;
-	top:50%;
-	margin-left: 8%;
-	}
-
-	
-.coin2
-{
+.coin2{
 	width: 80px;
       position:fixed;
 	top:70%;
 	display:block;
 }
 	
- .threeD
-{
- position:fixed;
-	top:70%;
-	margin-left: 8%;
-	}
-	
-	
-.container
-{
+.container{
 height: 60%;	
 margin-left: 5%;	
 width: 30%;
 }
 
-.container2
-{
+.container2{
 height: 70%;	
 margin-left: 70%;	
 width: 30%;
 }
 
-.container3
-{
+.container3{
 height: 70%;	
 margin-left: 80%;	
 width: 30%;
 }	
 
-	.container4
-{
-height: 70%;	
-margin-left: 90%;	
-width: 30%;
+.container4{
+  height: 70%;	
+  margin-left: 90%;	
+  width: 30%;
 }
 	
-	.coin51
-{
+.coin51{
 	width: 80px;
       position:fixed;
 	top:30%;
 	display:block;
 }	
 	
-	.coin52
-{
+	.coin52{
 	width: 80px;
       position:fixed;
 	top:50%;
 	display:block;
 }	
-	.coin53
-{
+.coin53{
 	width: 80px;
       position:fixed;
 	top:70%;
 	display:block;
 }	
-.coin41
-{
+.coin41{
 	width: 80px;
       position:fixed;
 	top:30%;
 	display:block;
 }	
 
-	.coin42
-{
+	.coin42{
 	width: 80px;
       position:fixed;
 	top:50%;
 	display:block;
 }
 	
-	.coin43
-{
+	.coin43{
 	width: 80px;
       position:fixed;
 	top:70%;
 	display:block;
 }
 	
-.coin31
-{
+.coin31{
 	width: 80px;
       position:fixed;
 	top:30%;
 	display:block;
 }
 
-.coin32
-{
+.coin32{
 	width: 80px;
       position:fixed;
 	top:50%;
 	display:block;
 }
 
-.coin33
-{
+.coin33{
 	width: 80px;
       position:fixed;
 	top:70%;
@@ -354,7 +309,6 @@ width: 30%;
          margin-top: 8%;    
 }
 }
-
 @media screen and (max-width: 800px) {
 .title{
 	width: 40%;
@@ -365,8 +319,6 @@ width: 30%;
         margin-right: auto;
          margin-top: 11%;    
 }
-
-
 	
 .coin21
 {
@@ -377,15 +329,13 @@ width: 30%;
 position:fixed;
 	top:30%;	
 }
-	.C
-{
+	.C{
  position:fixed;
 	top:30%;
 	margin-left: 68%;
 	}
 
-.coin22
-{
+.coin22{
 	width: 60px;
       height:auto;
 	  display: block;
@@ -395,15 +345,13 @@ position:fixed;
 	top:50%;	
 }
 	
-	.Cp
-{
+	.Cp{
  position:fixed;
 	top:50%;
 	margin-left: 68%;
 	}
 	
-.coin23
-{
+.coin23{
 	width: 60px;
       height:auto;
   margin-left: 55%;;
@@ -412,64 +360,55 @@ position:fixed;
 	top:70%;	
 }
 
-	.game
-{
+	.game{
  position:fixed;
 	top:70%;
 	margin-left: 68%;
 	}
 	
-
-.web
-{
+.web{
  position:fixed;
 	top:30%;
 	margin-left: 13%;
 	}
-.coin
-{
+.coin{
 	width: 60px;
       position:fixed;
 	top:30%;
 	display:block;
 }
 
-	 .UX
-{
- position:fixed;
+.UX{
+  position:fixed;
 	top:50%;
 	margin-left: 13%;
 	}
-.coin1
-{
+.coin1{
 	width: 60px;
       position:fixed;
 	top:50%;
 	display:block;
 }
- .threeD
-{
+ .threeD{
  position:fixed;
 	top:70%;
 	margin-left: 13%;
 	}
-.coin2
-{
+	
+.coin2{
 	width: 60px;
       position:fixed;
 	top:70%;
 	display:block;
 }
 	
-.container
-{
+.container{
 height: 60%;	
 margin-left: 10%;	
 width: 30%;
 }
 
-.container2
-{
+.container2{
 height: 70%;	
 margin-left: 70%;	
 width: 30%;
@@ -480,29 +419,12 @@ width: 30%;
 .coin43{display: none;}
 .coin51 {display: none;}
 .coin52{display: none;}
-.coin53{display: none;}	
-	
-.coin31
-{
-	display: none;
-	
-}
+.coin53{display: none;}		
+.coin31{display: none;}
+.coin32{display: none;}
+.coin33{display: none;}
 
-.coin32
-{
-		display: none;
-
-}
-
-.coin33
-{
-		display: none;
-
-
-}
-
-	span
-{
+span{
 color: white;
 font-family: 'Orbitron', sans-serif;
 	font-size : 13px;
@@ -519,64 +441,55 @@ font-family: 'Orbitron', sans-serif;
         margin-right: auto;
          margin-top: 14%;    
 }
-.container
-{
+.container{
 height: 60%;	
 margin-left: 3%;	
 width: 30%;
 }
 
-.container2
-{
+.container2{
 height: 70%;	
 margin-left: 65%;	
 width: 30%;
 }
-	.C
-{
+	
+.C{
  position:fixed;
 	top:30%;
 	margin-left: 71%;
 	}
 	
-		.Cp
-{
+.Cp{
  position:fixed;
 	top:50%;
 	margin-left: 71%;
 	}
 
-	.game
-{
+.game{
  position:fixed;
 	top:70%;
 	margin-left: 71%;
 	}
 	
-
-.web
-{
+.web{
  position:fixed;
 	top:30%;
 	margin-left: 16%;
 	}
 	
-		 .UX
-{
- position:fixed;
+.UX{
+  position:fixed;
 	top:50%;
 	margin-left: 16%;
 	}
 
- .threeD
-{
+ .threeD{
  position:fixed;
 	top:70%;
 	margin-left: 16%;
 	}
 	
-	.coin21
-{
+	.coin21{
 	width: 60px;
       height:auto;
   margin-left: 55%;
@@ -586,8 +499,7 @@ position:fixed;
 }
 
 
-.coin22
-{
+.coin22{
 	width: 60px;
       height:auto;
 	  display: block;
@@ -597,10 +509,7 @@ position:fixed;
 	top:50%;	
 }
 	
-
-	
-.coin23
-{
+.coin23{
 	width: 60px;
       height:auto;
   margin-left: 55%;;
@@ -609,13 +518,11 @@ position:fixed;
 	top:70%;	
 }
 	
-span
-{
+span{
 color: white;
 font-family: 'Orbitron', sans-serif;
 	font-size : 13px;
-}
-	
+}	
 }
 
 @media screen and (max-width: 400px) {
@@ -628,88 +535,74 @@ font-family: 'Orbitron', sans-serif;
         margin-right: auto;
          margin-top: 17%;    
 }
-.container
-{
+.container{
 height: 60%;	
 margin-left: 3%;	
 width: 30%;
 }
 
-.container2
-{
+.container2{
 height: 70%;	
 margin-left: 65%;	
 width: 30%;
 }
-	.C
-{
+	
+.C{
  position:fixed;
 	top:30%;
 	margin-left: 71%;
-	}
+}
 	
-		.Cp
-{
+.Cp{
  position:fixed;
 	top:50%;
 	margin-left: 71%;
-	}
-
-	.game
-{
- position:fixed;
-	top:70%;
-	margin-left: 71%;
-	}
-	
-
-.web
-{
- position:fixed;
-	top:30%;
-	margin-left: 16%;
-	}
-	
-		 .UX
-{
- position:fixed;
-	top:50%;
-	margin-left: 16%;
-	}
-
- .threeD
-{
- position:fixed;
-	top:70%;
-	margin-left: 16%;
-	}
-	
-	.coin21
-{
-	width: 60px;
-      height:auto;
-  margin-left: 55%;
-  margin-right: auto;
-position:fixed;
-	top:30%;	
 }
 
+.game{
+ position:fixed;
+	top:70%;
+	margin-left: 71%;
+}	
 
-.coin22
-{
-	width: 60px;
-      height:auto;
-	  display: block;
+.web{
+ position:fixed;
+	top:30%;
+	margin-left: 16%;
+}
+	
+ .UX{
+ position:fixed;
+	top:50%;
+	margin-left: 16%;
+}
+
+.threeD{
+  position:fixed;
+  top:70%;
+  margin-left: 16%;
+}
+	
+.coin21{
+  width: 60px;
+  height:auto;
   margin-left: 55%;
   margin-right: auto;
-position:fixed;
+  position:fixed;
+  top:30%;	
+}
+
+.coin22{
+  width: 60px;
+   height:auto;
+  display: block;
+  margin-left: 55%;
+  margin-right: auto;
+  position:fixed;
 	top:50%;	
 }
 	
-
-	
-.coin23
-{
+.coin23{
 	width: 60px;
       height:auto;
   margin-left: 55%;;
@@ -717,13 +610,10 @@ position:fixed;
 position:fixed;
 	top:70%;	
 }
-		span
-{
+span{
 color: white;
 font-family: 'Orbitron', sans-serif;
 	font-size : 12px;
 }
-
-	}
-
+}
 </style>
