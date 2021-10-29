@@ -39,8 +39,8 @@ background-color: #00234b;
 {
  position:fixed;
 margin-left: 8%;
-width: 180px;
-	
+max-width: 180px;
+width: 60%;	
 }
 
 .green2
