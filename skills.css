@@ -32,13 +32,7 @@ body {
   padding: 0;
   background-color: #00234b;
 }
-.font{
-color: white;
-font-family: 'Orbitron', sans-serif;
-font-size : 11px;
- text-align: center;
- margin-top: 7px;
-}
+
 .resize{
   width:40px;
   height: auto;
@@ -114,6 +108,14 @@ font-size : 11px;
   margin-top: 5%;    
 }
 
+.font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 11px;
+ text-align: center;
+ margin-top: 7px;
+}	
+	
 .green1{
   position:fixed;
   margin-left: 9%;
@@ -326,6 +328,13 @@ width: 30%;
          margin-top: 11%;    
 }
 
+.font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 11px;
+ text-align: center;
+ margin-top: 7px;
+}
 	.green1{
   position:fixed;
   margin-left: 14%;
@@ -468,7 +477,19 @@ font-family: 'Orbitron', sans-serif;
 	font-size : 12px;
 }
 }
+
+@media screen and (max-width: 650px) {
 	
+.font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 9px;
+ text-align: center;
+
+}
+}	
+	
+
 @media screen and (max-width: 550px) {
 .title{
 	width: 40%;
