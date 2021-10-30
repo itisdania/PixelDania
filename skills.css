@@ -491,10 +491,19 @@ font-size : 11px;
 
 }
 }
-
-@media screen and (max-width: 650px) {
 	
-.font{
+
+@media screen and (max-width: 550px) {
+.title{
+	width: 40%;
+	max-width: 380px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 11%;    
+}
+	.font{
 color: white;
 font-family: 'Orbitron', sans-serif;
 font-size : 9px;
@@ -507,19 +516,6 @@ font-family: 'Orbitron', sans-serif;
 font-size : 9px;
  text-align: center;
 
-}
-}	
-	
-
-@media screen and (max-width: 550px) {
-.title{
-	width: 40%;
-	max-width: 380px;
-	min-width: 330px;
-	display: block;
-        margin-left: auto;
-        margin-right: auto;
-         margin-top: 11%;    
 }
 .container{
 height: 60%;	
