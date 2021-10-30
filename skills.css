@@ -115,7 +115,14 @@ font-size : 13px;
  text-align: center;
  margin-top: 7px;
 }	
-	
+
+	.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 13px;
+ text-align: center;
+ margin-top: 7px;
+}
 .green1{
   position:fixed;
   margin-left: 9%;
@@ -476,11 +483,25 @@ color: white;
 font-family: 'Orbitron', sans-serif;
 	font-size : 12px;
 }
+	.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 11px;
+ text-align: center;
+
+}
 }
 
 @media screen and (max-width: 650px) {
 	
 .font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 9px;
+ text-align: center;
+
+}
+	.font1{
 color: white;
 font-family: 'Orbitron', sans-serif;
 font-size : 9px;
@@ -610,6 +631,14 @@ font-family: 'Orbitron', sans-serif;
   width: 130px;	
 }
 
+		.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 7px;
+ text-align: center;
+
+}
+	
 .top{
   top:37%;
 }
@@ -621,6 +650,8 @@ font-family: 'Orbitron', sans-serif;
 .last{
   top:77%;	
 }
+	
+	
 }
 
 @media screen and (max-width: 500px) {
