@@ -37,8 +37,6 @@ color: white;
 font-family: 'Orbitron', sans-serif;
 font-size : 11px;
  text-align: center;
-	top:25%;
-	width:75px;
 }
 .resize{
   width:40px;
@@ -333,6 +331,12 @@ width: 30%;
   width: 150px;
 }
 
+	.green3{
+  position:fixed;
+  margin-left: 13%;
+  width: 150px;
+}	
+	
 .green2{
   position:fixed;
   margin-left: 69%;
