@@ -271,14 +271,36 @@ justify-content: center;
 }
 
 	.arrow {
-		top: 30%;
+		top: 24%;
 		position: fixed;
 		justify-content: center;
 		margin: auto;
-		margin-left: 40px;
+		margin-left: 15px;
 		max-width: 100%;
 		min-width: 20px;
+		animation: blink 1.5s;
+		animation-iteration-count: infinite;
 	}
+	@keyframes blink {
+		0% {
+			opacity: 1;
+		}
+
+		49% {
+			opacity: 1;
+		}
+
+		50% {
+			opacity: 0;
+		}
+
+		100% {
+			opacity: 0;
+		}
+	}
+
+
+
 .resize
 	{
   width:40px;
