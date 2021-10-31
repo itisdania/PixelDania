@@ -146,6 +146,7 @@ span {
 }
 
 
+
 .typewriter p {
   color: #fff;
 font-family: 'Orbitron', sans-serif;
@@ -194,6 +195,11 @@ div {
 	margin:auto;
         padding:10px;
 }
+	.size1 {
+		width: 80px;
+		margin: auto;
+		padding: 10px;
+	}
 
 
 .buttons
@@ -204,7 +210,6 @@ margin-right: 35%;
 	top: 15%;
 
 }
-
 	
 .container {
   position: relative;
@@ -221,9 +226,20 @@ margin-right: 35%;
 	top: 45%;
         left: 45%;
 	 transform: translate(-50%, -50%);
-
 }
-	
+
+	.spany1 {
+		color: black;
+		text-decoration: none;
+		text-align: center;
+		font-family: 'Orbitron', sans-serif;
+		position: absolute;
+		top: 35%;
+		left: 48%;
+		font-size: 12px;
+		transform: translate(-50%, -50%);
+	}
+
 	.grass{
 width: 130%;
 margin-right: 25%;
@@ -299,8 +315,6 @@ justify-content: center;
 		}
 	}
 
-
-
 .resize
 	{
   width:40px;
@@ -375,6 +389,12 @@ background: linear-gradient(to top, #00234b 70% , yellow 0%);
         padding:10px;
 }
 
+	.size1 {
+		width: 70px;
+		margin: auto;
+		padding: 10px;
+	}
+
 .buttons
 {
 margin-left: 10%;
@@ -401,8 +421,18 @@ margin-right: 35%;
 	 transform: translate(-50%, -50%);
 
 }
-		
-	
+
+	.spany1 {
+		color: black;
+		text-decoration: none;
+		text-align: center;
+		font-family: 'Orbitron', sans-serif;
+		position: absolute;
+		top: 35%;
+		left: 48%;
+		font-size: 12px;
+		transform: translate(-50%, -50%);
+	}
 	
 .grass
 {
@@ -532,4 +562,33 @@ overflow: hidden;
   50% { border-color: transparent }
 }	
 }
- </style>
+
+
+
+@media screen and (max-width:380px) {
+
+	.size {
+		width: 110px;
+		margin: auto;
+		padding: 10px;
+	}
+
+	.size1 {
+		width: 70px;
+		margin: auto;
+		padding: 10px;
+	}
+
+	.buttons {
+		margin-left: 2%;
+		margin-right: 35%;
+		position: fixed;
+		top: 35%;
+	}
+
+	.container {
+		position: relative;
+		color: white;
+	}
+
+	</style >
