@@ -138,8 +138,6 @@ background-color: #00234b;
 }
 
 
-
-
 span{
 	color: black;
   text-decoration: none;
@@ -171,6 +169,19 @@ span{
 	
 }
 
+@media screen and (max-width:450px) {
+
+	.header {
+		width: 40%;
+		max-width: 450px;
+		min-width: 330px;
+		display: block;
+		text-align: center;
+		margin-left: 12%;
+		margin-right: auto;
+	}
+}
+
 @media screen and (max-width:400px)
 {
 	
@@ -180,7 +191,7 @@ span{
 	min-width: 330px;
 	display: block;
 	text-align: center;
-        margin-left: 5%;
+        margin-left: 6%;
         margin-right: auto;
        }
 	.container {
@@ -238,7 +249,20 @@ p{
 	top:10%;
         padding: 10% 0 10% 0; 
         text-align: center;
-              } 
+              }
 
 
-</style>
+@media screen and (max-width:370px) {
+
+	.header {
+		width: 40%;
+		max-width: 450px;
+		min-width: 330px;
+		display: block;
+		text-align: center;
+		margin-left: 4%;
+		margin-right: auto;
+	}
+}
+
+	</style >
