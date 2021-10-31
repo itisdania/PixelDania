@@ -269,7 +269,16 @@ top: 140px;
 background-color: #00234b;
 justify-content: center;
 }
-	
+
+	.arrow {
+		top: 30%;
+		position: fixed;
+		justify-content: center;
+		margin: auto;
+		margin-left: 40px;
+		max-width: 100%;
+		min-width: 20px;
+	}
 .resize
 	{
   width:40px;
