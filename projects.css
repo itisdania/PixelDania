@@ -118,4 +118,43 @@ background-color: #00234b;
 }
 }
 
-</style>
+@media screen and (max-width: 800px) {
+    .title {
+        width: 40%;
+        max-width: 380px;
+        min-width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 11%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .title {
+        width: 40%;
+        max-width: 380px;
+        min-width: 330px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 11%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .title {
+        width: 40%;
+        max-width: 380px;
+        min-width: 330px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 17%;
+    }
+}
+
+
+
+
+    </style >
