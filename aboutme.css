@@ -485,17 +485,8 @@ margin-right: 10%;
 	display: none;
 	}
 
-.arrow {
-	width:20%;
-	    top: 12%;
-		position: fixed;
-		justify-content: center;
-		margin: auto;
-		margin-left:25%;
-		max-width: 100px;
-		min-width: 20px;
-		animation: blink 1.5s;
-		animation-iteration-count: infinite;
+	.arrow {
+		display: none;
 	}
 
 	@keyframes blink {
