@@ -162,7 +162,7 @@ span{
   max-width: 405px;
   min-width: 330px;
   display: block;
-  margin-top: 5px;
+  margin-top: 0px;
   margin-left: auto;     
   margin-right: auto;
   margin-top: 5%;    
@@ -171,7 +171,7 @@ span{
 @media screen and (max-width:550px)
 {
 	
-.header{
+.title{
 	width: 40%;
 	max-width: 450px;
 	min-width: 330px;
@@ -186,7 +186,7 @@ span{
 @media screen and (max-width:400px)
 {
 	
-.header{
+.title{
 	width: 40%;
 	max-width: 450px;
 	min-width: 330px;
