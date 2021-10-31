@@ -456,12 +456,13 @@ margin-right: 10%;
 	}
 
 .arrow {
-	   top: 40%;
+	width:20%;
+	    top: 12%;
 		position: fixed;
 		justify-content: center;
 		margin: auto;
 		margin-left:25%;
-		max-width: 100%;
+		max-width: 100px;
 		min-width: 20px;
 		animation: blink 1.5s;
 		animation-iteration-count: infinite;
