@@ -448,14 +448,43 @@ margin-right: 10%;
  display: inline block;
  height: 100%; 
  max-height: 300px;
- margin:0 auto;
+ margin:auto;
 	}	
 	
 .resize3 {
 	display: none;
 	}
-	
-	
+
+.arrow {
+		top: 13%;
+		position: fixed;
+		justify-content: center;
+		margin: auto;
+		margin-left:25%;
+		max-width: 100%;
+		min-width: 20px;
+		animation: blink 1.5s;
+		animation-iteration-count: infinite;
+	}
+
+	@keyframes blink {
+		0% {
+			opacity: 1;
+		}
+
+		49% {
+			opacity: 1;
+		}
+
+		50% {
+			opacity: 0;
+		}
+
+		100% {
+			opacity: 0;
+		}
+	}
+
 .resize4{
  
 width: 20%;
