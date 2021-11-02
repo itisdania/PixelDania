@@ -1,33 +1,39 @@
-<style>
+<style >
 
-.bg1{
-  background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh; 
- 
+.bg1 {
+    background-image: url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
+    background-size: cover;
+   
+}
+html {
+    margin: auto;
+    overflow-y : scroll;
 }
 
-#header-nav{
-	height: 50px;
-  position: fixed;
-  top: 0;
-  display: block;
-  width: 100%;
-  background: #a6b2c0;
-
+#header-nav {
+    height: 50px;
+    position: absolute;
+    top: 0;
+    display: block;
+    width: 100%;
+    background: #a6b2c0;
 }
+
+.resizy{
+
+    width: 400px;
+}
+
 img {
-  
-  display: block;
-  margin-left: auto;
-  margin-right: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: 10px;
 }
 
- body {
-  margin: 0; 
-  padding: 0;
-background-color: #00234b;
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #00234b;
 }
 
 .resize5{
@@ -105,18 +111,31 @@ background-color: #00234b;
 }
 
 @media screen and (min-width: 801px) {
-	
-.title{
-  width: 40%;
-  max-width: 405px;
-  min-width: 330px;
-  display: block;
-  margin-top: 5px;
-  margin-left: auto;     
-  margin-right: auto;
-  margin-top: 5%;    
+
+    .title {
+        width: 40%;
+        max-width: 405px;
+        min-width: 330px;
+        display: block;
+        margin-top: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 6%;
+    }
 }
+
+@media screen and (max-width: 860px) {
+    .title {
+        width: 40%;
+        max-width: 380px;
+        min-width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 9%;
+    }
 }
+
 
 @media screen and (max-width: 800px) {
     .title {
@@ -129,6 +148,13 @@ background-color: #00234b;
         margin-top: 11%;
     }
 }
+
+@media screen and (max-width: 650px) {
+   
+
+}
+
+
 
 @media screen and (max-width: 550px) {
     .title {
@@ -155,6 +181,17 @@ background-color: #00234b;
 }
 
 
+@media screen and (max-width: 370px) {
+    .title {
+        width: 40%;
+        max-width: 290px;
+        min-width: 270px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 17%;
+    }
+}
 
 
     </style >
