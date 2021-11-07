@@ -447,6 +447,7 @@ position:fixed;
  .threeD{
  position:fixed;
 	top:70%;
+	top-margin:10px;
 	margin-left: 13%;
 	}
 	
