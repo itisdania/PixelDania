@@ -370,9 +370,11 @@ font-size : 11px;
 }
 
 .last{
-  top:75%;	
+  top:76%;	
 }
-	
+.last1{
+  top:77%;	
+}	
 .coin21
 {
 	width: 60px;
@@ -447,6 +449,7 @@ position:fixed;
  .threeD{
  position:fixed;
 	top:70%;
+	top-margin:10px;
 	margin-left: 13%;
 	}
 	
@@ -572,10 +575,11 @@ width: 30%;
 	margin-left: 16%;
 	}
 
- .threeD{
- position:fixed;
-	top:70%;
-	margin-left: 16%;
+	.threeD {
+		position: fixed;
+		top: 70%;
+		margin-left: 16%;
+		margin-top: 10px;
 	}
 	
 	.coin21{

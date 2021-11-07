@@ -77,6 +77,8 @@ img {
 
 
 
+
+
 @media screen and (min-width: 1001px) and (max-width: 1200px) {
  .bg {
  background-image:      url('https://i.ibb.co/7CMNpmr/Web-1280-2.png');
@@ -94,13 +96,24 @@ img {
 }
 
 
-
-
-
-<style>
-    #content {
-        position: relative;
+@media screen and (max-width: 350px) 
+{
+    .responsive1 {
+        width: 300px;
+        height: auto;
+        align: center;
     }
+
+}
+
+
+
+
+
+
+#content {
+    position: relative;
+}
     #content img {
         position: absolute;
         top: 0;
