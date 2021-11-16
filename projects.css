@@ -25,6 +25,13 @@ html {
   
 }
 
+.box {
+    width: 60%;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .container1 {
     width: 40%;
