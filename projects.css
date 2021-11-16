@@ -46,8 +46,11 @@ html {
 
 .assign {
     position: absolute;
-    margin-left: 15px;
     width: 70px;
+}
+
+.left {
+    margin-left: 15px;
 }
 
 .top {
