@@ -26,6 +26,26 @@ html {
 }
 
 
+.container1 {
+    width: 40%;
+    max-width: 350px;
+    min-width: 330px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    height: auto;
+}
+
+.assign {
+    position: absolute;
+    margin-left: 15px;
+    width: 70px;
+}
+
+.top {
+    top: 5px;
+}
 
 img {
     display: block;
@@ -127,7 +147,7 @@ body {
         margin-top: 6%;
     }
 
-
+   
    
 }
 
@@ -142,7 +162,12 @@ body {
         margin-top: 9%;
     }
 
-  
+    .assign {
+        position: absolute;
+        margin-left: 25px;
+        width: 70px;
+    }
+   
 }
 
 
@@ -156,12 +181,10 @@ body {
         margin-right: auto;
         margin-top: 11%;
     }
+
+  
 }
 
-@media screen and (max-width: 650px) {
-   
-
-}
 
 
 
@@ -175,6 +198,13 @@ body {
         margin-right: auto;
         margin-top: 11%;
     }
+
+    .assign {
+        position: absolute;
+        margin-left: 15px;
+        width: 70px;
+    }
+   
 }
 
 @media screen and (max-width: 500px) {
@@ -187,6 +217,8 @@ body {
         margin-right: auto;
         margin-top: 17%;
     }
+
+    
 }
 
 
@@ -200,7 +232,12 @@ body {
         margin-right: auto;
         margin-top: 17%;
     }
+
+    .assign {
+        position: absolute;
+        margin-left: 35px;
+        width: 70px;
+    }
+   
 }
-
-
     </style >

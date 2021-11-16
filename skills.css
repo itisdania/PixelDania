@@ -313,7 +313,6 @@ width: 30%;
 }
 }
 
-
 @media screen and (max-width: 1000px) and (min-width: 800px) {
 .title{
 	width: 40%;
@@ -496,7 +495,6 @@ font-size : 11px;
 }
 }
 	
-
 @media screen and (max-width: 550px) {
 .title{
 	width: 40%;
@@ -591,7 +589,6 @@ position:fixed;
 	top:30%;	
 }
 
-
 .coin22{
 	width: 60px;
       height:auto;
@@ -652,8 +649,6 @@ margin-top: 6px;
 .last{
   top:77%;	
 }
-	
-	
 }
 
 @media screen and (max-width: 500px) {
@@ -666,7 +661,6 @@ margin-top: 6px;
         margin-right: auto;
          margin-top: 17%;    
 }
-	
 
 	.green1{
   position:fixed;
