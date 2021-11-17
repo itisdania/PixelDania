@@ -25,12 +25,14 @@ html {
   
 }
 
-.image{
-    position:absolute;
-    width:230px;
+.image {
+    position: absolute;
+    width: 2000px;
     top: 55px;
     left: 60px;
-
+    transition-timing-function: ease-in;
+    transition-delay: 0.01s;
+    transition: transform 2s;
 }
 
 .box {
@@ -65,9 +67,6 @@ html {
     top: 5px;
     position: absolute;
 }
-
-
-
 
 
 img {
@@ -115,6 +114,11 @@ body {
     {
       opacity: 0.3;
       filter: alpha(opacity=30);
+    }
+
+    .image:hover {
+        opacity: 0.3;
+        filter: alpha(opacity=30);
     }
 
 .resize2:hover
@@ -168,13 +172,6 @@ body {
         margin-right: auto;
         margin-top: 6%;
     }
-
-
-
-
-
-
-
    
 }
 
@@ -197,7 +194,7 @@ body {
 
     .image {
         position: absolute;
-        width: 210px;
+        width: 200px;
         top: 55px;
         left: 65px;
     }
@@ -223,8 +220,6 @@ body {
         left: 60px;
     }
 }
-
-
 
 
 @media screen and (max-width: 550px) {
@@ -261,9 +256,7 @@ body {
         margin-left: auto;
         margin-right: auto;
         margin-top: 17%;
-    }
-
-    
+    }    
 }
 
 
