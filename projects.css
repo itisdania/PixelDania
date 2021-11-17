@@ -28,8 +28,8 @@ html {
 .image {
     position: absolute;
     width: 200px;
-    top: 65px;
-    left: 70px;
+    top: 80px;
+    left: 75px;
     transition-timing-function: ease-in;
     transition-delay: 0.01s;
     transition: transform 2s;
@@ -195,7 +195,7 @@ body {
     .image {
         position: absolute;
         width: 200px;
-        top: 55px;
+        top: 70px;
         left: 65px;
     }
 }
@@ -221,9 +221,9 @@ span {
 
     .image {
         position: absolute;
-        width: 210px;
-        top: 55px;
-        left: 60px;
+        width: 190px;
+        top: 70px;
+        left: 70px;
     }
 }
 
@@ -247,9 +247,9 @@ span {
 
     .image {
         position: absolute;
-        width: 230px;
-        top: 55px;
-        left: 50px;
+        width: 190px;
+        top: 85px;
+        left: 70px;
     }
 }
 
@@ -285,9 +285,9 @@ span {
 
     .image {
         position: absolute;
-        width: 180px;
-        top: 55px;
-        left: 75px;
+        width: 170px;
+        top: 65px;
+        left: 80px;
     }
 
 }
