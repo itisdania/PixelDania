@@ -25,6 +25,14 @@ html {
   
 }
 
+.image{
+    position:absolute;
+    width:250px;
+    top: 45px;
+    left: 50px;
+
+}
+
 .box {
     width: 60%;
     display: block;
@@ -55,14 +63,18 @@ html {
 
 .top {
     top: 5px;
+    position: absolute;
 }
+
+
+
+
 
 img {
     display: block;
     margin-left: auto;
     margin-right: 10px;
 }
-
 
 body {
     margin: 0;
@@ -157,7 +169,12 @@ body {
         margin-top: 6%;
     }
 
- 
+
+
+
+
+
+
    
 }
 
