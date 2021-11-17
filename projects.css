@@ -27,7 +27,7 @@ html {
 
 .image {
     position: absolute;
-    width: 2000px;
+    width: 200px;
     top: 55px;
     left: 60px;
     transition-timing-function: ease-in;
@@ -198,6 +198,12 @@ body {
         top: 55px;
         left: 65px;
     }
+}
+
+span {
+
+    font-size: 17px;
+
 }
 
 
