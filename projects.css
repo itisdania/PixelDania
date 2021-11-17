@@ -49,6 +49,14 @@ html {
     top: 335px;  
     left: 120px;
 }
+
+.boxup {
+    position: absolute;
+    width: 60%;
+    top: 45px;
+    left: 120px;
+}
+
 span {
     font-size: 14px;
     font-family: 'Orbitron', sans-serif;
@@ -187,6 +195,13 @@ body {
         position: absolute;
         width: 60%;
         top: 330px;
+        left: 125px;
+    }
+
+    .boxup {
+        position: absolute;
+        width: 60%;
+        top: 45px;
         left: 125px;
     }
 
