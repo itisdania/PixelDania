@@ -28,7 +28,7 @@ html {
 .image {
     position: absolute;
     width: 200px;
-    top: 55px;
+    top: 65px;
     left: 70px;
     transition-timing-function: ease-in;
     transition-delay: 0.01s;
