@@ -27,9 +27,9 @@ html {
 
 .image{
     position:absolute;
-    width:250px;
-    top: 45px;
-    left: 50px;
+    width:230px;
+    top: 55px;
+    left: 60px;
 
 }
 
@@ -194,7 +194,13 @@ body {
         margin-left: 25px;
         width: 70px;
     }
-   
+
+    .image {
+        position: absolute;
+        width: 210px;
+        top: 55px;
+        left: 65px;
+    }
 }
 
 
@@ -209,7 +215,13 @@ body {
         margin-top: 11%;
     }
 
-  
+
+    .image {
+        position: absolute;
+        width: 210px;
+        top: 55px;
+        left: 60px;
+    }
 }
 
 
@@ -231,7 +243,13 @@ body {
         margin-left: 15px;
         width: 70px;
     }
-   
+
+    .image {
+        position: absolute;
+        width: 230px;
+        top: 55px;
+        left: 50px;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -265,6 +283,13 @@ body {
         margin-left: 35px;
         width: 70px;
     }
-   
+
+    .image {
+        position: absolute;
+        width: 180px;
+        top: 55px;
+        left: 75px;
+    }
+
 }
     </style >
