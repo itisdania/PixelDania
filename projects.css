@@ -43,6 +43,17 @@ html {
     margin-right: auto;
 }
 
+.boxin {
+    position: absolute;
+    width: 60%;
+    top: 335px;  
+    left: 120px;
+}
+span {
+    font-size: 14px;
+    font-family: 'Orbitron', sans-serif;
+}
+
 .container1 {
     width: 40%;
     max-width: 350px;
@@ -172,6 +183,17 @@ body {
         margin-right: auto;
         margin-top: 6%;
     }
+    .boxin {
+        position: absolute;
+        width: 60%;
+        top: 330px;
+        left: 125px;
+    }
+
+    span {
+        font-size: 14px;
+        font-family: 'Orbitron', sans-serif;
+    }
    
 }
 
@@ -198,13 +220,21 @@ body {
         top: 70px;
         left: 65px;
     }
+
+    .boxin {
+        position: absolute;
+        width: 60%;
+        top: 300px;
+        left: 115px;
+    }
+
+    span {
+        font-size: 14px;
+        font-family: 'Orbitron', sans-serif;
+    }
+
 }
 
-span {
-
-    font-size: 17px;
-
-}
 
 
 @media screen and (max-width: 800px) {
@@ -225,6 +255,19 @@ span {
         top: 70px;
         left: 70px;
     }
+
+    .boxin {
+        position: absolute;
+        width: 60%;
+        top: 300px;
+        left: 115px;
+    }
+
+    span {
+        font-size: 14px;
+        font-family: 'Orbitron', sans-serif;
+    }
+
 }
 
 
@@ -251,6 +294,18 @@ span {
         top: 85px;
         left: 70px;
     }
+
+    .boxin {
+        position: absolute;
+        width: 60%;
+        top: 330px;
+        left: 105px;
+    }
+
+    span {
+        font-size: 14px;
+        font-family: 'Orbitron', sans-serif;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -262,7 +317,19 @@ span {
         margin-left: auto;
         margin-right: auto;
         margin-top: 17%;
-    }    
+    }
+
+    .boxin {
+        position: absolute;
+        width: 60%;
+        top: 330px;
+        left: 115px;
+    }
+
+    span {
+        font-size: 14px;
+        font-family: 'Orbitron', sans-serif;
+    }
 }
 
 
@@ -288,6 +355,18 @@ span {
         width: 170px;
         top: 65px;
         left: 80px;
+    }
+
+    .boxin {
+        position: absolute;
+        width: 60%;
+        top: 270px;
+        left: 115px;
+    }
+
+    span {
+        font-size: 14px;
+        font-family: 'Orbitron', sans-serif;
     }
 
 }
