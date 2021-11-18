@@ -43,6 +43,7 @@ html {
     margin-right: auto;
 }
 
+
 .boxin {
     position: absolute;
     width: 60%;
@@ -50,19 +51,36 @@ html {
     left: 120px;
 }
 
-.topbox {
-    top: 335px;
-}
 
-.topin{
-    top: 340px;
-}
-
-.boxing:hover {
+.boxing {
     position: absolute;
     width: 60%;
     left: 120px;
-    top: 170px;
+    top: 150px;
+    visibility: hidden;
+    transition-delay: .01s;
+    padding-right: 1px;
+    padding-top:1px;
+    padding-left: 1px;
+    width:87px;
+    background-color: yellow;
+}
+
+.img__wrap:hover .boxing {
+    visibility: visible;
+    opacity: 1;
+}
+
+.boxing:hover .image {
+    opacity: 0.2;
+    filter: alpha(opacity=30);
+}
+
+
+
+.image:hover {
+    opacity: 0.2;
+    filter: alpha(opacity=30);
 }
 
 .boxup {
@@ -153,10 +171,6 @@ body {
       filter: alpha(opacity=30);
     }
 
-    .image:hover {
-        opacity: 0.3;
-        filter: alpha(opacity=30);
-    }
 
 .resize2:hover
     {
