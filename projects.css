@@ -62,13 +62,12 @@ html {
     position: absolute;
     width: 60%;
     left: 120px;
+    top: 45px;
 }
 .topdown{
     top:70px;
 }
-.topup{
-    top:45px;
-}
+
 span {
     font-size: 14px;
     font-family: 'Orbitron', sans-serif;
