@@ -58,6 +58,13 @@ html {
     top: 340px;
 }
 
+.boxing {
+    position: absolute;
+    width: 60%;
+    left: 120px;
+    top: 170px;
+}
+
 .boxup {
     position: absolute;
     width: 60%;
