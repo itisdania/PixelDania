@@ -50,13 +50,25 @@ html {
     left: 120px;
 }
 
+.topbox {
+    top: 335px;
+}
+
+.topin{
+    top: 340px;
+}
+
 .boxup {
     position: absolute;
     width: 60%;
-    top: 45px;
     left: 120px;
 }
-
+.topdown{
+    top:70px;
+}
+.topup{
+    top:45px;
+}
 span {
     font-size: 14px;
     font-family: 'Orbitron', sans-serif;
