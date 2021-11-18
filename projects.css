@@ -58,7 +58,7 @@ html {
     top: 340px;
 }
 
-.boxing {
+.boxing:hover {
     position: absolute;
     width: 60%;
     left: 120px;
