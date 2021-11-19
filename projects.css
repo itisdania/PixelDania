@@ -59,6 +59,11 @@ html {
     top: 150px;
     visibility: hidden;
     transition-delay: .01s;
+    padding-right: 1px;
+    padding-top:1px;
+    padding-left: 1px;
+    width:87px;
+    background-color: yellow;
 }
 
 .img__wrap:hover .boxing {
@@ -70,6 +75,8 @@ html {
     opacity: 0.2;
     filter: alpha(opacity=30);
 }
+
+
 
 .image:hover {
     opacity: 0.2;
