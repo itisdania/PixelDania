@@ -19,6 +19,10 @@ min-height: 100%;
 
 }
 
+.container12 a {
+	color: #fff;
+	text-decoration: none;
+}
 #header-nav{
 height: 50px;
   position: fixed;
@@ -462,18 +466,19 @@ margin-right: 35%;
         width: 30%;
         padding:5px;
 }
-	
-span {
-text-align: center;
-font-family: 'Anonymous Pro', monospace; 
-font-size : clamp(1.0rem, 2.50vw, 1.4rem);
-color: #fff;
-width: 100%;
-margin-left: 10%;
-margin-right: 10%;
+
+	span {
+		text-align: center;
+		font-family: 'Anonymous Pro', monospace;
+		font-size: clamp(1.0rem, 2.50vw, 1.4rem);
+		color: #fff;
+		width: 100%;
+		margin-left: 10%;
+		margin-right: 10%;
+		text-decoration: none;
 	}
-	
-	
+
+
 .div {
  display: inline block;
  height: 100%; 
