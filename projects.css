@@ -56,7 +56,7 @@ html {
     position: absolute;
     width: 60%;
     left: 120px;
-    top: 150px;
+    top: 165px;
     visibility: hidden;
     transition-delay: .01s;
     padding-right: 1px;
@@ -241,7 +241,21 @@ body {
         font-size: 14px;
         font-family: 'Orbitron', sans-serif;
     }
-   
+
+
+    .boxing {
+        position: absolute;
+        width: 60%;
+        left: 130px;
+        top: 165px;
+        visibility: hidden;
+        transition-delay: .01s;
+        padding-right: 1px;
+        padding-top: 1px;
+        padding-left: 1px;
+        width: 86px;
+        background-color: yellow;
+    }
 }
 
 @media screen and (max-width: 860px) {
