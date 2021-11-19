@@ -51,6 +51,12 @@ html {
     left: 120px;
 }
 
+.boxin1 {
+    position: absolute;
+    width: 60%;
+    top: 335px;
+    left: 105px;
+}
 
 .boxing {
     position: absolute;
@@ -294,9 +300,13 @@ body {
         font-family: 'Orbitron', sans-serif;
     }
 
+    .boxin1 {
+        position: absolute;
+        width: 60%;
+        top: 300px;
+        left: 105px;
+    }
 }
-
-
 
 @media screen and (max-width: 800px) {
     .title {
@@ -367,6 +377,13 @@ body {
         font-size: 14px;
         font-family: 'Orbitron', sans-serif;
     }
+
+    .boxin1 {
+        position: absolute;
+        width: 60%;
+        top: 330px;
+        left: 105px;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -428,6 +445,13 @@ body {
     span {
         font-size: 14px;
         font-family: 'Orbitron', sans-serif;
+    }
+
+    .boxin1 {
+        position: absolute;
+        width: 60%;
+        top: 275px;
+        left: 105px;
     }
 
 }
