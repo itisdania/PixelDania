@@ -19,9 +19,9 @@ min-height: 100%;
 
 }
 
-.container12:hover {
-	opacity: 0.3;
-	filter: alpha(opacity=30);
+.container12:hover{
+	  opacity: 0.3;
+      filter: alpha(opacity=30);
 }
 
 .container12 a {
@@ -590,5 +590,13 @@ overflow: hidden;
 		position: relative;
 		color: white;
 	}
+
+	.info {
+		margin-left: 8%;
+		margin-right: 35%;
+		position: fixed;
+		top: 80%;
+	}
+}
 
 	</style >
