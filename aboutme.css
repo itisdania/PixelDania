@@ -24,10 +24,12 @@ min-height: 100%;
       filter: alpha(opacity=30);
 }
 
-.container12 a {
+.container12 u {
 	color: #fff;
 	text-decoration: none;
 }
+
+
 #header-nav{
 height: 50px;
   position: fixed;
