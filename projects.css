@@ -9,21 +9,7 @@ html {
     margin: auto;
     overflow-y : scroll;
 }
-.arrow:hover {
-    opacity: 0.2;
-    filter: alpha(opacity=30);
-}
 
-.arrow {
-    position: absolute;
-    justify-content: center;
-    margin: auto;
-    margin-left: 125px;
-    max-width: 100%;
-    min-width: 20px;
-    animation: blink 1.5s;
-    animation-iteration-count: infinite;
-}
 
 
 
