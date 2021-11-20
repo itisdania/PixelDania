@@ -12,7 +12,7 @@ html {
 
 #header-nav {
     height: 50px;
-    position: absolute;
+    position: fixed;
     top: 0;
     display: block;
     width: 100%;
