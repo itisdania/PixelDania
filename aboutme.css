@@ -19,12 +19,12 @@ min-height: 100%;
 
 }
 
-.container12:hover{
+.container12 a:hover{
 	  opacity: 0.3;
       filter: alpha(opacity=30);
 }
 
-.container12 u {
+.container12 a {
 	color: #fff;
 	text-decoration: none;
 }
