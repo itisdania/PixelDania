@@ -18,7 +18,7 @@ html {
     position: absolute;
     justify-content: center;
     margin: auto;
-    margin-left: 0px;
+    margin-left: 15px;
     max-width: 100%;
     min-width: 20px;
     animation: blink 1.5s;
