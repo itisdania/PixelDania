@@ -81,7 +81,7 @@ img {
 
 @media screen and (min-width: 1001px) and (max-width: 1200px) {
  .bg {
- background-image:    src='images/ Web-1280-2';   
+ background-image:    src('images/ Web-1280-2');   
  background-repeat: no-repeat;
  background-size: cover;
   }
