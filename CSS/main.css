@@ -10,7 +10,7 @@ h1 {
 }
 
 .bg{
-   background-image: src='images/HOMEbg.png';
+   background-image: url("images/HOMEbg.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh; 
@@ -81,7 +81,7 @@ img {
 
 @media screen and (min-width: 1001px) and (max-width: 1200px) {
  .bg {
- background-image:    src('images/ Web-1280-2');   
+ background-image: url("images/ Web-1280-2");
  background-repeat: no-repeat;
  background-size: cover;
   }
