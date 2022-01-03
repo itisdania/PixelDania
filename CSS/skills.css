@@ -1,0 +1,758 @@
+<style>
+.bg1{
+  background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  overflow: hidden;
+}
+
+span{
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#header-nav{
+  height: 50px;
+  position: fixed;
+  top: 0;
+  display: block;
+  width: 100%;
+  background: #a6b2c0;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+body {
+  margin: 0; 
+  padding: 0;
+  background-color: #00234b;
+}
+
+.resize{
+  width:40px;
+  height: auto;
+  vertical-align: top;
+  margin-left: auto;
+  margin-right: 10px;
+  position:absolute;
+  top:0;
+  right:0;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+
+.resize:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
+.resize2:hover{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+    }
+
+.resize1{
+  width:40px;
+  height: auto;
+  vertical-align: top;
+  margin-left: 10px;
+  margin-right: auto;
+  position:absolute;
+  top:5px;
+  left:0px;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+.resize2{
+  width:80px;
+  height: auto;
+  vertical-align: top;
+  margin-left: 0px;
+  margin-right: auto;
+  position:absolute;
+  top:7px;
+  left:0px;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+
+.grass{
+  width: 225%;
+  max-width: 1550px;
+}
+
+.footer{
+  position: fixed;
+  top: 90%; 
+  width: 100%;
+}
+
+@media screen and (min-width: 801px) {
+	
+.title{
+  width: 40%;
+  max-width: 405px;
+  min-width: 330px;
+  display: block;
+  margin-top: 5px;
+  margin-left: auto;     
+  margin-right: auto;
+  margin-top: 5%;    
+}
+
+.font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 13px;
+ text-align: center;
+ margin-top: 12px;
+}	
+
+	.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 13px;
+ text-align: center;
+ margin-top: 12px;
+}
+.green1{
+  position:fixed;
+  margin-left: 9%;
+  width: 170px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 44%;
+  width: 170px;	
+}
+
+.top{
+  top:35%;
+}
+
+.middle{
+  top:55%;	
+}
+
+.last{
+  top:75%;	
+}
+	
+.coin21{
+  width: 80px;
+  height:auto;
+  margin-left: 35%;
+  margin-right: auto;
+  position:fixed;
+  top:30%;	
+}
+	
+.coin22{
+  width: 80px;
+  height:auto;
+  display: block;
+  margin-left: 35%;
+  margin-right: auto;
+  position:fixed;
+  top:50%;	
+}
+.coin23{
+  width: 80px;
+  height:auto;
+  margin-left: 35%;;
+  margin-right: auto;
+  position:fixed;
+  top:70%;	
+}
+.Cp{
+ position:fixed;
+	top:50%;
+	margin-left: 43%;
+	}
+.C{
+  position:fixed;
+  top:30%;
+  margin-left: 43%;
+	}	
+	
+.game{
+  position:fixed;
+  top:70%;
+  margin-left: 43%;
+	}
+	
+.web{
+ position:fixed;
+	top:30%;
+	margin-left: 8%;
+	}
+.UX{
+ position:fixed;
+ top:50%;
+ margin-left: 8%;
+	}
+.threeD{
+  position:fixed;
+  top:70%;
+  margin-left: 8%;
+}
+.coin{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+
+.coin1{
+	width: 80px;
+      position:fixed;
+	top:50%;
+	display:block;
+}
+	
+.coin2{
+	width: 80px;
+      position:fixed;
+	top:70%;
+	display:block;
+}
+	
+.container{
+height: 60%;	
+margin-left: 5%;	
+width: 30%;
+}
+
+.container2{
+height: 70%;	
+margin-left: 70%;	
+width: 30%;
+}
+
+.container3{
+height: 70%;	
+margin-left: 80%;	
+width: 30%;
+}	
+
+.container4{
+  height: 70%;	
+  margin-left: 90%;	
+  width: 30%;
+}
+	
+.coin51{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}	
+	
+	.coin52{
+	width: 80px;
+      position:fixed;
+	top:50%;
+	display:block;
+}	
+.coin53{
+	width: 80px;
+      position:fixed;
+	top:70%;
+	display:block;
+}	
+.coin41{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}	
+
+	.coin42{
+	width: 80px;
+      position:fixed;
+	top:50%;
+	display:block;
+}
+	
+	.coin43{
+	width: 80px;
+      position:fixed;
+	top:70%;
+	display:block;
+}
+	
+.coin31{
+	width: 80px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+
+.coin32{
+	width: 80px;
+      position:fixed;
+	top:50%;
+	display:block;
+}
+
+.coin33{
+	width: 80px;
+      position:fixed;
+	top:70%;
+	display:block;
+}
+}
+
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+.title{
+	width: 40%;
+	max-width: 400px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 8%;    
+}
+}
+@media screen and (max-width: 800px) {
+.title{
+	width: 40%;
+	max-width: 380px;
+	min-width: 300px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 11%;    
+}
+
+.font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 11px;
+ text-align: center;
+ margin-top: 7px;
+}
+	.green1{
+  position:fixed;
+  margin-left: 14%;
+  width: 150px;
+}
+
+	.green3{
+  position:fixed;
+  margin-left: 13%;
+  width: 150px;
+}	
+	
+.green2{
+  position:fixed;
+  margin-left: 69%;
+  width: 150px;	
+}
+
+.top{
+  top:35%;
+}
+
+.middle{
+  top:57%;	
+}
+
+.last{
+  top:76%;	
+}
+.last1{
+  top:77%;	
+}	
+.coin21
+{
+	width: 60px;
+      height:auto;
+  margin-left: 55%;
+  margin-right: auto;
+position:fixed;
+	top:30%;	
+}
+	.C{
+ position:fixed;
+	top:30%;
+	margin-left: 68%;
+	}
+
+.coin22{
+	width: 60px;
+      height:auto;
+	  display: block;
+  margin-left: 55%;
+  margin-right: auto;
+position:fixed;
+	top:50%;	
+}
+	
+.Cp{
+        position:fixed;
+	top:50%;
+	margin-left: 68%;
+	font: 10px;
+		
+	}	
+
+.coin23{
+ width: 60px;
+ height:auto;
+ margin-left: 55%;;
+ margin-right: auto;
+position:fixed;
+	top:70%;	
+}
+
+	.game{
+ position:fixed;
+	top:70%;
+	margin-left: 68%;
+	}
+	
+.web{
+ position:fixed;
+	top:30%;
+	margin-left: 13%;
+	}
+.coin{
+	width: 60px;
+      position:fixed;
+	top:30%;
+	display:block;
+}
+
+.UX{
+  position:fixed;
+	top:50%;
+	margin-left: 13%;
+	}
+.coin1{
+	width: 60px;
+      position:fixed;
+	top:50%;
+	display:block;
+}
+ .threeD{
+ position:fixed;
+	top:70%;
+	top-margin:10px;
+	margin-left: 13%;
+	}
+	
+.coin2{
+	width: 60px;
+      position:fixed;
+	top:70%;
+	display:block;
+}
+	
+.container{
+height: 60%;	
+margin-left: 10%;	
+width: 30%;
+}
+
+.container2{
+height: 70%;	
+margin-left: 70%;	
+width: 30%;
+}
+	
+.coin41{display: none;}
+.coin42{display: none;}
+.coin43{display: none;}
+.coin51{display: none;}
+.coin52{display: none;}
+.coin53{display: none;}		
+.coin31{display: none;}
+.coin32{display: none;}
+.coin33{display: none;}
+
+span{
+color: white;
+font-family: 'Orbitron', sans-serif;
+	font-size : 12px;
+}
+	.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 11px;
+ text-align: center;
+
+}
+}
+	
+@media screen and (max-width: 550px) {
+.title{
+	width: 40%;
+	max-width: 380px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 11%;    
+}
+	.font{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 9px;
+ text-align: center;
+
+}
+	.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 9px;
+ text-align: center;
+
+}
+.container{
+height: 60%;	
+margin-left: 3%;	
+width: 30%;
+}
+
+.container2{
+height: 70%;	
+margin-left: 65%;	
+width: 30%;
+}
+
+	.green1{
+  position:fixed;
+  margin-left: 14%;
+  width: 140px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 69%;
+  width: 140px;	
+}	
+	
+.C{
+ position:fixed;
+	top:30%;
+	margin-left: 71%;
+	}
+	
+.Cp{
+ position:fixed;
+	top:50%;
+	margin-left: 71%;
+	}
+
+.game{
+ position:fixed;
+	top:70%;
+	margin-left: 71%;
+	}
+	
+.web{
+ position:fixed;
+	top:30%;
+	margin-left: 16%;
+	}
+	
+.UX{
+  position:fixed;
+	top:50%;
+	margin-left: 16%;
+	}
+
+	.threeD {
+		position: fixed;
+		top: 70%;
+		margin-left: 16%;
+		margin-top: 10px;
+	}
+	
+	.coin21{
+	width: 60px;
+      height:auto;
+  margin-left: 55%;
+  margin-right: auto;
+position:fixed;
+	top:30%;	
+}
+
+.coin22{
+	width: 60px;
+      height:auto;
+	  display: block;
+  margin-left: 55%;
+  margin-right: auto;
+position:fixed;
+	top:50%;	
+}
+	
+.coin23{
+	width: 60px;
+      height:auto;
+  margin-left: 55%;;
+  margin-right: auto;
+position:fixed;
+	top:70%;	
+}
+	
+span{
+color: white;
+font-family: 'Orbitron', sans-serif;
+	font-size : 13px;
+}	
+}
+
+@media screen and (max-width: 484px) {
+
+	.green1{
+  position:fixed;
+  margin-left: 16%;
+  width: 130px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 71%;
+  width: 130px;	
+}
+
+.font1{
+color: white;
+font-family: 'Orbitron', sans-serif;
+font-size : 8px;
+ text-align: center;
+margin-top: 6px;
+
+}
+	
+.top{
+  top:37%;
+}
+
+.middle{
+  top:57%;	
+}
+
+.last{
+  top:77%;	
+}
+}
+
+@media screen and (max-width: 500px) {
+.title{
+	width: 40%;
+	max-width: 380px;
+	min-width: 330px;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+         margin-top: 17%;    
+}
+
+	.green1{
+  position:fixed;
+  margin-left: 17%;
+  width: 105px;
+}
+
+.green2{
+  position:fixed;
+  margin-left: 69%;
+  width: 105px;	
+}
+	
+.container{
+height: 60%;	
+margin-left: 0%;	
+width: 30%;
+}
+
+.container2{
+height: 70%;	
+margin-left: 65%;	
+width: 30%;
+}
+	
+.C{
+ position:fixed;
+	top:30%;
+	margin-left: 71%;
+}
+	
+.Cp{
+ position:fixed;
+	top:50%;
+	margin-left: 71%;
+}
+
+.game{
+ position:fixed;
+	top:70%;
+	margin-left: 71%;
+}	
+
+.web{
+ position:fixed;
+	top:30%;
+	margin-left: 16%;
+}
+	
+ .UX{
+ position:fixed;
+	top:50%;
+	margin-left: 16%;
+}
+
+.threeD{
+  position:fixed;
+  top:70%;
+  margin-left: 16%;
+}
+	
+.coin21{
+  width: 60px;
+  height:auto;
+  margin-left: 52%;
+  margin-right: auto;
+  position:fixed;
+  top:30%;	
+}
+
+.coin22{
+  width: 60px;
+   height:auto;
+  display: block;
+  margin-left: 52%;
+  margin-right: auto;
+  position:fixed;
+	top:50%;	
+}
+	
+.coin23{
+	width: 60px;
+      height:auto;
+  margin-left: 52%;;
+  margin-right: auto;
+position:fixed;
+	top:70%;	
+}
+span{
+color: white;
+font-family: 'Orbitron', sans-serif;
+	font-size : 12px;
+}
+}
+</style>
