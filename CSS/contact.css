@@ -1,0 +1,268 @@
+<style>
+
+
+bg1{
+  background-image:    url('https://i.ibb.co/gMvx2Gr/00234b-adobespark.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; 
+  overflow: hidden;
+}
+#header-nav{
+	height: 50px;
+  position: fixed;
+  top: 0;
+  display: block;
+  width: 100%;
+  background: #a6b2c0;
+
+}
+img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.footer
+{
+	position: fixed;
+        top: 70%;	
+	right: 70%;
+	 width: 100%;
+}
+
+.pixel
+{
+	max-width: 130px;
+	min-width: 100px;
+	
+}	
+
+
+ body {
+  margin: 0; 
+  padding: 0;
+background-color: #00234b;
+}
+
+.resize{
+  width:40px;
+  height: auto;
+  vertical-align: top;
+  margin-left: auto;
+  margin-right: 10px;
+  position:absolute;
+  top:0;
+  right:0;
+  max-width:100%;
+  max-height:199%;
+	 background: #a6b2c0;
+}
+
+.background
+{
+	width: 300px;
+	 margin-left: auto;
+  margin-right: auto;
+    }
+	    
+	    
+.resize:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
+.resize2:hover
+    {
+      opacity: 0.3;
+      filter: alpha(opacity=30);
+    }
+
+.resize1{
+  width:40px;
+  height: auto;
+  vertical-align: top;
+  margin-left: 10px;
+  margin-right: auto;
+  position:absolute;
+  top:5px;
+  left:0px;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+.resize2{
+  width:80px;
+  height: auto;
+  vertical-align: top;
+  margin-left: 0px;
+  margin-right: auto;
+  position:absolute;
+  top:7px;
+  left:0px;
+  max-width:100%;
+  max-height:199%;
+  background: #a6b2c0;
+}
+
+.container {
+  position: absolute;
+  top:230px;
+  margin-left: 25%;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+}
+
+.email
+{
+  text-decoration: none;
+ font-size: 23px;
+ color: black;	
+ position: absolute;
+ top: 31%;
+ left: 53%;
+ transform: translate(-50%, -50%);
+	  font-family: 'Orbitron', sans-serif;
+}
+
+.container a:hover {
+  text-decoration: none;
+
+}
+
+.container a {
+  text-decoration-color: black;
+}
+
+
+span{
+	color: black;
+  text-decoration: none;
+	  font-family: 'Orbitron', sans-serif;
+}
+
+.header{
+	width: 40%;
+	max-width: 450px;
+	min-width: 330px;
+	display: block;
+	text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+       }
+
+@media screen and (max-width:550px)
+{
+	
+.header{
+	width: 40%;
+	max-width: 450px;
+	min-width: 330px;
+	display: block;
+	text-align: center;
+        margin-left: 14%;
+        margin-right: auto;
+       }
+	
+}
+
+@media screen and (max-width:450px) {
+
+	.header {
+		width: 40%;
+		max-width: 450px;
+		min-width: 330px;
+		display: block;
+		text-align: center;
+		margin-left: 12%;
+		margin-right: auto;
+	}
+}
+
+@media screen and (max-width:400px)
+{
+	
+.header{
+	width: 40%;
+	max-width: 450px;
+	min-width: 330px;
+	display: block;
+	text-align: center;
+        margin-left: 6%;
+        margin-right: auto;
+       }
+	.container {
+  position: absolute;
+  top:230px;
+  margin-left: 22%;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+}
+}
+h2 {
+ top: 3%;
+
+}
+
+p{
+	text-decoration: none;
+	text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+#contact {
+}
+
+  #contact h2 {
+    color: white;
+}
+
+.contact-social-icons p {
+  color: white; 
+}
+
+.contact-social-icons p :hover {
+      padding-right: 20px;
+	
+ }
+
+
+.contact-social-icons ul a {
+        color: white;
+        list-style: none; }
+
+  .contact-social-icons ul a:hover {
+    color: #f0f0e6;
+                                   }
+
+  .contact-social-icons ul a li {
+    display: inline-block;
+    padding: 2%; }
+
+
+.cover.bottom {
+	top:10%;
+        padding: 10% 0 10% 0; 
+        text-align: center;
+              }
+
+
+@media screen and (max-width:370px) {
+
+	.header {
+		width: 40%;
+		max-width: 450px;
+		min-width: 330px;
+		display: block;
+		text-align: center;
+		margin-left: 4%;
+		margin-right: auto;
+	}
+}
+
+	</style >
