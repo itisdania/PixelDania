@@ -10,7 +10,7 @@ h1 {
 }
 
 .bg{
-   background-image: url('https://i.ibb.co/PGkzd3Q/HOME.png');
+   background-image: "images/HOMEbg.png"
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh; 
