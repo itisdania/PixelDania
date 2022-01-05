@@ -4,18 +4,16 @@
 h1 {
   text-align: center;
 }
-
 .responsive:hover {
   background-color: yellow;
 }
 
 .bg{
-   background-image: url("images/HOMEbg.png");
+   background-image: url('https://i.ibb.co/PGkzd3Q/HOME.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh; 
   overflow: hidden;
-
 }
 img {
   
@@ -23,18 +21,15 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-
 .responsive1{
   width:740px;
   height: auto;
  
 }
-
 .responsive{
   width:350px;
   height: auto;
 }
-
 @media screen and (max-width:600px)
 {
     .bg {
@@ -58,7 +53,6 @@ img {
   
   
 }
-
 @media screen and (min-width: 601px) and (max-width:1000px) {
  .bg {
  background-image:      url('https://i.ibb.co/Xz5w0YP/Untitled-4ii-1.png');
@@ -74,14 +68,9 @@ img {
   height: auto;
 }
 } 
-
-
-
-
-
 @media screen and (min-width: 1001px) and (max-width: 1200px) {
  .bg {
- background-image: url('images/ Web-1280-2');
+ background-image:      url('https://i.ibb.co/7CMNpmr/Web-1280-2.png');
  background-repeat: no-repeat;
  background-size: cover;
   }
@@ -94,8 +83,6 @@ img {
   height: auto;
 }
 }
-
-
 @media screen and (max-width: 350px) 
 {
     .responsive1 {
@@ -103,14 +90,7 @@ img {
         height: auto;
         align: center;
     }
-
 }
-
-
-
-
-
-
 #content {
     position: relative;
 }
@@ -122,5 +102,4 @@ img {
         max-width: 170px;
         height: auto; 
     }
-
   </style>
