@@ -34,7 +34,7 @@ img {
 {
     .bg {
         background: 00234b;
-        background-image: url('https://i.ibb.co/Xz5w0YP/Untitled-4ii-1.png');
+        background-image: url("stars.png");
         background-repeat: no-repeat;
         height: 100vh;
         background-position: bottom;
@@ -55,7 +55,7 @@ img {
 }
 @media screen and (min-width: 601px) and (max-width:1000px) {
  .bg {
- background-image:      url('https://i.ibb.co/Xz5w0YP/Untitled-4ii-1.png');
+ background-image:      url("stars2.png");
  background-repeat: no-repeat;
  background-size: cover;
   }
@@ -70,7 +70,7 @@ img {
 } 
 @media screen and (min-width: 1001px) and (max-width: 1200px) {
  .bg {
- background-image:      url('https://i.ibb.co/7CMNpmr/Web-1280-2.png');
+ background-image:      url("clouds.png");
  background-repeat: no-repeat;
  background-size: cover;
   }
